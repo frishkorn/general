@@ -7,6 +7,8 @@
 import json
 from random import randint
 
+answer_letter = {0:"A", 1:"B", 2:"C", 3:"D"}
+
 # JSON write function (pretty print).
 def write_json(data, filename='data.json'):
     with open(filename,'w') as f:
@@ -16,6 +18,12 @@ def write_json(data, filename='data.json'):
 def get_random(length):
     value = randint(1, length)
     return value
+
+def random_question():
+    index = get_random(pool_len)
+    print("\n" + pool['question_pool'][index - 1]['question_id'])
+    print(pool['question_pool'][index - 1]['question'])
+    return index
 
 # Ask user if they want to add questions / answers. Print header.
 # TO:DO - Make header generic and move into data.json file.
@@ -31,7 +39,6 @@ while selection == "y":
 
     # Ask user to input answers A - D.
     answer_list = []
-    answer_letter = {0:"A", 1:"B", 2:"C", 3:"D"}
     for x in range(4):
         letter = answer_letter[x]
         answer = input("Answer %s: " % (letter))
@@ -75,6 +82,9 @@ if selection == "r":
         print(answer + ": " + pool['question_pool'][index - 1]['answers'][0][answer])
         another = input("\nAnother review question? (Y/N): ").lower()
 else:
-    print("Found P")
+    # Pick a random question and ask user to answer it.
+    index = random_question()
+    for x in range(4):
+        letter = answer_letter[x]
+        print(letter + ": " + pool['question_pool'][index - 1]['answers'][0][letter])
 
-# Pick a random question and ask user to answer it.
