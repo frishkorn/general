@@ -2,7 +2,7 @@
 
 # exam.py
 # C. Frishkorn 04/28/2020
-# version: 0.0.10
+# version: 0.0.11
 # ------------------------
 import json
 from random import randint
@@ -17,11 +17,15 @@ def get_random(length):
     value = randint(1, length)
     return value
 
-# Ask user if they want to add questions / answers.
-print("2019-2023 General Class Pool")
-print("2nd & Final Public Release with Errata - March 15, 2019")
+# Ask user if they want to add questions / answers. Print header.
+# TO:DO - Make header generic and move into data.json file.
+print("\n2019-2023 General Class Pool")
+print("2nd & Final Public Release with Errata - March 15, 2019\n")
 selection = input("Would you like to enter new questions? (Y/N): ").lower()
 while selection == "y":
+    # Ask user to input the question id.
+    question_id = input("Question ID: ")
+
     # Ask user to input the question.
     question = input("Question: ")
 
@@ -35,7 +39,7 @@ while selection == "y":
     correct = input("Which answer is correct?: ").upper()
     
     # Save Q&A to a JSON formatted file.
-    question_data = {'question':question,'answers':[{"A":answerList[0], "B":answerList[1], "C":answerList[2], "D":answerList[3]}],'right_answer':correct}
+    question_data = {'question_id':question_id,'question':question,'answers':[{"A":answerList[0], "B":answerList[1], "C":answerList[2], "D":answerList[3]}],'right_answer':correct}
     
     # Append new questions to data.json.
     with open('data.json') as json_file:
@@ -54,25 +58,21 @@ with open('data.json', 'r') as f:
 
 # Get length of question pool.
 pool_len = len(pool['question_pool'])
-print("There are %d total questions in the pool." % (pool_len))
-
-# for question in pool:
-    # print(pool)
-    # print(pool['question_pool'][1])
+print("There are %d total questions in the pool.\n" % (pool_len))
 
 # Ask user if they would like to review or take practice exam.
 selection = input("Would you like to practice or review? (P/R): ").lower()
 if selection == "r":
+    # Show review questions until user selects no.
     another = "y"
     while another == "y":
         index = get_random(pool_len)
+        print("\n" + pool['question_pool'][index - 1]['question_id'])
         print(pool['question_pool'][index - 1]['question'])
         answer = pool['question_pool'][index - 1]['right_answer']
         print(answer + ": " + pool['question_pool'][index - 1]['answers'][0][answer])
-        another = input("Another review question? (Y/N): ").lower()
+        another = input("\nAnother review question? (Y/N): ").lower()
 else:
     print("Found P")
-
-
 
 # Pick a random question and ask user to answer it.

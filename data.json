@@ -1,6 +1,7 @@
 {
     "question_pool": [
         {
+            "question_id": "G1A01",
             "question": "On which HF/MF bands is a General class license holder granted all amateur frequency privileges?",
             "answers": [
                 {
@@ -11,6 +12,19 @@
                 }
             ],
             "right_answer": "C"
+        },
+        {
+            "question_id": "G1A02",
+            "question": "On which of the following bands is phone operation prohibited?",
+            "answers": [
+                {
+                    "A": "160 meters",
+                    "B": "30 meters",
+                    "C": "17 meters",
+                    "D": "12 meters"
+                }
+            ],
+            "right_answer": "B"
         }
     ]
 }
