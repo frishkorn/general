@@ -103,6 +103,32 @@
                 }
             ],
             "right_answer": "C"
+        },
+        {
+            "question_id": "G1A09",
+            "question": "Which of the following frequencies is within the General class portion of the 15-meter band?",
+            "answers": [
+                {
+                    "A": "14250 kHz",
+                    "B": "18155 kHz",
+                    "C": "21300 kHz",
+                    "D": "24900 kHz"
+                }
+            ],
+            "right_answer": "C"
+        },
+        {
+            "question_id": "G1A10",
+            "question": "Which of the following frequencies is available to a control operator holding a General class license?",
+            "answers": [
+                {
+                    "A": "28.020 MHz",
+                    "B": "28.350 MHz",
+                    "C": "28.550 MHz",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "D"
         }
     ]
 }
