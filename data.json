@@ -64,6 +64,45 @@
                 }
             ],
             "right_answer": "A"
+        },
+        {
+            "question_id": "G1A06",
+            "question": "Which of the following frequencies is within the General class portion of the 75-meter phone band?",
+            "answers": [
+                {
+                    "A": "1875 kHz",
+                    "B": "3750 kHz",
+                    "C": "3900 kHz",
+                    "D": "4005 kHz"
+                }
+            ],
+            "right_answer": "C"
+        },
+        {
+            "question_id": "G1A07",
+            "question": "Which of the following frequencies is within the General class portion of the 20-meter phone band?",
+            "answers": [
+                {
+                    "A": "14005 kHz",
+                    "B": "14105 kHz",
+                    "C": "14305 kHz",
+                    "D": "14405 kHz"
+                }
+            ],
+            "right_answer": "C"
+        },
+        {
+            "question_id": "G1A08",
+            "question": "Which of the following frequencies is within the General class portion of the 80-meter band?",
+            "answers": [
+                {
+                    "A": "1855 kHz",
+                    "B": "2560 kHz",
+                    "C": "3560 kHz",
+                    "D": "3650 kHz"
+                }
+            ],
+            "right_answer": "C"
         }
     ]
 }
