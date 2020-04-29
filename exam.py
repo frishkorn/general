@@ -2,7 +2,7 @@
 
 # exam.py
 # C. Frishkorn 04/28/2020
-# version: 0.0.5
+# version: 0.0.8
 # ------------------------
 import json
 
@@ -12,6 +12,8 @@ def write_json(data, filename='data.json'):
         json.dump(data, f, indent=4)
 
 # Ask user if they want to add questions / answers.
+print("2019-2023 General Class Pool")
+print("2nd & Final Public Release with Errata - March 15, 2019")
 selection = input("Would you like to enter new questions? (Y/N): ")
 while selection == "Y":
     # Ask user to input the question.
@@ -46,10 +48,19 @@ with open('data.json', 'r') as f:
 
 # Get length of question pool.
 pool_len = len(pool['question_pool'])
-print("There are %d questions in the pool." % (pool_len))
+print("There are %d total questions in the pool." % (pool_len))
 
 # for question in pool:
     # print(pool)
     # print(pool['question_pool'][1])
+
+# Ask user if they would like to review or take practice exam.
+selection = input("Would you like to practice or review? (P/R): ")
+print(selection)
+
+
+
+
+
 
 # Pick a random question and ask user to answer it.
