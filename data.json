@@ -129,6 +129,58 @@
                 }
             ],
             "right_answer": "D"
+        },
+        {
+            "question_id": "G1A11",
+            "question": "When General class licensees are not permitted to use the entire voice portion of a band, which portion of the voice segment is generally available to them?",
+            "answers": [
+                {
+                    "A": "The lower frequency end",
+                    "B": "The upper frequency end",
+                    "C": "The lower frequency end on frequencies below 7.3 MHz, and the upper end on frequencies above 14.150 MHz",
+                    "D": "The upper frequency end on frequencies below 7.3 MHz, and the lower end on frequencies above 14.150 MHz"
+                }
+            ],
+            "right_answer": "B"
+        },
+        {
+            "question_id": "G1A12",
+            "question": "Which of the following applies when the FCC rules designate the Amateur Service as a secondary user on a band?",
+            "answers": [
+                {
+                    "A": "Amateur stations must record the call sign of the primary service station before operating on a frequency assigned to that station",
+                    "B": "Amateur stations can use the band only during emergencies",
+                    "C": "Amateur stations can use the band only if they do not cause harmful interference to primary users",
+                    "D": "Amateur stations may only operate during specific hours of the day, while primary users are permitted 24- hour use of the band"
+                }
+            ],
+            "right_answer": "C"
+        },
+        {
+            "question_id": "G1A13",
+            "question": "What is the appropriate action if, when operating on either the 30-meter or 60-meter bands, a station in the primary service interferes with your contact?",
+            "answers": [
+                {
+                    "A": "Notify the FCCs regional Engineer in Charge of the interference",
+                    "B": "Increase your transmitter\u2019s power to overcome the interference",
+                    "C": "Attempt to contact the station and request that it stop the interference",
+                    "D": "Move to a clear frequency or stop transmitting"
+                }
+            ],
+            "right_answer": "D"
+        },
+        {
+            "question_id": "G1A14",
+            "question": "Which of the following may apply in areas under FCC jurisdiction outside of ITU Region 2?",
+            "answers": [
+                {
+                    "A": "Station identification may have to be in a language other than English",
+                    "B": "Morse code may not be permitted",
+                    "C": "Digital transmission may not be permitted",
+                    "D": "Frequency allocations may differ"
+                }
+            ],
+            "right_answer": "D"
         }
     ]
 }
