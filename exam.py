@@ -9,6 +9,11 @@ from random import randint
 
 answer_letter = {0:"A", 1:"B", 2:"C", 3:"D"}
 
+class bcolors:
+    WARNING = '\033[93m'
+    BOLD = '\033[1m'
+    ENDC = '\033[0m'
+
 # JSON write function (pretty print).
 def write_json(data, filename='data.json'):
     with open(filename,'w') as f:
@@ -91,7 +96,7 @@ else:
         entry = input("\nWhat is the correct answer?: ").upper()
         selection = entry
         if entry == answer:
-            print("Correct!")
+            print(bcolors.BOLD + "Correct!" + bcolors.ENDC)
         else:
-            print("\nSorry the correct answer was %s." % (answer))
+            print(bcolors.WARNING + "\nSorry the correct answer was %s." % (answer) + bcolors.ENDC)
 
