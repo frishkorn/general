@@ -24,22 +24,24 @@ print("2nd & Final Public Release with Errata - March 15, 2019\n")
 selection = input("Would you like to enter new questions? (Y/N): ").lower()
 while selection == "y":
     # Ask user to input the question id.
-    question_id = input("Question ID: ")
+    question_id = input("\nQuestion ID: ")
 
     # Ask user to input the question.
     question = input("Question: ")
 
     # Ask user to input answers A - D.
-    answerList = []
+    answer_list = []
+    answer_letter = {0:"A", 1:"B", 2:"C", 3:"D"}
     for x in range(4):
-        answer = input("Answer: ")
-        answerList.append(answer)
+        letter = answer_letter[x]
+        answer = input("Answer %s: " % (letter))
+        answer_list.append(answer)
 
     # Ask user which one is the right answer.
     correct = input("Which answer is correct?: ").upper()
     
     # Save Q&A to a JSON formatted file.
-    question_data = {'question_id':question_id,'question':question,'answers':[{"A":answerList[0], "B":answerList[1], "C":answerList[2], "D":answerList[3]}],'right_answer':correct}
+    question_data = {'question_id':question_id,'question':question,'answers':[{"A":answer_list[0], "B":answer_list[1], "C":answer_list[2], "D":answer_list[3]}],'right_answer':correct}
     
     # Append new questions to data.json.
     with open('data.json') as json_file:
@@ -50,7 +52,7 @@ while selection == "y":
     write_json(file_data)
 
     # Ask user if they would like to enter another question / answer.
-    selection = input("Would you like to add another question? (Y/N): ").lower()
+    selection = input("\nWould you like to add another question? (Y/N): ").lower()
     
 # Load questions file.
 with open('data.json', 'r') as f:
@@ -58,7 +60,7 @@ with open('data.json', 'r') as f:
 
 # Get length of question pool.
 pool_len = len(pool['question_pool'])
-print("There are %d total questions in the pool.\n" % (pool_len))
+print("\nThere are %d total questions in the pool.\n" % (pool_len))
 
 # Ask user if they would like to review or take practice exam.
 selection = input("Would you like to practice or review? (P/R): ").lower()
