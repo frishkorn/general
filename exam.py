@@ -41,5 +41,15 @@ while selection == "Y":
     selection = input("Would you like to add another question? (Y/N): ")
     
 # Load questions file.
+with open('data.json', 'r') as f:
+    pool = json.load(f)
+
+# Get length of question pool.
+pool_len = len(pool['question_pool'])
+print("There are %d questions in the pool." % (pool_len))
+
+# for question in pool:
+    # print(pool)
+    # print(pool['question_pool'][1])
 
 # Pick a random question and ask user to answer it.
