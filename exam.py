@@ -2,9 +2,14 @@
 
 # exam.py
 # C. Frishkorn 04/28/2020
-# version: 0.0.3
+# version: 0.0.5
 # ------------------------
 import json
+
+# JSON write function (pretty print).
+def write_json(data, filename='data.json'):
+    with open(filename,'w') as f:
+        json.dump(data, f, indent=4)
 
 # Ask user if they want to add questions / answers.
 selection = input("Would you like to enter new questions? (Y/N): ")
@@ -22,16 +27,19 @@ while selection == "Y":
     correct = input("Which answer is correct?: ")
     
     # Save Q&A to a JSON formatted file.
-    data = {}
-    data = {'question':question,'answers':[{'A':answerList[0],'B':answerList[1],'C':answerList[2],'D':answerList[3]}],'right_answer':correct}
-    with open('question_file.gef', 'a+') as outFile:
-        json.dump(data, outFile)
+    question_data = {'question':question,'answers':[{'A':answerList[0],'B':answerList[1],'C':answerList[2],'D':answerList[3]}],'right_answer':correct}
+    
+    # Append new questions to data.json.
+    with open('data.json') as json_file:
+        file_data = json.load(json_file)
+        temp = file_data['question_pool']
+        temp.append(question_data)
 
-        print(json.dumps(data, sort_keys=True, indent=4))
+    write_json(file_data)
 
-        # Ask user if they would like to enter another question / answer.
-        selection = input("Would you like to add another question? (Y/N): ")
- 
+    # Ask user if they would like to enter another question / answer.
+    selection = input("Would you like to add another question? (Y/N): ")
+    
 # Load questions file.
 
 # Pick a random question and ask user to answer it.
