@@ -80,18 +80,17 @@ if selection == "r":
         print(answer + ": " + pool['question_pool'][index - 1]['answers'][0][answer])
         another = input("\nAnother review question? (Y/N): ").lower()
 else:
-    # Continue picking random questions to quiz the user requests otherwise.
-    another = "y"
-    while another == "y":
+    # Continue picking random questions to quiz the user enters the answer X.
+    while selection != "X":
         index = random_question()
         answer = pool['question_pool'][index - 1]['right_answer']
         for x in range(4):
             letter = answer_letter[x]
             print(letter + ": " + pool['question_pool'][index - 1]['answers'][0][letter])
-        entry = input("\nWhat is the correct answer?: ")
+        entry = input("\nWhat is the correct answer?: ").upper()
+        selection = entry
         if entry == answer:
-            print("Right!")
+            print("Correct!")
         else:
-            print("Wrong!")
-        another = input("\nContinue?: ").lower()
+            print("\nSorry the correct answer was %s." % (answer))
 
