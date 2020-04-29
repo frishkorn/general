@@ -51,6 +51,19 @@
                 }
             ],
             "right_answer": "D"
+        },
+        {
+            "question_id": "G1A05",
+            "question": "Which of the following frequencies is in the General class portion of the 40-meter band in ITU Region 2?",
+            "answers": [
+                {
+                    "A": "7.250 MHz",
+                    "B": "7.500 MHz",
+                    "C": "40.200 MHz",
+                    "D": "40.500 MHz"
+                }
+            ],
+            "right_answer": "A"
         }
     ]
 }
