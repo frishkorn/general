@@ -11,30 +11,6 @@
                 }
             ],
             "right_answer": "C"
-        },
-        {
-            "question": "On which of the following bands is phone operation prohibited?",
-            "answers": [
-                {
-                    "A": "160 meters",
-                    "B": "30 meters",
-                    "C": "17 meters",
-                    "D": "12 meters"
-                }
-            ],
-            "right_answer": "B"
-        },
-        {
-            "question": "On which of the following bands is image transmission prohibited?",
-            "answers": [
-                {
-                    "A": "160 meters",
-                    "B": "30 meters",
-                    "C": "20 meters",
-                    "D": "12 meters"
-                }
-            ],
-            "right_answer": "B"
         }
     ]
 }

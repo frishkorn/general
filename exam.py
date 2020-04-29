@@ -2,7 +2,7 @@
 
 # exam.py
 # C. Frishkorn 04/28/2020
-# version: 0.0.9
+# version: 0.0.10
 # ------------------------
 import json
 from random import randint
@@ -35,7 +35,7 @@ while selection == "y":
     correct = input("Which answer is correct?: ").upper()
     
     # Save Q&A to a JSON formatted file.
-    question_data = {'question':question,'answers':[{'A':answerList[0],'B':answerList[1],'C':answerList[2],'D':answerList[3]}],'right_answer':correct}
+    question_data = {'question':question,'answers':[{"A":answerList[0], "B":answerList[1], "C":answerList[2], "D":answerList[3]}],'right_answer':correct}
     
     # Append new questions to data.json.
     with open('data.json') as json_file:
@@ -63,8 +63,13 @@ print("There are %d total questions in the pool." % (pool_len))
 # Ask user if they would like to review or take practice exam.
 selection = input("Would you like to practice or review? (P/R): ").lower()
 if selection == "r":
-     index = get_random(pool_len)
-     print(pool['question_pool'][index - 1])
+    another = "y"
+    while another == "y":
+        index = get_random(pool_len)
+        print(pool['question_pool'][index - 1]['question'])
+        answer = pool['question_pool'][index - 1]['right_answer']
+        print(answer + ": " + pool['question_pool'][index - 1]['answers'][0][answer])
+        another = input("Another review question? (Y/N): ").lower()
 else:
     print("Found P")
 
