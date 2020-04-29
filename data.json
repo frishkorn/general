@@ -25,6 +25,19 @@
                 }
             ],
             "right_answer": "B"
+        },
+        {
+            "question_id": "G1A03",
+            "question": "On which of the following bands is image transmission prohibited?",
+            "answers": [
+                {
+                    "A": "160 meters",
+                    "B": "30 meters",
+                    "C": "20 meters",
+                    "D": "12 meters"
+                }
+            ],
+            "right_answer": "B"
         }
     ]
 }

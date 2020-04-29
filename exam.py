@@ -2,7 +2,7 @@
 
 # exam.py
 # C. Frishkorn 04/28/2020
-# version: 0.0.11
+# version: 0.1.17
 # ------------------------
 import json
 from random import randint
@@ -27,10 +27,11 @@ def random_question():
 
 # Ask user if they want to add questions / answers. Print header.
 # TO:DO - Make header generic and move into data.json file.
-print("\n2019-2023 General Class Pool")
-print("2nd & Final Public Release with Errata - March 15, 2019\n")
-selection = input("Would you like to enter new questions? (Y/N): ").lower()
-while selection == "y":
+print("\n2019-2023 General Class Pool - Exam Tool")
+print("2nd & Final Public Release with Errata - March 15, 2019")
+print("Use X on any selection to exit.\n")
+selection = input("Would you like to enter new questions? (Y/N): ").upper()
+while selection == "Y":
     # Ask user to input the question id.
     question_id = input("\nQuestion ID: ")
 
@@ -59,7 +60,7 @@ while selection == "y":
     write_json(file_data)
 
     # Ask user if they would like to enter another question / answer.
-    selection = input("\nWould you like to add another question? (Y/N): ").lower()
+    selection = input("\nWould you like to add another question? (Y/N): ").upper()
     
 # Load questions file.
 with open('data.json', 'r') as f:
@@ -70,15 +71,15 @@ pool_len = len(pool['question_pool'])
 print("\nThere are %d total questions in the pool.\n" % (pool_len))
 
 # Ask user if they would like to review or take practice exam.
-selection = input("Would you like to practice or review? (P/R): ").lower()
-if selection == "r":
+selection = input("Would you like to practice or review? (P/R): ").upper()
+if selection == "R":
     # Show review questions until user selects no.
-    another = "y"
-    while another == "y":
+    another = "Y"
+    while another == "Y":
         index = random_question()
         answer = pool['question_pool'][index - 1]['right_answer']
         print(answer + ": " + pool['question_pool'][index - 1]['answers'][0][answer])
-        another = input("\nAnother review question? (Y/N): ").lower()
+        another = input("\nAnother review question? (Y/N): ").upper()
 else:
     # Continue picking random questions to quiz the user enters the answer X.
     while selection != "X":
