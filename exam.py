@@ -75,16 +75,23 @@ if selection == "r":
     # Show review questions until user selects no.
     another = "y"
     while another == "y":
-        index = get_random(pool_len)
-        print("\n" + pool['question_pool'][index - 1]['question_id'])
-        print(pool['question_pool'][index - 1]['question'])
+        index = random_question()
         answer = pool['question_pool'][index - 1]['right_answer']
         print(answer + ": " + pool['question_pool'][index - 1]['answers'][0][answer])
         another = input("\nAnother review question? (Y/N): ").lower()
 else:
-    # Pick a random question and ask user to answer it.
-    index = random_question()
-    for x in range(4):
-        letter = answer_letter[x]
-        print(letter + ": " + pool['question_pool'][index - 1]['answers'][0][letter])
+    # Continue picking random questions to quiz the user requests otherwise.
+    another = "y"
+    while another == "y":
+        index = random_question()
+        answer = pool['question_pool'][index - 1]['right_answer']
+        for x in range(4):
+            letter = answer_letter[x]
+            print(letter + ": " + pool['question_pool'][index - 1]['answers'][0][letter])
+        entry = input("\nWhat is the correct answer?: ")
+        if entry == answer:
+            print("Right!")
+        else:
+            print("Wrong!")
+        another = input("\nContinue?: ").lower()
 
