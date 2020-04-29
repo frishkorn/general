@@ -207,6 +207,32 @@
                 }
             ],
             "right_answer": "C"
+        },
+        {
+            "question_id": "G1B02",
+            "question": "With which of the following conditions must beacon stations comply?",
+            "answers": [
+                {
+                    "A": "A beacon station may not use automatic control",
+                    "B": "The frequency must be coordinated with the National Beacon Organization",
+                    "C": "The frequency must be posted on the internet or published in a national periodical",
+                    "D": "There must be no more than one beacon signal transmitting in the same band from the same station location"
+                }
+            ],
+            "right_answer": "D"
+        },
+        {
+            "question_id": "G1B03",
+            "question": "Which of the following is a purpose of a beacon station as identified in the FCC rules?",
+            "answers": [
+                {
+                    "A": "Observation of propagation and reception",
+                    "B": "Automatic identification of repeaters",
+                    "C": "Transmission of bulletins of general interest to Amateur Radio licensees",
+                    "D": "Identifying net frequencies"
+                }
+            ],
+            "right_answer": "A"
         }
     ]
 }
