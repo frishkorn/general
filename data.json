@@ -181,6 +181,32 @@
                 }
             ],
             "right_answer": "D"
+        },
+        {
+            "question_id": "G1A15",
+            "question": "What portion of the 10-meter band is available for repeater use?",
+            "answers": [
+                {
+                    "A": "The entire band",
+                    "B": "The portion between 28.1 MHz and 28.2 MHz",
+                    "C": "The portion between 28.3 MHz and 28.5 MHz",
+                    "D": "The portion above 29.5 MHz"
+                }
+            ],
+            "right_answer": "D"
+        },
+        {
+            "question_id": "G1B01",
+            "question": "What is the maximum height above ground to which an antenna structure may be erected without requiring notification to the FAA and registration with the FCC, provided it is not at or near a public use airport?",
+            "answers": [
+                {
+                    "A": "50 feet",
+                    "B": "100 feet",
+                    "C": "200 feet",
+                    "D": "300 feet"
+                }
+            ],
+            "right_answer": "C"
         }
     ]
 }
