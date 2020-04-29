@@ -38,6 +38,19 @@
                 }
             ],
             "right_answer": "B"
+        },
+        {
+            "question_id": "G1A04",
+            "question": "Which of the following amateur bands is restricted to communication only on specific channels, rather than frequency ranges?",
+            "answers": [
+                {
+                    "A": "11 meters",
+                    "B": "12 meters",
+                    "C": "30 meters",
+                    "D": "60 meters"
+                }
+            ],
+            "right_answer": "D"
         }
     ]
 }
