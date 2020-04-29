@@ -1,4 +1,28 @@
 {
     "question_pool": [
+        {
+            "question": "On which HF/MF bands is a General class license holder granted all amateur frequency privileges?",
+            "answers": [
+                {
+                    "A": "60 meters, 20 meters, 17 meters, and 12 meters",
+                    "B": "160 meters, 80 meters, 40 meters, and 10 meters",
+                    "C": "160 meters, 60 meters, 30 meters, 17 meters, 12 meters, and 10 meters",
+                    "D": "160 meters, 30 meters, 17 meters, 15 meters, 12 meters, and 10 meters"
+                }
+            ],
+            "right_answer": "C"
+        },
+        {
+            "question": "On which of the following bands is phone operation prohibited?",
+            "answers": [
+                {
+                    "A": "160 meters",
+                    "B": "30 meters",
+                    "C": "17 meters",
+                    "D": "12 meters"
+                }
+            ],
+            "right_answer": "B"
+        }
     ]
 }
