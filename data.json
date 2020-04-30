@@ -272,6 +272,84 @@
                 }
             ],
             "right_answer": "D"
+        },
+        {
+            "question_id": "G1B07",
+            "question": "What are the restrictions on the use of abbreviations or procedural signals in the Amateur Service?",
+            "answers": [
+                {
+                    "A": "Only \u201cQ\u201d signals are permitted",
+                    "B": "They may be used if they do not obscure the meaning of a message",
+                    "C": "They are not permitted",
+                    "D": "Only \u201c10 codes\u201d are permitted"
+                }
+            ],
+            "right_answer": "B"
+        },
+        {
+            "question_id": "G1B08",
+            "question": "When choosing a transmitting frequency, what should you do to comply with good amateur practice?",
+            "answers": [
+                {
+                    "A": "Ensure that the frequency and mode selected are within your license class privileges",
+                    "B": "Follow generally accepted band plans agreed to by the Amateur Radio community",
+                    "C": "Monitor the frequency before transmitting",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "D"
+        },
+        {
+            "question_id": "G1B09",
+            "question": "On what HF frequencies are automatically controlled beacons permitted?",
+            "answers": [
+                {
+                    "A": "On any frequency if power is less than 1 watt",
+                    "B": "On any frequency if transmissions are in Morse code",
+                    "C": "21.08 MHz to 21.09 MHz",
+                    "D": "28.20 MHz to 28.30 MHz"
+                }
+            ],
+            "right_answer": "D"
+        },
+        {
+            "question_id": "G1B10",
+            "question": "What is the power limit for beacon stations?",
+            "answers": [
+                {
+                    "A": "10 watts PEP output",
+                    "B": "20 watts PEP output",
+                    "C": "100 watts PEP output",
+                    "D": "200 watts PEP output"
+                }
+            ],
+            "right_answer": "C"
+        },
+        {
+            "question_id": "G1B11",
+            "question": "Who or what determines \u201cgood engineering and good amateur practice,\u201d as applied to the operation of an amateur station in all respects not covered by the Part 97 rules?",
+            "answers": [
+                {
+                    "A": "The FCC",
+                    "B": "The control operator",
+                    "C": "The IEEE",
+                    "D": "The ITU"
+                }
+            ],
+            "right_answer": "A"
+        },
+        {
+            "question_id": "G1B12",
+            "question": "When is it permissible to communicate with amateur stations in countries outside the areas administered by the Federal Communications Commission?",
+            "answers": [
+                {
+                    "A": "Only when the foreign country has a formal third-party agreement filed with the FCC",
+                    "B": "When the contact is with amateurs in any country except those whose administrations have notified the ITU that they object to such communications",
+                    "C": "When the contact is with amateurs in any country as long as the communication is conducted in English",
+                    "D": "Only when the foreign country is a member of the International Amateur Radio Union"
+                }
+            ],
+            "right_answer": "B"
         }
     ]
 }
