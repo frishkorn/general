@@ -24,6 +24,7 @@ def get_random(length):
     value = randint(1, length)
     return value
 
+# Get random question function.
 def random_question():
     index = get_random(pool_len)
     print("\n" + pool['question_pool'][index - 1]['question_id'])
@@ -85,7 +86,7 @@ if selection == "R":
         answer = pool['question_pool'][index - 1]['right_answer']
         print(answer + ": " + pool['question_pool'][index - 1]['answers'][0][answer])
         another = input("\nAnother review question? (Y/N): ").upper()
-else:
+elif selection == "P":
     # Continue picking random questions to quiz the user enters the answer X.
     while selection != "X":
         index = random_question()
@@ -97,6 +98,9 @@ else:
         selection = entry
         if entry == answer:
             print(bcolors.BOLD + "Correct!" + bcolors.ENDC)
+        elif entry == "X":
+            continue
         else:
             print(bcolors.WARNING + "\nSorry the correct answer was %s." % (answer) + bcolors.ENDC)
-
+else:
+    pass
