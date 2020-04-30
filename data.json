@@ -233,6 +233,45 @@
                 }
             ],
             "right_answer": "A"
+        },
+        {
+            "question_id": "G1B04",
+            "question": "Which of the following transmissions is permitted?",
+            "answers": [
+                {
+                    "A": "Unidentified transmissions for test purposes only",
+                    "B": "Retransmission of other amateur station signals by any amateur station",
+                    "C": "Occasional retransmission of weather and propagation forecast information from U.S. government stations",
+                    "D": "Coded messages of any kind, if not intended to facilitate a criminal act"
+                }
+            ],
+            "right_answer": "C"
+        },
+        {
+            "question_id": "G1B05",
+            "question": "Which of the following one-way transmissions are permitted?",
+            "answers": [
+                {
+                    "A": "Unidentified test transmissions of less than one minute in duration",
+                    "B": "Transmissions necessary to assist learning the International Morse code",
+                    "C": "Regular transmissions offering equipment for sale, if intended for Amateur Radio use",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "B"
+        },
+        {
+            "question_id": "G1B06",
+            "question": "Under what conditions are state and local governments permitted to regulate Amateur Radio antenna structures?",
+            "answers": [
+                {
+                    "A": "Under no circumstances, FCC rules take priority",
+                    "B": "At any time and to any extent necessary to accomplish a legitimate purpose of the state or local entity, provided that proper filings are made with the FCC",
+                    "C": "Only when such structures exceed 50 feet in height and are clearly visible 1000 feet from the structure",
+                    "D": "Amateur Service communications must be reasonably accommodated, and regulations must constitute the minimum practical to accommodate a legitimate purpose of the state or local entity"
+                }
+            ],
+            "right_answer": "D"
         }
     ]
 }
