@@ -419,6 +419,36 @@
             "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G1C02",
+            "question": "What is the maximum transmitting power an amateur station may use on the 12-meter band?",
+            "answers": [
+                {
+                    "A": "50 watts PEP output",
+                    "B": "200 watts PEP output",
+                    "C": "1500 watts PEP output",
+                    "D": "An effective radiated power equivalent to 100 watts from a half-wave dipole"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1C03",
+            "question": "What is the maximum bandwidth permitted by FCC rules for Amateur Radio stations transmitting on USB frequencies in the 60-meter band?",
+            "answers": [
+                {
+                    "A": "2.8 kHz",
+                    "B": "5.6 kHz",
+                    "C": "1.8 kHz",
+                    "D": "3 kHz"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ]
 }
