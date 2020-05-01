@@ -2,7 +2,7 @@
 
 # exam.py
 # C. Frishkorn 04/28/2020
-# version: 0.2.32
+# version: 0.2.33
 # ------------------------
 import json
 from random import randint
@@ -27,9 +27,12 @@ def get_random(length):
 # Get random question function.
 def random_question():
     index = get_random(pool_len)
-    print("\n" + pool['question_pool'][index - 1]['question_id'] + "[0|0]")
+    print("\n" + pool['question_pool'][index - 1]['question_id'] + " [" + str(pool['question_pool'][index - 1]['cr_attempts']) + "|" + str(pool['question_pool'][index - 1]['in_attempts']) + "]")
     print(pool['question_pool'][index - 1]['question'])
     return index
+
+#TO:DO - Add function to update cr_attempts value for question object.
+#TO:DO - Add function to update in_attempts value for question obhect.
 
 def add_question(selection):
     while selection != "N":
@@ -85,15 +88,18 @@ def practice_quiz(selection):
         selection = entry
         if entry == answer:
             print(bcolors.BOLD + "Correct!" + bcolors.ENDC)
+            #TO:DO - Add 1 to cr_attempts value.
         elif entry == "X":
             continue
         else:
             print(bcolors.WARNING + "\nSorry the correct answer was %s." % (answer) + bcolors.ENDC)
+            # TO:DO - Add 1 to in_attempts value.
 
 # Ask user if they want to add questions / answers. Print header.
 # TO:DO - Make header generic and move into data.json file.
 print("\n2019-2023 General Class Pool - Exam Tool")
-print("2nd & Final Public Release with Errata - March 15, 2019\n")
+print("2nd & Final Public Release with Errata - March 15, 2019")
+print("Question ID's show [correct|incorrect] attempts.\n")
 selection = input("(A)dd Question, (R)eview, (P)ractice, or E(X)it?: ").upper()
 if selection == "A":
     selection = add_question(selection)
