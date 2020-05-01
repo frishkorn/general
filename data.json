@@ -11,7 +11,9 @@
                     "D": "160 meters, 30 meters, 17 meters, 15 meters, 12 meters, and 10 meters"
                 }
             ],
-            "right_answer": "C"
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1A02",
@@ -24,7 +26,9 @@
                     "D": "12 meters"
                 }
             ],
-            "right_answer": "B"
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1A03",
@@ -37,7 +41,9 @@
                     "D": "12 meters"
                 }
             ],
-            "right_answer": "B"
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1A04",
@@ -50,7 +56,9 @@
                     "D": "60 meters"
                 }
             ],
-            "right_answer": "D"
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1A05",
@@ -63,7 +71,9 @@
                     "D": "40.500 MHz"
                 }
             ],
-            "right_answer": "A"
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1A06",
@@ -76,7 +86,9 @@
                     "D": "4005 kHz"
                 }
             ],
-            "right_answer": "C"
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1A07",
@@ -89,7 +101,9 @@
                     "D": "14405 kHz"
                 }
             ],
-            "right_answer": "C"
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1A08",
@@ -102,7 +116,9 @@
                     "D": "3650 kHz"
                 }
             ],
-            "right_answer": "C"
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1A09",
@@ -115,7 +131,9 @@
                     "D": "24900 kHz"
                 }
             ],
-            "right_answer": "C"
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1A10",
@@ -128,7 +146,9 @@
                     "D": "All these choices are correct"
                 }
             ],
-            "right_answer": "D"
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1A11",
@@ -141,7 +161,9 @@
                     "D": "The upper frequency end on frequencies below 7.3 MHz, and the lower end on frequencies above 14.150 MHz"
                 }
             ],
-            "right_answer": "B"
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1A12",
@@ -154,7 +176,9 @@
                     "D": "Amateur stations may only operate during specific hours of the day, while primary users are permitted 24- hour use of the band"
                 }
             ],
-            "right_answer": "C"
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1A13",
@@ -167,7 +191,9 @@
                     "D": "Move to a clear frequency or stop transmitting"
                 }
             ],
-            "right_answer": "D"
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1A14",
@@ -180,7 +206,9 @@
                     "D": "Frequency allocations may differ"
                 }
             ],
-            "right_answer": "D"
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1A15",
@@ -193,7 +221,9 @@
                     "D": "The portion above 29.5 MHz"
                 }
             ],
-            "right_answer": "D"
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1B01",
@@ -206,7 +236,9 @@
                     "D": "300 feet"
                 }
             ],
-            "right_answer": "C"
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1B02",
@@ -219,7 +251,9 @@
                     "D": "There must be no more than one beacon signal transmitting in the same band from the same station location"
                 }
             ],
-            "right_answer": "D"
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1B03",
@@ -232,7 +266,9 @@
                     "D": "Identifying net frequencies"
                 }
             ],
-            "right_answer": "A"
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1B04",
@@ -245,7 +281,9 @@
                     "D": "Coded messages of any kind, if not intended to facilitate a criminal act"
                 }
             ],
-            "right_answer": "C"
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1B05",
@@ -258,7 +296,9 @@
                     "D": "All these choices are correct"
                 }
             ],
-            "right_answer": "B"
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1B06",
@@ -271,7 +311,9 @@
                     "D": "Amateur Service communications must be reasonably accommodated, and regulations must constitute the minimum practical to accommodate a legitimate purpose of the state or local entity"
                 }
             ],
-            "right_answer": "D"
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1B07",
@@ -284,7 +326,9 @@
                     "D": "Only \u201c10 codes\u201d are permitted"
                 }
             ],
-            "right_answer": "B"
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1B08",
@@ -297,7 +341,9 @@
                     "D": "All these choices are correct"
                 }
             ],
-            "right_answer": "D"
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1B09",
@@ -310,7 +356,9 @@
                     "D": "28.20 MHz to 28.30 MHz"
                 }
             ],
-            "right_answer": "D"
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1B10",
@@ -323,7 +371,9 @@
                     "D": "200 watts PEP output"
                 }
             ],
-            "right_answer": "C"
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1B11",
@@ -336,7 +386,9 @@
                     "D": "The ITU"
                 }
             ],
-            "right_answer": "A"
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1B12",
@@ -349,7 +401,24 @@
                     "D": "Only when the foreign country is a member of the International Amateur Radio Union"
                 }
             ],
-            "right_answer": "B"
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1C01",
+            "question": "What is the maximum transmitting power an amateur station may use on 10.140 MHz?",
+            "answers": [
+                {
+                    "A": "200 watts PEP output",
+                    "B": "1000 watts PEP output",
+                    "C": "1500 watts PEP output",
+                    "D": "2000 watts PEP output"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ]
 }
