@@ -449,6 +449,21 @@
             "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G1C04",
+            "question": "Which of the following limitations apply to transmitter power on every amateur band?",
+            "answers": [
+                {
+                    "A": "Only the minimum power necessary to carry out the desired communications should be used",
+                    "B": "Power must be limited to 200 watts when using data transmissions",
+                    "C": "Power should be limited as necessary to avoid interference to another radio service on the frequency",
+                    "D": "Effective radiated power cannot exceed 1500 watts"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ]
 }

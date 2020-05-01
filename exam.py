@@ -31,43 +31,46 @@ def random_question():
     print(pool['question_pool'][index - 1]['question'])
     return index
 
+def add_question(selection):
+    while selection != "N":
+        # Ask user to input the question id.
+        question_id = input("\nQuestion ID: ")
+
+        # Ask user to input the question.
+        question = input("Question: ")
+
+        # Ask user to input answers A - D.
+        answer_list = []
+        for x in range(4):
+            letter = answer_letter[x]
+            answer = input("Answer %s: " % (letter))
+            answer_list.append(answer)
+
+        # Ask user which one is the right answer.
+        correct = input("Which answer is correct?: ").upper()
+
+        # Save Q&A to a JSON formatted file.
+        question_data = {'question_id':question_id,'question':question,'answers':[{"A":answer_list[0], "B":answer_list[1], "C":answer_list[2], "D":answer_list[3]}],'right_answer':correct,'cr_attempts':0,'in_attempts':0}
+
+        # Append new questions to data.json.
+        with open('data.json') as json_file:
+            file_data = json.load(json_file)
+            temp = file_data['question_pool']
+            temp.append(question_data)
+
+        write_json(file_data)
+
+        # Ask user if they would like to enter another question / answer.
+        selection = input("\nWould you like to add another question? (Y/N): ").upper()
+
 # Ask user if they want to add questions / answers. Print header.
 # TO:DO - Make header generic and move into data.json file.
 print("\n2019-2023 General Class Pool - Exam Tool")
-print("2nd & Final Public Release with Errata - March 15, 2019")
-print("Use X on any selection to exit.\n")
-selection = input("Would you like to enter new questions? (Y/N): ").upper()
-while selection == "Y":
-    # Ask user to input the question id.
-    question_id = input("\nQuestion ID: ")
+print("2nd & Final Public Release with Errata - March 15, 2019\n")
+selection = input("(A)dd question, (R)eview, (P)ractice, or (E)xit?: ").upper()
+if selection == "A":
+    add_question(selection)
 
-    # Ask user to input the question.
-    question = input("Question: ")
-
-    # Ask user to input answers A - D.
-    answer_list = []
-    for x in range(4):
-        letter = answer_letter[x]
-        answer = input("Answer %s: " % (letter))
-        answer_list.append(answer)
-
-    # Ask user which one is the right answer.
-    correct = input("Which answer is correct?: ").upper()
-    
-    # Save Q&A to a JSON formatted file.
-    question_data = {'question_id':question_id,'question':question,'answers':[{"A":answer_list[0], "B":answer_list[1], "C":answer_list[2], "D":answer_list[3]}],'right_answer':correct,'cr_attempts':0,'in_attempts':0}
-    
-    # Append new questions to data.json.
-    with open('data.json') as json_file:
-        file_data = json.load(json_file)
-        temp = file_data['question_pool']
-        temp.append(question_data)
-
-    write_json(file_data)
-
-    # Ask user if they would like to enter another question / answer.
-    selection = input("\nWould you like to add another question? (Y/N): ").upper()
-    
 # Load questions file.
 with open('data.json', 'r') as f:
     pool = json.load(f)
