@@ -2,7 +2,7 @@
 
 # exam.py
 # C. Frishkorn 04/28/2020
-# version: 0.1.17
+# version: 0.2.32
 # ------------------------
 import json
 from random import randint
@@ -27,7 +27,7 @@ def get_random(length):
 # Get random question function.
 def random_question():
     index = get_random(pool_len)
-    print("\n" + pool['question_pool'][index - 1]['question_id'])
+    print("\n" + pool['question_pool'][index - 1]['question_id'] + "[0|0]")
     print(pool['question_pool'][index - 1]['question'])
     return index
 
@@ -62,34 +62,18 @@ def add_question(selection):
 
         # Ask user if they would like to enter another question / answer.
         selection = input("\nWould you like to add another question? (Y/N): ").upper()
+    return selection
 
-# Ask user if they want to add questions / answers. Print header.
-# TO:DO - Make header generic and move into data.json file.
-print("\n2019-2023 General Class Pool - Exam Tool")
-print("2nd & Final Public Release with Errata - March 15, 2019\n")
-selection = input("(A)dd question, (R)eview, (P)ractice, or (E)xit?: ").upper()
-if selection == "A":
-    add_question(selection)
-
-# Load questions file.
-with open('data.json', 'r') as f:
-    pool = json.load(f)
-
-# Get length of question pool.
-pool_len = len(pool['question_pool'])
-print("\nThere are %d total questions in the pool.\n" % (pool_len))
-
-# Ask user if they would like to review or take practice exam.
-selection = input("Would you like to practice or review? (P/R): ").upper()
-if selection == "R":
+def review_question(selection):
     # Show review questions until user selects no.
     another = "Y"
-    while another == "Y":
+    while selection != "N":
         index = random_question()
         answer = pool['question_pool'][index - 1]['right_answer']
         print(answer + ": " + pool['question_pool'][index - 1]['answers'][0][answer])
-        another = input("\nAnother review question? (Y/N): ").upper()
-elif selection == "P":
+        selection = input("\nAnother review question? (Y/N): ").upper()
+
+def practice_quiz(selection):
     # Continue picking random questions to quiz the user enters the answer X.
     while selection != "X":
         index = random_question()
@@ -105,5 +89,30 @@ elif selection == "P":
             continue
         else:
             print(bcolors.WARNING + "\nSorry the correct answer was %s." % (answer) + bcolors.ENDC)
+
+# Ask user if they want to add questions / answers. Print header.
+# TO:DO - Make header generic and move into data.json file.
+print("\n2019-2023 General Class Pool - Exam Tool")
+print("2nd & Final Public Release with Errata - March 15, 2019\n")
+selection = input("(A)dd Question, (R)eview, (P)ractice, or E(X)it?: ").upper()
+if selection == "A":
+    selection = add_question(selection)
+
+# Load questions file.
+with open('data.json', 'r') as f:
+    pool = json.load(f)
+
+# Get length of question pool.
+pool_len = len(pool['question_pool'])
+print("\nThere are %d total questions in the pool." % (pool_len))
+
+if selection == "N":
+    selection = input("\n(R)eview, (P)ractice, or E(X)it?: ")
+
+if selection == "R":
+    review_question(selection)
+
+if selection == "P":
+    practice_quiz(selection)
 else:
     pass

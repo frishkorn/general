@@ -464,6 +464,66 @@
             "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G1C05",
+            "question": "What is the limit for transmitter power on the 28 MHz band for a General Class control operator?",
+            "answers": [
+                {
+                    "A": "100 watts PEP output",
+                    "B": "1000 watts PEP output",
+                    "C": "1500 watts PEP output",
+                    "D": "2000 watts PEP output"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1C06",
+            "question": "What is the limit for transmitter power on the 1.8 MHz band?",
+            "answers": [
+                {
+                    "A": "200 watts PEP output",
+                    "B": "1000 watts PEP output",
+                    "C": "1200 watts PEP output",
+                    "D": "1500 watts PEP output"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1C07",
+            "question": "What is the maximum symbol rate permitted for RTTY or data emission transmission on the 20-meter band?",
+            "answers": [
+                {
+                    "A": "56 kilobaud",
+                    "B": "19.6 kilobaud",
+                    "C": "1200 baud",
+                    "D": "300 baud"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1C08",
+            "question": "What is the maximum symbol rate permitted for RTTY or data emission transmitted at frequencies below 28 MHz?",
+            "answers": [
+                {
+                    "A": "56 kilobaud",
+                    "B": "19.6 kilobaud",
+                    "C": "1200 baud",
+                    "D": "300 baud"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ]
 }
