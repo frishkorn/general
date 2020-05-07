@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # exam.py
-# C. Frishkorn 04/28/2020
-# version: 0.2.33
+# C. Frishkorn 05/06/2020
+# version: 0.2.34
 # ------------------------
 import json
 from random import randint
@@ -113,7 +113,7 @@ pool_len = len(pool['question_pool'])
 print("\nThere are %d total questions in the pool." % (pool_len))
 
 if selection == "N":
-    selection = input("\n(R)eview, (P)ractice, or E(X)it?: ")
+    selection = input("\n(R)eview, (P)ractice, or E(X)it?: ").upper()
 
 if selection == "R":
     review_question(selection)

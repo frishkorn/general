@@ -524,6 +524,51 @@
             "right_answer": "D",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G1C09",
+            "question": "What is the maximum symbol rate permitted for RTTY or data emission transmitted on the 1.25-meter and 70- centimeter bands?",
+            "answers": [
+                {
+                    "A": "56 kilobaud",
+                    "B": "19.6 kilobaud",
+                    "C": "1200 baud",
+                    "D": "300 baud"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1C10",
+            "question": "What is the maximum symbol rate permitted for RTTY or data emission transmissions on the 10-meter band?",
+            "answers": [
+                {
+                    "A": "56 kilobaud",
+                    "B": "19.6 kilobaud",
+                    "C": "1200 baud",
+                    "D": "300 baud"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1C11",
+            "question": "What is the maximum symbol rate permitted for RTTY or data emission transmissions on the 2-meter band?",
+            "answers": [
+                {
+                    "A": "56 kilobaud",
+                    "B": "19.6 kilobaud",
+                    "C": "1200 baud",
+                    "D": "300 baud"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ]
 }
