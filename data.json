@@ -569,6 +569,51 @@
             "right_answer": "B",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G1C12",
+            "question": "Which of the following is required by the FCC rules when operating in the 60-meter band?",
+            "answers": [
+                {
+                    "A": "If you are using an antenna other than a dipole, you must keep a record of the gain of your antenna",
+                    "B": "You must keep a record of the date, time, frequency, power level, and stations worked",
+                    "C": "You must keep a record of all third-party traffic",
+                    "D": "You must keep a record of the manufacturer of your equipment and the antenna used"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1C13",
+            "question": "What must be done before using a new digital protocol on the air?",
+            "answers": [
+                {
+                    "A": "Type-certify equipment to FCC standards",
+                    "B": "Obtain an experimental license from the FCC",
+                    "C": "Publicly document the technical characteristics of the protocol",
+                    "D": "Submit a rule-making proposal to the FCC describing the codes and methods of the technique"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1C14",
+            "question": "What is the maximum power limit on the 60-meter band?",
+            "answers": [
+                {
+                    "A": "1500 watts PEP",
+                    "B": "10 watts RMS",
+                    "C": "ERP of 100 watts PEP with respect to a dipole",
+                    "D": "ERP of 100 watts PEP with respect to an isotropic antenna"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ]
 }
