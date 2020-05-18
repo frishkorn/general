@@ -31,9 +31,6 @@ def random_question():
     print(pool['question_pool'][index - 1]['question'])
     return index
 
-#TO:DO - Add function to update cr_attempts value for question object.
-#TO:DO - Add function to update in_attempts value for question obhect.
-
 def add_question(selection):
     while selection != "N":
         # Ask user to input the question id.
@@ -60,7 +57,6 @@ def add_question(selection):
             file_data = json.load(json_file)
             temp = file_data['question_pool']
             temp.append(question_data)
-
         write_json(file_data)
 
         # Ask user if they would like to enter another question / answer.
@@ -76,6 +72,19 @@ def review_question(selection):
         print(answer + ": " + pool['question_pool'][index - 1]['answers'][0][answer])
         selection = input("\nAnother review question? (Y/N): ").upper()
 
+# Update attempts function.
+def update_attempt(result, index):
+    with open('data.json') as json_file:
+        file_data = json.load(json_file)
+        temp = file_data['question_pool']
+        if result == "C":
+            temp[index - 1]['cr_attempts'] = temp[index - 1]['cr_attempts'] + 1
+        else:
+            temp[index - 1]['in_attempts'] = temp[index - 1]['in_attempts'] + 1
+        temp.append(temp)
+    write_json(temp)
+    pool = load_pool()
+
 def practice_quiz(selection):
     # Continue picking random questions to quiz the user enters the answer X.
     while selection != "X":
@@ -88,12 +97,21 @@ def practice_quiz(selection):
         selection = entry
         if entry == answer:
             print(bcolors.BOLD + "Correct!" + bcolors.ENDC)
-            #TO:DO - Add 1 to cr_attempts value.
+            result = "C"
         elif entry == "X":
             continue
         else:
             print(bcolors.WARNING + "\nSorry the correct answer was %s." % (answer) + bcolors.ENDC)
-            # TO:DO - Add 1 to in_attempts value.
+            result = "I"
+        update_attempt(result, index)
+
+def load_pool():
+    with open('data.json', 'r') as f:
+        pool = json.load(f)
+        return pool
+
+# Load questions file.
+pool = load_pool()
 
 # Ask user if they want to add questions / answers. Print header.
 # TO:DO - Make header generic and move into data.json file.
@@ -104,10 +122,6 @@ selection = input("(A)dd Question, (R)eview, (P)ractice, or E(X)it?: ").upper()
 if selection == "A":
     selection = add_question(selection)
 
-# Load questions file.
-with open('data.json', 'r') as f:
-    pool = json.load(f)
-
 # Get length of question pool.
 pool_len = len(pool['question_pool'])
 print("\nThere are %d total questions in the pool." % (pool_len))
@@ -115,10 +129,10 @@ print("\nThere are %d total questions in the pool." % (pool_len))
 if selection == "N":
     selection = input("\n(R)eview, (P)ractice, or E(X)it?: ").upper()
 
-if selection == "R":
+elif selection == "R":
     review_question(selection)
 
-if selection == "P":
+elif selection == "P":
     practice_quiz(selection)
 else:
     pass

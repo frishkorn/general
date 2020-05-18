@@ -327,7 +327,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -614,6 +614,5 @@
             "right_answer": "C",
             "cr_attempts": 0,
             "in_attempts": 0
-        }
-    ]
-}
+        },
+        
