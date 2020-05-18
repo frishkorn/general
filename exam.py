@@ -2,7 +2,7 @@
 
 # exam.py
 # C. Frishkorn 05/06/2020
-# version: 0.2.34
+# version: 0.3.37
 # ------------------------
 import json
 from random import randint
@@ -81,8 +81,7 @@ def update_attempt(result, index):
             temp[index - 1]['cr_attempts'] = temp[index - 1]['cr_attempts'] + 1
         else:
             temp[index - 1]['in_attempts'] = temp[index - 1]['in_attempts'] + 1
-        temp.append(temp)
-    write_json(temp)
+    write_json(file_data)
     pool = load_pool()
 
 def practice_quiz(selection):
