@@ -2,7 +2,7 @@
 
 # exam.py
 # C. Frishkorn 05/19/2020
-# version: 0.3.42
+# version: 0.3.45
 # ------------------------
 import json
 from random import randint
