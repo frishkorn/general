@@ -237,7 +237,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -312,7 +312,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -672,7 +672,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -732,7 +732,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -777,7 +777,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -792,7 +792,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -807,6 +807,21 @@
                 }
             ],
             "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1E02",
+            "question": "When may a 10-meter repeater retransmit the 2-meter signal from a station that has a Technician class control operator?",
+            "answers": [
+                {
+                    "A": "Under no circumstances",
+                    "B": "Only if the station on 10-meters is operating under a Special Temporary Authorization allowing such retransmission",
+                    "C": "Only during an FCC-declared general state of communications emergency",
+                    "D": "Only if the 10-meter repeater control operator holds at least a General class license"
+                }
+            ],
+            "right_answer": "D",
             "cr_attempts": 0,
             "in_attempts": 0
         }
