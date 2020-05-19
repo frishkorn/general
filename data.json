@@ -207,7 +207,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -387,7 +387,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -657,7 +657,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -732,6 +732,21 @@
                 }
             ],
             "right_answer": "C",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1D08",
+            "question": "Which of the following criteria must be met for a non-U.S. citizen to be an accredited Volunteer Examiner?",
+            "answers": [
+                {
+                    "A": "The person must be a resident of the U.S. for a minimum of 5 years",
+                    "B": "The person must hold an FCC granted Amateur Radio license of General class or above",
+                    "C": "The person\u2019s home citizenship must be in ITU region 2",
+                    "D": "None of these choices is correct; a non-U.S. citizen cannot be a Volunteer Examiner"
+                }
+            ],
+            "right_answer": "B",
             "cr_attempts": 0,
             "in_attempts": 0
         }
