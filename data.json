@@ -102,7 +102,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -132,7 +132,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -582,7 +582,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -657,7 +657,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -717,7 +717,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -822,6 +822,21 @@
                 }
             ],
             "right_answer": "D",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1E03",
+            "question": "What is required to conduct communications with a digital station operating under automatic control outside the automatic control band segments?",
+            "answers": [
+                {
+                    "A": "The station initiating the contact must be under local or remote control",
+                    "B": "The interrogating transmission must be made by another automatically controlled station",
+                    "C": "No third-party traffic may be transmitted",
+                    "D": "The control operator of the interrogating station must hold an Amateur Extra Class license"
+                }
+            ],
+            "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
         }
