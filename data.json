@@ -88,7 +88,7 @@
             ],
             "right_answer": "C",
             "cr_attempts": 2,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G1A07",
@@ -102,7 +102,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -177,7 +177,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -417,7 +417,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 1
         },
         {
@@ -477,7 +477,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -507,7 +507,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -522,7 +522,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -744,6 +744,36 @@
                     "B": "The person must hold an FCC granted Amateur Radio license of General class or above",
                     "C": "The person\u2019s home citizenship must be in ITU region 2",
                     "D": "None of these choices is correct; a non-U.S. citizen cannot be a Volunteer Examiner"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1D09",
+            "question": "How long is a Certificate of Successful Completion of Examination (CSCE) valid for exam element credit?",
+            "answers": [
+                {
+                    "A": "30 days",
+                    "B": "180 days",
+                    "C": "365 days",
+                    "D": "For as long as your current license is valid"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1D10",
+            "question": "What is the minimum age that one must be to qualify as an accredited Volunteer Examiner?",
+            "answers": [
+                {
+                    "A": "12 years",
+                    "B": "18 years",
+                    "C": "21 years",
+                    "D": "There is no age limit"
                 }
             ],
             "right_answer": "B",
