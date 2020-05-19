@@ -128,10 +128,10 @@ print("\nThere are %d total questions in the pool." % (pool_len))
 if selection == "N":
     selection = input("\n(R)eview, (P)ractice, or E(X)it?: ").upper()
 
-elif selection == "R":
+if selection == "R":
     review_question(selection)
 
-elif selection == "P":
+if selection == "P":
     practice_quiz(selection)
 else:
     pass

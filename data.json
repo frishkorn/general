@@ -12,7 +12,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -27,7 +27,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -57,7 +57,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 1
         },
         {
@@ -72,7 +72,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -132,7 +132,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -177,7 +177,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -192,7 +192,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -207,7 +207,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 5,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -237,7 +237,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -252,7 +252,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -267,7 +267,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -282,7 +282,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -312,7 +312,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -327,7 +327,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -342,7 +342,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -357,7 +357,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -402,7 +402,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -417,8 +417,8 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
-            "in_attempts": 0
+            "cr_attempts": 2,
+            "in_attempts": 1
         },
         {
             "question_id": "G1C02",
@@ -432,8 +432,8 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
-            "in_attempts": 1
+            "cr_attempts": 2,
+            "in_attempts": 2
         },
         {
             "question_id": "G1C03",
@@ -447,7 +447,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -462,7 +462,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -477,7 +477,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -507,7 +507,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -537,7 +537,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -552,7 +552,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 1
         },
         {
@@ -567,7 +567,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -582,7 +582,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -597,7 +597,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 4,
             "in_attempts": 1
         },
         {
@@ -612,7 +612,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -627,7 +627,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -643,7 +643,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 0,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G1D02",
@@ -657,7 +657,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -669,6 +669,66 @@
                     "B": "Only on the Technician band segments until your license arrives in the mail",
                     "C": "On any General or Technician class band segment",
                     "D": "On any General or Technician class band segment except 30 meters and 60 meters"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 2,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1D04",
+            "question": "Which of the following is a requirement for administering a Technician class license examination?",
+            "answers": [
+                {
+                    "A": "At least three General class or higher VEs must observe the examination",
+                    "B": "At least two General class or higher VEs must be present",
+                    "C": "At least two General class or higher VEs must be present, but only one need be Amateur Extra class",
+                    "D": "At least three VEs of Technician class or higher must observe the examination"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1D05",
+            "question": "Which of the following must a person have before they can be an administering VE for a Technician class license examination?",
+            "answers": [
+                {
+                    "A": "Notification to the FCC that you want to give an examination",
+                    "B": "Receipt of a Certificate of Successful Completion of Examination (CSCE) for General class",
+                    "C": "Possession of a properly obtained telegraphy license",
+                    "D": "An FCC General class or higher license and VEC accreditation"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1D06",
+            "question": "When must you add the special identifier \"AG\" after your call sign if you are a Technician class licensee and have a Certificate of Successful Completion of Examination (CSCE) for General class operator privileges, but the FCC has not yet posted your upgrade on its website?",
+            "answers": [
+                {
+                    "A": "Whenever you operate using General class frequency privileges",
+                    "B": "Whenever you operate on any amateur frequency",
+                    "C": "Whenever you operate using Technician frequency privileges",
+                    "D": "A special identifier is not required if your General class license application has been filed with the FCC"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1D07",
+            "question": "Volunteer Examiners are accredited by what organization?",
+            "answers": [
+                {
+                    "A": "The Federal Communications Commission",
+                    "B": "The Universal Licensing System",
+                    "C": "A Volunteer Examiner Coordinator",
+                    "D": "The Wireless Telecommunications Bureau"
                 }
             ],
             "right_answer": "C",
