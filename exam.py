@@ -2,7 +2,7 @@
 
 # exam.py
 # C. Frishkorn 05/19/2020
-# version: 0.3.40
+# version: 0.3.42
 # ------------------------
 import json
 from random import randint
@@ -92,7 +92,7 @@ def practice_quiz(selection):
         for x in range(4):
             letter = answer_letter[x]
             print(letter + ": " + pool['question_pool'][index - 1]['answers'][0][letter])
-        entry = input("\nWhat is the correct answer?: ").upper()
+        entry = input("\nWhat is the correct answer? (X) to e(X)it: ").upper()
         selection = entry
         if entry == answer:
             print(bcolors.BOLD + "Correct!" + bcolors.ENDC)
