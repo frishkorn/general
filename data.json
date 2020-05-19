@@ -779,6 +779,36 @@
             "right_answer": "B",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G1D11",
+            "question": "What is required to obtain a new General Class license after a previously-held license has expired and the two- year grace period has passed?",
+            "answers": [
+                {
+                    "A": "They must have a letter from the FCC showing they once held an amateur or commercial license",
+                    "B": "There are no requirements other than being able to show a copy of the expired license",
+                    "C": "The applicant must be able to produce a copy of a page from a call book published in the U.S. showing his or her name and address",
+                    "D": "The applicant must pass the current Element 2 exam"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1E01",
+            "question": "Which of the following would disqualify a third party from participating in stating a message over an amateur station?",
+            "answers": [
+                {
+                    "A": "The third party\u2019s amateur license has been revoked and not reinstated",
+                    "B": "The third party is not a U.S. citizen",
+                    "C": "The third party is a licensed amateur",
+                    "D": "The third party is speaking in a language other than English"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ]
 }

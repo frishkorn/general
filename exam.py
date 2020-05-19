@@ -82,7 +82,6 @@ def update_attempt(result, index):
         else:
             temp[index - 1]['in_attempts'] = temp[index - 1]['in_attempts'] + 1
     write_json(file_data)
-    pool = load_pool()
 
 def practice_quiz(selection):
     # Continue picking random questions to quiz the user enters the answer X.
@@ -120,6 +119,7 @@ print("Question ID's show [correct|incorrect] attempts.\n")
 selection = input("(A)dd Question, (R)eview, (P)ractice, or E(X)it?: ").upper()
 if selection == "A":
     selection = add_question(selection)
+    pool = load_pool()
 
 # Get length of question pool.
 pool_len = len(pool['question_pool'])
