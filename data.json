@@ -12,7 +12,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -27,7 +27,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -42,7 +42,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -57,8 +57,8 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
-            "in_attempts": 0
+            "cr_attempts": 1,
+            "in_attempts": 1
         },
         {
             "question_id": "G1A05",
@@ -87,7 +87,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -102,7 +102,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -117,7 +117,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -147,7 +147,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -162,7 +162,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -177,7 +177,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -192,7 +192,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -207,7 +207,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -222,7 +222,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -237,7 +237,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -252,7 +252,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -312,7 +312,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -327,7 +327,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -342,7 +342,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -357,7 +357,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -372,7 +372,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -402,7 +402,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -417,7 +417,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -432,8 +432,8 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
-            "in_attempts": 0
+            "cr_attempts": 1,
+            "in_attempts": 1
         },
         {
             "question_id": "G1C03",
@@ -447,7 +447,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -462,7 +462,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -477,7 +477,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -492,7 +492,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -537,7 +537,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -552,7 +552,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 1
         },
         {
@@ -567,7 +567,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -582,7 +582,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -597,7 +597,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 1
         },
         {
@@ -609,6 +609,66 @@
                     "B": "10 watts RMS",
                     "C": "ERP of 100 watts PEP with respect to a dipole",
                     "D": "ERP of 100 watts PEP with respect to an isotropic antenna"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 4,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1C15",
+            "question": "What measurement is specified by FCC rules that regulate maximum power output?",
+            "answers": [
+                {
+                    "A": "RMS",
+                    "B": "Average",
+                    "C": "Forward",
+                    "D": "PEP"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1D01",
+            "question": "Who may receive partial credit for the elements represented by an expired Amateur Radio license?",
+            "answers": [
+                {
+                    "A": "Any person who can demonstrate that they once held an FCC-issued General, Advanced, or Amateur Extra class license that was not revoked by the FCC",
+                    "B": "Anyone who held an FCC-issued Amateur Radio license that has been expired for not less than 5 years and not more than 15 years",
+                    "C": "Any person who previously held an amateur license issued by another country, but only if that country has a current reciprocal licensing agreement with the FCC",
+                    "D": "Only persons who once held an FCC issued Novice, Technician, or Technician Plus license"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1D02",
+            "question": "What license examinations may you administer when you are an accredited VE holding a General class operator license?",
+            "answers": [
+                {
+                    "A": "General and Technician",
+                    "B": "General only",
+                    "C": "Technician only",
+                    "D": "Amateur Extra, General, and Technician"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1D03",
+            "question": "On which of the following band segments may you operate if you are a Technician class operator and have a Certificate of Successful Completion of Examination (CSCE) for General class privileges?",
+            "answers": [
+                {
+                    "A": "Only the Technician band segments until your upgrade is posted in the FCC database",
+                    "B": "Only on the Technician band segments until your license arrives in the mail",
+                    "C": "On any General or Technician class band segment",
+                    "D": "On any General or Technician class band segment except 30 meters and 60 meters"
                 }
             ],
             "right_answer": "C",
