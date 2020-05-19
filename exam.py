@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # exam.py
-# C. Frishkorn 05/06/2020
-# version: 0.3.37
+# C. Frishkorn 05/19/2020
+# version: 0.3.40
 # ------------------------
 import json
 from random import randint
