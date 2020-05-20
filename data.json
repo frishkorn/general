@@ -27,7 +27,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -162,7 +162,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -312,7 +312,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 5,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -357,7 +357,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -492,7 +492,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -537,7 +537,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -552,7 +552,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 1
         },
         {
@@ -612,7 +612,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 6,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -627,7 +627,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -657,7 +657,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -747,7 +747,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -807,7 +807,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -867,7 +867,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -882,6 +882,51 @@
                 }
             ],
             "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1E07",
+            "question": "In what part of the 13-centimeter band may an amateur station communicate with non-licensed Wi-Fi stations?",
+            "answers": [
+                {
+                    "A": "Anywhere in the band",
+                    "B": "Channels 1 through 4",
+                    "C": "Channels 42 through 45",
+                    "D": "No part"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1E08",
+            "question": "What is the maximum PEP output allowed for spread spectrum transmissions?",
+            "answers": [
+                {
+                    "A": "100 milliwatts",
+                    "B": "10 watts",
+                    "C": "100 watts",
+                    "D": "1500 watts"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1E09",
+            "question": "Under what circumstances are messages that are sent via digital modes exempt from Part 97 third-party rules that apply to other modes of communication?",
+            "answers": [
+                {
+                    "A": "Under no circumstances",
+                    "B": "When messages are encrypted",
+                    "C": "When messages are not encrypted",
+                    "D": "When under automatic control"
+                }
+            ],
+            "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
         }
