@@ -1,0 +1,109 @@
+{
+    "question_pool": [
+        {
+            "question_id": "G1A01",
+            "question": "On which HF/MF bands is a General class license holder granted all amateur frequency privileges?",
+            "answers": [
+                {
+                    "A": "60 meters, 20 meters, 17 meters, and 12 meters",
+                    "B": "160 meters, 80 meters, 40 meters, and 10 meters",
+                    "C": "160 meters, 60 meters, 30 meters, 17 meters, 12 meters, and 10 meters",
+                    "D": "160 meters, 30 meters, 17 meters, 15 meters, 12 meters, and 10 meters"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1A02",
+            "question": "On which of the following bands is phone operation prohibited?",
+            "answers": [
+                {
+                    "A": "160 meters",
+                    "B": "30 meters",
+                    "C": "17 meters",
+                    "D": "12 meters"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1A03",
+            "question": "On which of the following bands is image transmission prohibited?",
+            "answers": [
+                {
+                    "A": "160 meters",
+                    "B": "30 meters",
+                    "C": "20 meters",
+                    "D": "12 meters"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1A04",
+            "question": "Which of the following amateur bands is restricted to communication only on specific channels, rather than frequency ranges?",
+            "answers": [
+                {
+                    "A": "11 meters",
+                    "B": "12 meters",
+                    "C": "30 meters",
+                    "D": "60 meters"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1A05",
+            "question": "Which of the following frequencies is in the General class portion of the 40-meter band in ITU Region 2?",
+            "answers": [
+                {
+                    "A": "7.250 MHz",
+                    "B": "7.500 MHz",
+                    "C": "40.200 MHz",
+                    "D": "40.500 MHz"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 2,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1A06",
+            "question": "Which of the following frequencies is within the General class portion of the 75-meter phone band?",
+            "answers": [
+                {
+                    "A": "1875 kHz",
+                    "B": "3750 kHz",
+                    "C": "3900 kHz",
+                    "D": "4005 kHz"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1A07",
+            "question": "Which of the following frequencies is within the General class portion of the 20-meter phone band?",
+            "answers": [
+                {
+                    "A": "14005 kHz",
+                    "B": "14105 kHz",
+                    "C": "14305 kHz",
+                    "D": "14405 kHz"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 2,
+            "in_attempts": 0
+        }
+    ]
+}
