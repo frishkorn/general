@@ -27,7 +27,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -162,7 +162,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -372,7 +372,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -387,7 +387,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -433,7 +433,7 @@
             ],
             "right_answer": "C",
             "cr_attempts": 5,
-            "in_attempts": 2
+            "in_attempts": 3
         },
         {
             "question_id": "G1C03",
@@ -522,7 +522,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -582,7 +582,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -597,7 +597,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 1
         },
         {
@@ -717,7 +717,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -747,8 +747,8 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
-            "in_attempts": 0
+            "cr_attempts": 3,
+            "in_attempts": 1
         },
         {
             "question_id": "G1D09",
@@ -837,7 +837,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -867,7 +867,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -957,6 +957,81 @@
                 }
             ],
             "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2A01",
+            "question": "Which sideband is most commonly used for voice communications on frequencies of 14 MHz or higher?",
+            "answers": [
+                {
+                    "A": "Upper sideband",
+                    "B": "Lower sideband",
+                    "C": "Vestigial sideband",
+                    "D": "Double sideband"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2A02",
+            "question": "Which of the following modes is most commonly used for voice communications on the 160-meter, 75-meter, and 40-meter bands?",
+            "answers": [
+                {
+                    "A": "Upper sideband",
+                    "B": "Lower sideband",
+                    "C": "Vestigial sideband",
+                    "D": "Double sideband"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2A03",
+            "question": "Which of the following is most commonly used for SSB voice communications in the VHF and UHF bands?",
+            "answers": [
+                {
+                    "A": "Upper sideband",
+                    "B": "Lower sideband",
+                    "C": "Vestigial sideband",
+                    "D": "Double sideband"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2A04",
+            "question": "Which mode is most commonly used for voice communications on the 17-meter and 12-meter bands?",
+            "answers": [
+                {
+                    "A": "Upper sideband",
+                    "B": "Lower sideband",
+                    "C": "Vestigial sideband",
+                    "D": "Double sideband"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2A05",
+            "question": "Which mode of voice communication is most commonly used on the HF amateur bands?",
+            "answers": [
+                {
+                    "A": "Frequency modulation",
+                    "B": "Double sideband",
+                    "C": "Single sideband",
+                    "D": "Phase modulation"
+                }
+            ],
+            "right_answer": "C",
             "cr_attempts": 0,
             "in_attempts": 0
         }

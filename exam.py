@@ -9,9 +9,11 @@ from random import randint
 
 answer_letter = {0:"A", 1:"B", 2:"C", 3:"D"}
 
+# ANSI escape sequences to produce colors.
 class bcolors:
     WARNING = '\033[93m'
     BOLD = '\033[1m'
+    FAIL = '\033[91m'
     ENDC = '\033[0m'
 
 # JSON write function (pretty print).
@@ -84,6 +86,8 @@ def update_attempt(result, index):
     write_json(file_data)
 
 def practice_quiz(selection):
+    total_num = 0
+    num_wrong = 0
     # Continue picking random questions to quiz the user enters the answer X.
     while selection != "X":
         index = random_question()
@@ -96,12 +100,23 @@ def practice_quiz(selection):
         if entry == answer:
             print(bcolors.BOLD + "Correct!" + bcolors.ENDC)
             result = "C"
+            total_num += 1
         elif entry == "X":
             continue
         else:
             print(bcolors.WARNING + "\nSorry the correct answer was %s." % (answer) + bcolors.ENDC)
             result = "I"
+            total_num += 1
+            num_wrong += 1
         update_attempt(result, index)
+
+    # Show user score after they hit X.
+    final = "\nYour score was "
+    if num_wrong != 0:
+        score = (total_num / num_wrong)
+        print(final + bcolors.WARNING + score + " %" + bcolors.ENDC)
+    else:
+        print(final + bcolors.BOLD + "100%" + bcolors.ENDC + "!") 
 
 def load_pool():
     with open('data.json', 'r') as f:
