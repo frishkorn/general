@@ -147,7 +147,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -642,7 +642,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 1
         },
         {
@@ -852,7 +852,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -927,6 +927,36 @@
                 }
             ],
             "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1E10",
+            "question": "Why should an amateur operator normally avoid transmitting on 14.100, 18.110, 21.150, 24. 930 and 28.200 MHz?",
+            "answers": [
+                {
+                    "A": "A system of propagation beacon stations operates on those frequencies",
+                    "B": "A system of automatic digital stations operates on those frequencies",
+                    "C": "These frequencies are set aside for emergency operations",
+                    "D": "These frequencies are set aside for bulletins from the FCC"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G1E11",
+            "question": "On what bands may automatically controlled stations transmitting RTTY or data emissions communicate with other automatically controlled digital station?",
+            "answers": [
+                {
+                    "A": "On any band segment where digital operation is permitted",
+                    "B": "Anywhere in the non-phone segments of the 10-meter or shorter wavelength bands",
+                    "C": "Only in the non-phone Extra Class segments of the bands",
+                    "D": "Anywhere in the 6-meter or shorter wavelength bands, and in limited segments of some of the HF bands"
+                }
+            ],
+            "right_answer": "D",
             "cr_attempts": 0,
             "in_attempts": 0
         }
