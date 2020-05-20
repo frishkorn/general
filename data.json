@@ -42,7 +42,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -72,7 +72,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -102,7 +102,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -147,7 +147,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -177,7 +177,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -207,7 +207,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -237,7 +237,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -327,7 +327,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -357,7 +357,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -387,7 +387,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -402,7 +402,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -417,7 +417,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -432,7 +432,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -462,7 +462,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -552,7 +552,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -582,7 +582,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -597,7 +597,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -732,7 +732,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -747,7 +747,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -822,7 +822,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -867,7 +867,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -882,7 +882,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -942,7 +942,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -972,7 +972,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -987,7 +987,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1002,7 +1002,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1018,7 +1018,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 0,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G2A05",
@@ -1062,7 +1062,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1074,6 +1074,66 @@
                     "B": "Say your call sign once",
                     "C": "Say \u201cBreaker Breaker\u201d",
                     "D": "Say \u201cCQ\u201d followed by the call sign of either station"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 2,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2A09",
+            "question": "Why do most amateur stations use lower sideband on the 160-meter, 75-meter, and 40-meter bands?",
+            "answers": [
+                {
+                    "A": "Lower sideband is more efficient than upper sideband at these frequencies",
+                    "B": "Lower sideband is the only sideband legal on these frequency bands",
+                    "C": "Because it is fully compatible with an AM detector",
+                    "D": "It is good amateur practice"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2A10",
+            "question": "Which of the following statements is true of voice VOX operation versus PTT operation?",
+            "answers": [
+                {
+                    "A": "The received signal is more natural sounding",
+                    "B": "It allows \u201chands free\u201d operation",
+                    "C": "It occupies less bandwidth",
+                    "D": "It provides more power output"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2A11",
+            "question": "Generally, who should respond to a station in the contiguous 48 states who calls \u201cCQ DX\u201d?",
+            "answers": [
+                {
+                    "A": "Any caller is welcome to respond",
+                    "B": "Only stations in Germany",
+                    "C": "Any stations outside the lower 48 states",
+                    "D": "Only contest stations"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2A12",
+            "question": "What control is typically adjusted for proper ALC setting on an amateur single sideband transceiver?",
+            "answers": [
+                {
+                    "A": "The RF clipping level",
+                    "B": "Transmit audio or microphone gain",
+                    "C": "Antenna inductance or capacitance",
+                    "D": "Attenuator level"
                 }
             ],
             "right_answer": "B",
