@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # exam.py
-# C. Frishkorn 05/19/2020
-# version: 0.3.46
+# C. Frishkorn 05/20/2020
+# version: 0.4.52
 # ------------------------
 import json
 from random import randint
@@ -111,10 +111,15 @@ def practice_quiz(selection):
         update_attempt(result, index)
 
     # Show user score after they hit X.
-    final = "\nYour score was "
+    final = "\nYou answered a total of %d questions and your score was " % (total_num)
     if num_wrong != 0:
-        score = (total_num / num_wrong)
-        print(final + bcolors.WARNING + score + " %" + bcolors.ENDC)
+        score = (((total_num - num_wrong) / total_num) * 100)
+        if score <= 73:
+            print(final + bcolors.FAIL + "{:.1f}".format(score) + "%" + bcolors.ENDC + "!")
+        elif score <= 90:
+            print(final + bcolors.WARNING + "{:.1f}".format(score) + "%" + bcolors.ENDC + "!")
+        else:
+            print(final + bcolors.BOLD + "{:.1f}".format(score) + "%" + bcolors.ENDC + "!")
     else:
         print(final + bcolors.BOLD + "100%" + bcolors.ENDC + "!") 
 
