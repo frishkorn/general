@@ -147,7 +147,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -297,7 +297,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -492,7 +492,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -777,7 +777,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -867,7 +867,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1047,6 +1047,36 @@
                 }
             ],
             "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2A07",
+            "question": "Which of the following statements is true of the single sideband voice mode?",
+            "answers": [
+                {
+                    "A": "Only one sideband and the carrier are transmitted; the other sideband is suppressed",
+                    "B": "Only one sideband is transmitted; the other sideband and carrier are suppressed",
+                    "C": "SSB is the only voice mode that is authorized on the 20-meter, 15-meter, and 10-meter amateur bands",
+                    "D": "SSB is the only voice mode that is authorized on the 160-meter, 75-meter, and 40-meter amateur bands"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2A08",
+            "question": "What is the recommended way to break in to a phone contact?",
+            "answers": [
+                {
+                    "A": "Say \u201cQRZ\u201d several times, followed by your call sign",
+                    "B": "Say your call sign once",
+                    "C": "Say \u201cBreaker Breaker\u201d",
+                    "D": "Say \u201cCQ\u201d followed by the call sign of either station"
+                }
+            ],
+            "right_answer": "B",
             "cr_attempts": 0,
             "in_attempts": 0
         }
