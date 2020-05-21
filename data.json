@@ -1139,6 +1139,36 @@
             "right_answer": "B",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G2B01",
+            "question": "Which of the following is true concerning access to frequencies?",
+            "answers": [
+                {
+                    "A": "Nets always have priority",
+                    "B": "QSOs in progress always have priority",
+                    "C": "Except during emergencies, no amateur station has priority access to any frequency",
+                    "D": "Contest operations must always yield to non-contest use of frequencies"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2B02",
+            "question": "What is the first thing you should do if you are communicating with another amateur station and hear a station in distress break in?",
+            "answers": [
+                {
+                    "A": "Continue your communication because you were on the frequency first",
+                    "B": "Acknowledge the station in distress and determine what assistance may be needed",
+                    "C": "Change to a different frequency",
+                    "D": "Immediately cease all transmissions"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ]
 }
