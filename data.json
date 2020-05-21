@@ -177,7 +177,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -552,7 +552,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -642,7 +642,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -927,7 +927,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1047,7 +1047,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1184,6 +1184,21 @@
             "right_answer": "C",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G2B04",
+            "question": "When selecting a CW transmitting frequency, what minimum separation should be used to minimize interference to stations on adjacent frequencies?",
+            "answers": [
+                {
+                    "A": "5 to 50 Hz",
+                    "B": "150 to 500 Hz",
+                    "C": "1 to 3 kHz",
+                    "D": "3 to 6 kHz"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 1
         }
     ]
 }
