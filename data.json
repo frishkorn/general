@@ -1169,6 +1169,21 @@
             "right_answer": "B",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G2B03",
+            "question": "What is good amateur practice if propagation changes during a contact and you notice interference from other stations on the frequency?",
+            "answers": [
+                {
+                    "A": "Tell the interfering stations to change frequency",
+                    "B": "Report the interference to your local Amateur Auxiliary Coordinator",
+                    "C": "Attempt to resolve the interference problem with the other stations in a mutually acceptable manner",
+                    "D": "Increase power to overcome interference"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ]
 }
