@@ -477,7 +477,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1199,6 +1199,51 @@
             "right_answer": "B",
             "cr_attempts": 0,
             "in_attempts": 1
+        },
+        {
+            "question_id": "G2B05",
+            "question": "When selecting an SSB transmitting frequency, what minimum separation should be used to minimize interference to stations on adjacent frequencies?",
+            "answers": [
+                {
+                    "A": "5 to 50 Hz",
+                    "B": "150 to 500 Hz",
+                    "C": "Approximately 3 kHz",
+                    "D": "Approximately 6 kHz"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2B06",
+            "question": "What is a practical way to avoid harmful interference on an apparently clear frequency before calling CQ on CW or phone?",
+            "answers": [
+                {
+                    "A": "Send \u201cQRL?\u201d on CW, followed by your call sign; or, if using phone, ask if the frequency is in use, followed by your call sign",
+                    "B": "Listen for 2 minutes before calling CQ",
+                    "C": "Send the letter \u201cV\u201d in Morse code several times and listen for a response, or say \u201ctest\u201d several times and listen for a response",
+                    "D": "Send \u201cQSY\u201d on CW or if using phone, announce \u201cthe frequency is in use,\u201d then give your call sign and listen for a response"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2B07",
+            "question": "Which of the following complies with good amateur practice when choosing a frequency on which to initiate a call?",
+            "answers": [
+                {
+                    "A": "Check to see if the channel is assigned to another station",
+                    "B": "Identify your station by transmitting your call sign at least 3 times",
+                    "C": "Follow the voluntary band plan for the operating mode you intend to use",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ]
 }
