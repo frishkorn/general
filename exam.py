@@ -2,7 +2,7 @@
 
 # exam.py
 # C. Frishkorn 05/20/2020
-# version: 0.4.52
+# version: 0.5.71
 # ------------------------
 import json
 from random import randint
@@ -36,7 +36,7 @@ def random_question():
 # Practice complete question pool in reverse order.
 def series_mode(selection):
     index = pool_len
-    count = 0
+    count = 1
     while index != 0:
         print("\n" + pool['question_pool'][index - 1]['question_id'] + " [" + str(pool['question_pool'][index - 1]['cr_attempts']) + "|" + str(pool['question_pool'][index - 1]['in_attempts']) + "]")
         print(pool['question_pool'][index - 1]['question'])
@@ -55,7 +55,7 @@ def series_mode(selection):
             print(bcolors.WARNING + "\nSorry the correct answer was %s." % (answer) + bcolors.ENDC)
             result = "I"
         update_attempt(result, index)
-        if count == 4:
+        if count == 5:
             print(bcolors.BOLD + "\n%d questions remaining!" % (index - 1) + bcolors.ENDC)
             count = 0
         index -= 1
