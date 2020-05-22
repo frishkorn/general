@@ -33,6 +33,34 @@ def random_question():
     print(pool['question_pool'][index - 1]['question'])
     return index
 
+# Practice complete question pool in reverse order.
+def series_mode(selection):
+    index = pool_len
+    count = 0
+    while index != 0:
+        print("\n" + pool['question_pool'][index - 1]['question_id'] + " [" + str(pool['question_pool'][index - 1]['cr_attempts']) + "|" + str(pool['question_pool'][index - 1]['in_attempts']) + "]")
+        print(pool['question_pool'][index - 1]['question'])
+        answer = pool['question_pool'][index - 1]['right_answer']
+        for x in range(4):
+            letter = answer_letter[x]
+            print(letter + ": " + pool['question_pool'][index - 1]['answers'][0][letter])
+        entry = input("\nWhat is the correct answer?: ").upper()
+        selection = entry
+        if entry == answer:
+            print(bcolors.BOLD + "Correct!" + bcolors.ENDC)
+            result = "C"
+        elif entry == "X":
+            continue
+        else:
+            print(bcolors.WARNING + "\nSorry the correct answer was %s." % (answer) + bcolors.ENDC)
+            result = "I"
+        update_attempt(result, index)
+        if count == 4:
+            print(bcolors.BOLD + "\n%d questions remaining!" % (index - 1) + bcolors.ENDC)
+            count = 0
+        index -= 1
+        count += 1
+
 def add_question(selection):
     while selection != "N":
         # Ask user to input the question id.
@@ -136,7 +164,7 @@ pool = load_pool()
 print("\n2019-2023 General Class Pool - Exam Tool")
 print("2nd & Final Public Release with Errata - March 15, 2019")
 print("Question ID's show [correct|incorrect] attempts.\n")
-selection = input("(A)dd Question, (R)eview, (P)ractice, or E(X)it?: ").upper()
+selection = input("(A)dd Question, (R)eview, (P)ractice, (S)eries Mode, or E(X)it?: ").upper()
 if selection == "A":
     selection = add_question(selection)
     pool = load_pool()
@@ -146,12 +174,15 @@ pool_len = len(pool['question_pool'])
 print("\nThere are %d total questions in the pool." % (pool_len))
 
 if selection == "N":
-    selection = input("\n(R)eview, (P)ractice, or E(X)it?: ").upper()
+    selection = input("\n(R)eview, (P)ractice, (S)eries Mode, or E(X)it?: ").upper()
 
 if selection == "R":
     review_question(selection)
 
 if selection == "P":
     practice_quiz(selection)
+
+if selection == "S":
+    series_mode(selection)
 else:
     pass
