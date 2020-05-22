@@ -132,7 +132,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -237,7 +237,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -267,7 +267,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -297,7 +297,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -567,7 +567,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -612,7 +612,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -627,7 +627,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -642,7 +642,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -687,7 +687,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -717,7 +717,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1167,7 +1167,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1257,7 +1257,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1317,7 +1317,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1347,7 +1347,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1422,7 +1422,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1482,7 +1482,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1542,7 +1542,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1662,7 +1662,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1677,7 +1677,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1812,7 +1812,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1857,7 +1857,52 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3A01",
+            "question": "What is the significance of the sunspot number with regard to HF propagation?",
+            "answers": [
+                {
+                    "A": "Higher sunspot numbers generally indicate a greater probability of good propagation at higher frequencies",
+                    "B": "Lower sunspot numbers generally indicate greater probability of sporadic E propagation",
+                    "C": "A zero sunspot number indicates that radio propagation is not possible on any band",
+                    "D": "A zero sunspot number indicates undisturbed conditions"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3A02",
+            "question": "What effect does a Sudden Ionospheric Disturbance have on the daytime ionospheric propagation of HF radio waves?",
+            "answers": [
+                {
+                    "A": "It enhances propagation on all HF frequencies",
+                    "B": "It disrupts signals on lower frequencies more than those on higher frequencies",
+                    "C": "It disrupts communications via satellite more than direct communications",
+                    "D": "None, because only areas on the night side of the Earth are affected"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 2,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3A03",
+            "question": "Approximately how long does it take the increased ultraviolet and X-ray radiation from solar flares to affect radio propagation on Earth?",
+            "answers": [
+                {
+                    "A": "28 days",
+                    "B": "1 to 2 hours",
+                    "C": "8 minutes",
+                    "D": "20 to 40 hours"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
             "in_attempts": 0
         }
     ]
