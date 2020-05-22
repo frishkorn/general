@@ -12,7 +12,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -27,7 +27,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -147,7 +147,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -177,7 +177,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -192,7 +192,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -222,7 +222,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -282,7 +282,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -312,7 +312,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -447,7 +447,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -552,7 +552,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -567,7 +567,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -582,7 +582,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -627,7 +627,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -657,7 +657,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -687,7 +687,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -792,7 +792,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -912,7 +912,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1062,7 +1062,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1167,7 +1167,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1197,7 +1197,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 1
         },
         {
@@ -1257,7 +1257,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1302,7 +1302,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1377,7 +1377,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1422,7 +1422,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1437,7 +1437,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1512,7 +1512,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1662,7 +1662,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1677,7 +1677,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1707,7 +1707,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1738,6 +1738,111 @@
             ],
             "right_answer": "A",
             "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2E08",
+            "question": "In what segment of the 20-meter band are most PSK31 operations commonly found?",
+            "answers": [
+                {
+                    "A": "At the bottom of the slow-scan TV segment, near 14.230 MHz",
+                    "B": "At the top of the SSB phone segment, near 14.325 MHz",
+                    "C": "In the middle of the CW segment, near 14.100 MHz",
+                    "D": "Below the RTTY segment, near 14.070 MHz"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2E09",
+            "question": "How do you join a contact between two stations using the PACTOR protocol?",
+            "answers": [
+                {
+                    "A": "Send broadcast packets containing your call sign while in MONITOR mode",
+                    "B": "Transmit a steady carrier until the PACTOR protocol times out and disconnects",
+                    "C": "Joining an existing contact is not possible, PACTOR connections are limited to two stations",
+                    "D": "Send a NAK response continuously so that the sending station must stand by"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2E10",
+            "question": "Which of the following is a way to establish contact with a digital messaging system gateway station?",
+            "answers": [
+                {
+                    "A": "Send an email to the system control operator",
+                    "B": "Send QRL in Morse code",
+                    "C": "Respond when the station broadcasts its SSID",
+                    "D": "Transmit a connect message on the station\u2019s published frequency"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2E11",
+            "question": "Which of the following is characteristic of the FT8 mode of the WSJT-X family?",
+            "answers": [
+                {
+                    "A": "It is a keyboard-to-keyboard chat mode",
+                    "B": "Each transmission takes exactly 60 seconds",
+                    "C": "It is limited to use on VHF",
+                    "D": "Typical exchanges are limited to call signs, grid locators, and signal reports"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2E12",
+            "question": "Which of the following connectors would be a good choice for a serial data port?",
+            "answers": [
+                {
+                    "A": "PL-259",
+                    "B": "Type N",
+                    "C": "Type SMA",
+                    "D": "DE-9"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2E13",
+            "question": "Which communication system sometimes uses the internet to transfer messages?",
+            "answers": [
+                {
+                    "A": "Winlink",
+                    "B": "RTTY",
+                    "C": "ARES",
+                    "D": "SKYWARN"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2E14",
+            "question": "What could be wrong if you cannot decode an RTTY or other FSK signal even though it is apparently tuned in properly?",
+            "answers": [
+                {
+                    "A": "The mark and space frequencies may be reversed",
+                    "B": "You may have selected the wrong baud rate",
+                    "C": "You may be listening on the wrong sideband",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 1,
             "in_attempts": 0
         }
     ]
