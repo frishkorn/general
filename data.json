@@ -72,7 +72,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -102,7 +102,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -132,7 +132,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -312,7 +312,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -492,7 +492,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -597,7 +597,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -852,7 +852,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -957,7 +957,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1017,7 +1017,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1047,7 +1047,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1107,7 +1107,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1137,7 +1137,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1212,7 +1212,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1332,7 +1332,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1527,7 +1527,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1542,7 +1542,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -1737,7 +1737,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1872,7 +1872,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1903,6 +1903,66 @@
             ],
             "right_answer": "C",
             "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3A04",
+            "question": "Which of the following are least reliable for long-distance communications during periods of low solar activity?",
+            "answers": [
+                {
+                    "A": "80 meters and 160 meters",
+                    "B": "60 meters and 40 meters",
+                    "C": "30 meters and 20 meters",
+                    "D": "15 meters, 12 meters, and 10 meters"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3A05",
+            "question": "What is the solar flux index?",
+            "answers": [
+                {
+                    "A": "A measure of the highest frequency that is useful for ionospheric propagation between two points on Earth",
+                    "B": "A count of sunspots that is adjusted for solar emissions",
+                    "C": "Another name for the American sunspot number",
+                    "D": "A measure of solar radiation at 10.7 centimeters wavelength"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3A06",
+            "question": "What is a geomagnetic storm?",
+            "answers": [
+                {
+                    "A": "A sudden drop in the solar flux index",
+                    "B": "A thunderstorm that affects radio propagation",
+                    "C": "Ripples in the ionosphere",
+                    "D": "A temporary disturbance in Earth\u2019s magnetosphere"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3A07",
+            "question": "At what point in the solar cycle does the 20-meter band usually support worldwide propagation during daylight hours?",
+            "answers": [
+                {
+                    "A": "At the summer solstice",
+                    "B": "Only at the maximum point of the solar cycle",
+                    "C": "Only at the minimum point of the solar cycle",
+                    "D": "At any point in the solar cycle"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 1,
             "in_attempts": 0
         }
     ]
