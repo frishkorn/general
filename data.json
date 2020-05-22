@@ -72,7 +72,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -117,7 +117,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -207,7 +207,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -432,7 +432,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -507,7 +507,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -672,7 +672,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -897,7 +897,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -927,7 +927,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1542,7 +1542,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1602,7 +1602,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1677,6 +1677,66 @@
                 }
             ],
             "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2E04",
+            "question": "What segment of the 20-meter band is most often used for digital transmissions (avoiding the DX propagation beacons)?",
+            "answers": [
+                {
+                    "A": "14.000 - 14.050 MHz",
+                    "B": "14.070 - 14.112 MHz",
+                    "C": "14.150 - 14.225 MHz",
+                    "D": "14.275 - 14.350 MHz"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2E05",
+            "question": "What is the standard sideband used to generate a JT65, JT9, or FT8 digital signal when using AFSK in any amateur band?",
+            "answers": [
+                {
+                    "A": "LSB",
+                    "B": "USB",
+                    "C": "DSB",
+                    "D": "SSB"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2E06",
+            "question": "What is the most common frequency shift for RTTY emissions in the amateur HF bands?",
+            "answers": [
+                {
+                    "A": "85 Hz",
+                    "B": "170 Hz",
+                    "C": "425 Hz",
+                    "D": "850 Hz"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2E07",
+            "question": "What segment of the 80-meter band is most commonly used for digital transmissions?",
+            "answers": [
+                {
+                    "A": "3570 \u2013 3600 kHz",
+                    "B": "3500 \u2013 3525 kHz",
+                    "C": "3700 \u2013 3750 kHz",
+                    "D": "3775 \u2013 3825 kHz"
+                }
+            ],
+            "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
         }
