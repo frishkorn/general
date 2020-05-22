@@ -42,7 +42,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -102,7 +102,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -117,7 +117,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -132,7 +132,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -147,7 +147,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -162,7 +162,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -222,7 +222,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -237,7 +237,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -267,7 +267,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -312,7 +312,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -327,7 +327,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -342,7 +342,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -372,7 +372,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -432,7 +432,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -447,7 +447,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -477,7 +477,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -492,7 +492,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -522,7 +522,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -537,7 +537,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -552,7 +552,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -582,7 +582,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -597,7 +597,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -612,7 +612,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -627,7 +627,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -642,7 +642,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -657,7 +657,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -672,7 +672,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -687,7 +687,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -702,7 +702,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -717,7 +717,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -837,7 +837,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -867,7 +867,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -882,7 +882,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -897,7 +897,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -927,7 +927,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -942,7 +942,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -957,7 +957,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -987,7 +987,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1002,7 +1002,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1032,7 +1032,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1062,7 +1062,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1077,7 +1077,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1092,7 +1092,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1107,7 +1107,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1122,7 +1122,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1167,7 +1167,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1212,7 +1212,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1257,7 +1257,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1287,7 +1287,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1317,7 +1317,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1332,7 +1332,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1347,7 +1347,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1362,7 +1362,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1422,7 +1422,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1437,7 +1437,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -1452,6 +1452,156 @@
                 }
             ],
             "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2C11",
+            "question": "What does the Q signal \u201cQRV\u201d mean?",
+            "answers": [
+                {
+                    "A": "You are sending too fast",
+                    "B": "There is interference on the frequency",
+                    "C": "I am quitting for the day",
+                    "D": "I am ready to receive messages"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2D01",
+            "question": "What is the Volunteer Monitoring Program?",
+            "answers": [
+                {
+                    "A": "Amateur volunteers who are formally enlisted to monitor the airwaves for rules violations",
+                    "B": "Amateur volunteers who conduct amateur licensing examinations",
+                    "C": "Amateur volunteers who conduct frequency coordination for amateur VHF repeaters",
+                    "D": "Amateur volunteers who use their station equipment to help civil defense organizations in times of emergency"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2D02",
+            "question": "Which of the following are objectives of the Volunteer Monitoring Program?",
+            "answers": [
+                {
+                    "A": "To conduct efficient and orderly amateur licensing examinations",
+                    "B": "To encourage amateur radio operators to self-regulate and comply with the rules",
+                    "C": "To coordinate repeaters for efficient and orderly spectrum usage",
+                    "D": "To provide emergency and public safety communications"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2D03",
+            "question": "What skills learned during hidden transmitter hunts are of help to the Volunteer Monitoring Program?",
+            "answers": [
+                {
+                    "A": "Identification of out-of-band operation",
+                    "B": "Direction finding used to locate stations violating FCC rules",
+                    "C": "Identification of different call signs",
+                    "D": "Hunters have an opportunity to transmit on non-amateur frequencies"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2D04",
+            "question": "Which of the following describes an azimuthal projection map?",
+            "answers": [
+                {
+                    "A": "A map that shows accurate land masses",
+                    "B": "A map that shows true bearings and distances from a particular location",
+                    "C": "A map that shows the angle at which an amateur satellite crosses the equator",
+                    "D": "A map that shows the number of degrees longitude that an amateur satellite appears to move westward at the equator with each orbit"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2D05",
+            "question": "Which of the following is a good way to indicate on a clear frequency in the HF phone bands that you are looking for a contact with any station?",
+            "answers": [
+                {
+                    "A": "Sign your call sign once, followed by the words \u201clistening for a call\u201d -- if no answer, change frequency and repeat",
+                    "B": "Say \u201cQTC\u201d followed by \u201cthis is\u201d and your call sign -- if no answer, change frequency and repeat",
+                    "C": "Repeat \u201cCQ\u201d a few times, followed by \u201cthis is,\u201d then your call sign a few times, then pause to listen, repeat as necessary",
+                    "D": "Transmit an unmodulated carried for approximately 10 seconds, followed by \u201cthis is\u201d and your call sign, and pause to listen -- repeat as necessary"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2D06",
+            "question": "How is a directional antenna pointed when making a \u201clong-path\u201d contact with another station?",
+            "answers": [
+                {
+                    "A": "Toward the rising sun",
+                    "B": "Along the grayline",
+                    "C": "180 degrees from the station\u2019s short-path heading",
+                    "D": "Toward the north"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2D07",
+            "question": "Which of the following are examples of the NATO Phonetic Alphabet?",
+            "answers": [
+                {
+                    "A": "Able, Baker, Charlie, Dog",
+                    "B": "Adam, Boy, Charles, David",
+                    "C": "America, Boston, Canada, Denmark",
+                    "D": "Alpha, Bravo, Charlie, Delta"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2D08",
+            "question": "What is a reason why many amateurs keep a station log?",
+            "answers": [
+                {
+                    "A": "The ITU requires a log of all international contacts",
+                    "B": "The ITU requires a log of all international third-party traffic",
+                    "C": "The log provides evidence of operation needed to renew a license without retest",
+                    "D": "To help with a reply if the FCC requests information"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G2D09",
+            "question": "Which of the following is required when participating in a contest on HF frequencies?",
+            "answers": [
+                {
+                    "A": "Submit a log to the contest sponsor",
+                    "B": "Send a QSL card to the stations worked, or QSL via Logbook of The World",
+                    "C": "Identify your station per normal FCC regulations",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "C",
             "cr_attempts": 0,
             "in_attempts": 0
         }
