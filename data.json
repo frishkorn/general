@@ -267,7 +267,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -762,7 +762,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -927,7 +927,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 6,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -987,7 +987,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -1152,7 +1152,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1198,7 +1198,7 @@
             ],
             "right_answer": "B",
             "cr_attempts": 2,
-            "in_attempts": 1
+            "in_attempts": 2
         },
         {
             "question_id": "G2B05",
@@ -1302,7 +1302,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1347,7 +1347,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1407,7 +1407,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1662,7 +1662,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -2052,6 +2052,81 @@
                 }
             ],
             "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3A14",
+            "question": "How are radio communications usually affected by the charged particles that reach Earth from solar coronal holes?",
+            "answers": [
+                {
+                    "A": "HF communications are improved",
+                    "B": "HF communications are disturbed",
+                    "C": "VHF/UHF ducting is improved",
+                    "D": "VHF/UHF ducting is disturbed"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3B01",
+            "question": "What is a characteristic of skywave signals arriving at your location by both short-path and long-path propagation?",
+            "answers": [
+                {
+                    "A": "Periodic fading approximately every 10 seconds",
+                    "B": "Signal strength increased by 3 dB",
+                    "C": "The signal might be cancelled causing severe attenuation",
+                    "D": "A slightly delayed echo might be heard"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3B02",
+            "question": "What factors affect the MUF?",
+            "answers": [
+                {
+                    "A": "Path distance and location",
+                    "B": "Time of day and season",
+                    "C": "Solar radiation and ionospheric disturbances",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3B03",
+            "question": "Which of the following applies when selecting a frequency for lowest attenuation when transmitting on HF?",
+            "answers": [
+                {
+                    "A": "Select a frequency just below the MUF",
+                    "B": "Select a frequency just above the LUF",
+                    "C": "Select a frequency just below the critical frequency",
+                    "D": "Select a frequency just above the critical frequency"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3B04",
+            "question": "What is a reliable way to determine if the MUF is high enough to support skip propagation between your station and a distant location on frequencies between 14 and 30 MHz?",
+            "answers": [
+                {
+                    "A": "Listen for signals from an international beacon in the frequency range you plan to use",
+                    "B": "Send a series of dots on the band and listen for echoes from your signal",
+                    "C": "Check the strength of TV signals from western Europe",
+                    "D": "Check the strength of signals in the MF AM broadcast band"
+                }
+            ],
+            "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
         }
