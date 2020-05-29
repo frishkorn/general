@@ -57,7 +57,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 1
         },
         {
@@ -252,7 +252,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -312,7 +312,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -987,7 +987,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 8,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -2277,7 +2277,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -2293,7 +2293,7 @@
             ],
             "right_answer": "D",
             "cr_attempts": 0,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G3C05",
@@ -2472,6 +2472,81 @@
                 }
             ],
             "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4A06",
+            "question": "What type of device is often used to match transmitter output impedance to an impedance not equal to 50 ohms?",
+            "answers": [
+                {
+                    "A": "Balanced modulator",
+                    "B": "SWR bridge",
+                    "C": "Antenna coupler or antenna tuner",
+                    "D": "Q multiplier"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4A07",
+            "question": "What condition can lead to permanent damage to a solid-state RF power amplifier?",
+            "answers": [
+                {
+                    "A": "Insufficient drive power",
+                    "B": "Low input SWR",
+                    "C": "Shorting the input signal to ground",
+                    "D": "Excessive drive power"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4A08",
+            "question": "What is the correct adjustment for the load or coupling control of a vacuum tube RF power amplifier?",
+            "answers": [
+                {
+                    "A": "Minimum SWR on the antenna",
+                    "B": "Minimum plate current without exceeding maximum allowable grid current",
+                    "C": "Highest plate voltage while minimizing grid current",
+                    "D": "Maximum power output without exceeding maximum allowable plate current"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4A09",
+            "question": "Why is a time delay sometimes included in a transmitter keying circuit?",
+            "answers": [
+                {
+                    "A": "To prevent stations from interfering with one another",
+                    "B": "To allow the transmitter power regulators to charge properly",
+                    "C": "To allow time for transmit-receive changeover operations to complete properly before RF output is allowed",
+                    "D": "To allow time for a warning signal to be sent to other stations"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4A10",
+            "question": "What is the purpose of an electronic keyer?",
+            "answers": [
+                {
+                    "A": "Automatic transmit/receive switching",
+                    "B": "Automatic generation of strings of dots and dashes for CW operation",
+                    "C": "VOX operation",
+                    "D": "Computer interface for PSK and RTTY operation"
+                }
+            ],
+            "right_answer": "B",
             "cr_attempts": 0,
             "in_attempts": 0
         }
