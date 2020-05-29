@@ -312,7 +312,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -837,7 +837,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1887,7 +1887,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1932,7 +1932,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -2022,7 +2022,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -2263,6 +2263,66 @@
             ],
             "right_answer": "A",
             "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3C03",
+            "question": "Why is the F2 region mainly responsible for the longest distance radio wave propagation?",
+            "answers": [
+                {
+                    "A": "Because it is the densest ionospheric layer",
+                    "B": "Because of the Doppler effect",
+                    "C": "Because it is the highest ionospheric region",
+                    "D": "Because of meteor trails at that level"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3C04",
+            "question": "What does the term \u201ccritical angle\u201d mean, as used in radio wave propagation?",
+            "answers": [
+                {
+                    "A": "The long path azimuth of a distant station",
+                    "B": "The short path azimuth of a distant station",
+                    "C": "The lowest takeoff angle that will return a radio wave to Earth under specific ionospheric conditions",
+                    "D": "The highest takeoff angle that will return a radio wave to Earth under specific ionospheric conditions"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3C05",
+            "question": "Why is long-distance communication on the 40-meter, 60-meter, 80-meter, and 160-meter bands more difficult during the day?",
+            "answers": [
+                {
+                    "A": "The F layer absorbs signals at these frequencies during daylight hours",
+                    "B": "The F layer is unstable during daylight hours",
+                    "C": "The D layer absorbs signals at these frequencies during daylight hours",
+                    "D": "The E layer is unstable during daylight hours"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3C06",
+            "question": "What is a characteristic of HF scatter?",
+            "answers": [
+                {
+                    "A": "Phone signals have high intelligibility",
+                    "B": "Signals have a fluttering sound",
+                    "C": "There are very large, sudden swings in signal strength",
+                    "D": "Scatter propagation occurs only at night"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
             "in_attempts": 0
         }
     ]
