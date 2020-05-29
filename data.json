@@ -2845,7 +2845,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -2861,7 +2861,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -2877,7 +2877,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -2893,6 +2893,182 @@
                 }
             ],
             "right_answer": "D",
+            "cr_attempts": 2,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B05",
+            "question_group": 4,
+            "question": "Why is high input impedance desirable for a voltmeter?",
+            "answers": [
+                {
+                    "A": "It improves the frequency response",
+                    "B": "It decreases battery consumption in the meter",
+                    "C": "It improves the resolution of the readings",
+                    "D": "It decreases the loading on circuits being measured"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B06",
+            "question_group": 4,
+            "question": "What is an advantage of a digital voltmeter as compared to an analog voltmeter?",
+            "answers": [
+                {
+                    "A": "Better for measuring computer circuits",
+                    "B": "Better for RF measurements",
+                    "C": "Better precision for most uses",
+                    "D": "Faster response"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B07",
+            "question_group": 4,
+            "question": "What signals are used to conduct a two-tone test?",
+            "answers": [
+                {
+                    "A": "Two audio signals of the same frequency shifted 90 degrees",
+                    "B": "Two non-harmonically related audio signals",
+                    "C": "Two swept frequency tones",
+                    "D": "Two audio frequency range square wave signals of equal amplitude"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B08",
+            "question_group": 4,
+            "question": "Which of the following instruments may be used to monitor relative RF output when making antenna and transmitter adjustments?",
+            "answers": [
+                {
+                    "A": "A field strength meter",
+                    "B": "An antenna noise bridge",
+                    "C": "A multimeter",
+                    "D": "A Q meter"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B09",
+            "question_group": 4,
+            "question": "Which of the following can be determined with a field strength meter?",
+            "answers": [
+                {
+                    "A": "The radiation resistance of an antenna",
+                    "B": "The radiation pattern of an antenna",
+                    "C": "The presence and amount of phase distortion of a transmitter",
+                    "D": "The presence and amount of amplitude distortion of a transmitter"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B10",
+            "question_group": 4,
+            "question": "Which of the following can be determined with a directional wattmeter?",
+            "answers": [
+                {
+                    "A": "Standing wave ratio",
+                    "B": "Antenna front-to-back ratio",
+                    "C": "RF interference",
+                    "D": "Radio wave propagation"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B11",
+            "question_group": 4,
+            "question": "Which of the following must be connected to an antenna analyzer when it is being used for SWR measurements?",
+            "answers": [
+                {
+                    "A": "Receiver",
+                    "B": "Transmitter",
+                    "C": "Antenna and feed line",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B12",
+            "question_group": 4,
+            "question": "What problem can occur when making measurements on an antenna system with an antenna analyzer?",
+            "answers": [
+                {
+                    "A": "Permanent damage to the analyzer may occur if it is operated into a high SWR",
+                    "B": "Strong signals from nearby transmitters can affect the accuracy of measurements",
+                    "C": "The analyzer can be damaged if measurements outside the ham bands are attempted",
+                    "D": "Connecting the analyzer to an antenna can cause it to absorb harmonics"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B13",
+            "question_group": 4,
+            "question": "What is a use for an antenna analyzer other than measuring the SWR of an antenna system?",
+            "answers": [
+                {
+                    "A": "Measuring the front-to-back ratio of an antenna",
+                    "B": "Measuring the turns ratio of a power transformer",
+                    "C": "Determining the impedance of coaxial cable",
+                    "D": "Determining the gain of a directional antenna"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B14",
+            "question_group": 4,
+            "question": "What is an instance in which the use of an instrument with analog readout may be preferred over an instrument with digital readout?",
+            "answers": [
+                {
+                    "A": "When testing logic circuits",
+                    "B": "When high precision is desired",
+                    "C": "When measuring the frequency of an oscillator",
+                    "D": "When adjusting tuned circuits"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B15",
+            "question_group": 4,
+            "question": "What type of transmitter performance does a two-tone test analyze?",
+            "answers": [
+                {
+                    "A": "Linearity",
+                    "B": "Percentage of suppression of carrier and undesired sideband for SSB",
+                    "C": "Percentage of frequency modulation",
+                    "D": "Percentage of carrier phase shift"
+                }
+            ],
+            "right_answer": "A",
             "cr_attempts": 1,
             "in_attempts": 0
         }
