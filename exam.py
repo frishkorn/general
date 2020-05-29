@@ -2,7 +2,7 @@
 
 # exam.py
 # C. Frishkorn 05/29/2020
-# version: 0.5.83
+# version: 0.6.87
 # ------------------------
 import json
 from random import randint
@@ -37,6 +37,11 @@ def random_question():
 def series_mode(selection):
     index = pool_len
     count = 1
+    last_index = pool["last_index"]
+    if last_index < index:
+        index = last_index
+    if last_index == 0:
+        index = pool_len
     while index != 0:
         print("\n" + pool['question_pool'][index - 1]['question_id'] + " [" + str(pool['question_pool'][index - 1]['cr_attempts']) + "|" + str(pool['question_pool'][index - 1]['in_attempts']) + "]")
         print(pool['question_pool'][index - 1]['question'])
@@ -44,7 +49,7 @@ def series_mode(selection):
         for x in range(4):
             letter = answer_letter[x]
             print(letter + ": " + pool['question_pool'][index - 1]['answers'][0][letter])
-        entry = input("\nWhat is the correct answer?: ").upper()
+        entry = input("\nWhat is the correct answer? or e(X)it: ").upper()
         selection = entry
         if entry == answer:
             print(bcolors.BOLD + "Correct!" + bcolors.ENDC)
@@ -60,6 +65,12 @@ def series_mode(selection):
             count = 0
         index -= 1
         count += 1
+
+    # Get index and write it to the data.json file.
+    with open('data.json') as json_file:
+        file_data = json.load(json_file)
+        file_data['last_index'] = index
+    write_json(file_data)
 
 def add_question(selection):
     while selection != "N":
