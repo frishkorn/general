@@ -12,7 +12,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -58,7 +58,7 @@
             ],
             "right_answer": "D",
             "cr_attempts": 1,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G1A05",
@@ -72,7 +72,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -117,7 +117,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 1
         },
         {
@@ -267,7 +267,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -462,7 +462,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -597,7 +597,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -657,7 +657,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -672,7 +672,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -702,7 +702,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -732,7 +732,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -747,7 +747,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -762,7 +762,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -852,7 +852,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -867,7 +867,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -897,7 +897,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -927,7 +927,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 8,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -1107,7 +1107,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1347,7 +1347,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1467,7 +1467,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1512,7 +1512,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1648,7 +1648,7 @@
             ],
             "right_answer": "D",
             "cr_attempts": 1,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G2E02",
@@ -1677,7 +1677,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1827,7 +1827,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 8,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -1842,7 +1842,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 8,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -1872,7 +1872,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1887,7 +1887,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -2097,7 +2097,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -2112,7 +2112,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -2127,7 +2127,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -2323,6 +2323,81 @@
             ],
             "right_answer": "B",
             "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3C07",
+            "question": "What makes HF scatter signals often sound distorted?",
+            "answers": [
+                {
+                    "A": "The ionospheric layer involved is unstable",
+                    "B": "Ground waves are absorbing much of the signal",
+                    "C": "The E-region is not present",
+                    "D": "Energy is scattered into the skip zone through several different radio wave paths"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3C08",
+            "question": "Why are HF scatter signals in the skip zone usually weak?",
+            "answers": [
+                {
+                    "A": "Only a small part of the signal energy is scattered into the skip zone",
+                    "B": "Signals are scattered from the magnetosphere, which is not a good reflector",
+                    "C": "Propagation is through ground waves, which absorb most of the signal energy",
+                    "D": "Propagation is through ducts in the F region, which absorb most of the energy"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3C09",
+            "question": "What type of propagation allows signals to be heard in the transmitting station\u2019s skip zone?",
+            "answers": [
+                {
+                    "A": "Faraday rotation",
+                    "B": "Scatter",
+                    "C": "Chordal hop",
+                    "D": "Short-path"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3C10",
+            "question": "What is Near Vertical Incidence Skywave (NVIS) propagation?",
+            "answers": [
+                {
+                    "A": "Propagation near the MUF",
+                    "B": "Short distance MF or HF propagation using high elevation angles",
+                    "C": "Long path HF propagation at sunrise and sunset",
+                    "D": "Double hop propagation near the LUF"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3C11",
+            "question": "Which ionospheric layer is the most absorbent of long skip signals during daylight hours on frequencies below 10 MHz?",
+            "answers": [
+                {
+                    "A": "The F2 layer",
+                    "B": "The F1 layer",
+                    "C": "The E layer",
+                    "D": "The D layer"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 1,
             "in_attempts": 0
         }
     ]
