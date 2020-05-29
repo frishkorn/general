@@ -2,7 +2,7 @@
 
 # exam.py
 # C. Frishkorn 05/29/2020
-# version: 0.5.77
+# version: 0.5.83
 # ------------------------
 import json
 from random import randint
@@ -66,6 +66,10 @@ def add_question(selection):
         # Ask user to input the question id.
         question_id = input("\nQuestion ID: ")
 
+        # Ask user to input question group.
+        question_group = input("Question Group: ").upper()
+        question_group = int(question_group)
+
         # Ask user to input the question.
         question = input("Question: ")
 
@@ -80,7 +84,7 @@ def add_question(selection):
         correct = input("Which answer is correct?: ").upper()
 
         # Save Q&A to a JSON formatted file.
-        question_data = {'question_id':question_id,'question':question,'answers':[{"A":answer_list[0], "B":answer_list[1], "C":answer_list[2], "D":answer_list[3]}],'right_answer':correct,'cr_attempts':0,'in_attempts':0}
+        question_data = {'question_id':question_id,'question_group':question_group,'question':question,'answers':[{"A":answer_list[0], "B":answer_list[1], "C":answer_list[2], "D":answer_list[3]}],'right_answer':correct,'cr_attempts':0,'in_attempts':0}
 
         # Append new questions to data.json.
         with open('data.json') as json_file:

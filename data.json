@@ -2,6 +2,7 @@
     "question_pool": [
         {
             "question_id": "G1A01",
+            "question_group": 1,
             "question": "On which HF/MF bands is a General class license holder granted all amateur frequency privileges?",
             "answers": [
                 {
@@ -17,6 +18,7 @@
         },
         {
             "question_id": "G1A02",
+            "question_group": 1,
             "question": "On which of the following bands is phone operation prohibited?",
             "answers": [
                 {
@@ -32,6 +34,7 @@
         },
         {
             "question_id": "G1A03",
+            "question_group": 1,
             "question": "On which of the following bands is image transmission prohibited?",
             "answers": [
                 {
@@ -47,6 +50,7 @@
         },
         {
             "question_id": "G1A04",
+            "question_group": 1,
             "question": "Which of the following amateur bands is restricted to communication only on specific channels, rather than frequency ranges?",
             "answers": [
                 {
@@ -62,6 +66,7 @@
         },
         {
             "question_id": "G1A05",
+            "question_group": 1,
             "question": "Which of the following frequencies is in the General class portion of the 40-meter band in ITU Region 2?",
             "answers": [
                 {
@@ -77,6 +82,7 @@
         },
         {
             "question_id": "G1A06",
+            "question_group": 1,
             "question": "Which of the following frequencies is within the General class portion of the 75-meter phone band?",
             "answers": [
                 {
@@ -92,6 +98,7 @@
         },
         {
             "question_id": "G1A07",
+            "question_group": 1,
             "question": "Which of the following frequencies is within the General class portion of the 20-meter phone band?",
             "answers": [
                 {
@@ -107,6 +114,7 @@
         },
         {
             "question_id": "G1A08",
+            "question_group": 1,
             "question": "Which of the following frequencies is within the General class portion of the 80-meter band?",
             "answers": [
                 {
@@ -122,6 +130,7 @@
         },
         {
             "question_id": "G1A09",
+            "question_group": 1,
             "question": "Which of the following frequencies is within the General class portion of the 15-meter band?",
             "answers": [
                 {
@@ -137,6 +146,7 @@
         },
         {
             "question_id": "G1A10",
+            "question_group": 1,
             "question": "Which of the following frequencies is available to a control operator holding a General class license?",
             "answers": [
                 {
@@ -152,6 +162,7 @@
         },
         {
             "question_id": "G1A11",
+            "question_group": 1,
             "question": "When General class licensees are not permitted to use the entire voice portion of a band, which portion of the voice segment is generally available to them?",
             "answers": [
                 {
@@ -167,6 +178,7 @@
         },
         {
             "question_id": "G1A12",
+            "question_group": 1,
             "question": "Which of the following applies when the FCC rules designate the Amateur Service as a secondary user on a band?",
             "answers": [
                 {
@@ -182,6 +194,7 @@
         },
         {
             "question_id": "G1A13",
+            "question_group": 1,
             "question": "What is the appropriate action if, when operating on either the 30-meter or 60-meter bands, a station in the primary service interferes with your contact?",
             "answers": [
                 {
@@ -197,6 +210,7 @@
         },
         {
             "question_id": "G1A14",
+            "question_group": 1,
             "question": "Which of the following may apply in areas under FCC jurisdiction outside of ITU Region 2?",
             "answers": [
                 {
@@ -212,6 +226,7 @@
         },
         {
             "question_id": "G1A15",
+            "question_group": 1,
             "question": "What portion of the 10-meter band is available for repeater use?",
             "answers": [
                 {
@@ -227,6 +242,7 @@
         },
         {
             "question_id": "G1B01",
+            "question_group": 1,
             "question": "What is the maximum height above ground to which an antenna structure may be erected without requiring notification to the FAA and registration with the FCC, provided it is not at or near a public use airport?",
             "answers": [
                 {
@@ -242,6 +258,7 @@
         },
         {
             "question_id": "G1B02",
+            "question_group": 1,
             "question": "With which of the following conditions must beacon stations comply?",
             "answers": [
                 {
@@ -257,6 +274,7 @@
         },
         {
             "question_id": "G1B03",
+            "question_group": 1,
             "question": "Which of the following is a purpose of a beacon station as identified in the FCC rules?",
             "answers": [
                 {
@@ -272,6 +290,7 @@
         },
         {
             "question_id": "G1B04",
+            "question_group": 1,
             "question": "Which of the following transmissions is permitted?",
             "answers": [
                 {
@@ -287,6 +306,7 @@
         },
         {
             "question_id": "G1B05",
+            "question_group": 1,
             "question": "Which of the following one-way transmissions are permitted?",
             "answers": [
                 {
@@ -302,6 +322,7 @@
         },
         {
             "question_id": "G1B06",
+            "question_group": 1,
             "question": "Under what conditions are state and local governments permitted to regulate Amateur Radio antenna structures?",
             "answers": [
                 {
@@ -317,6 +338,7 @@
         },
         {
             "question_id": "G1B07",
+            "question_group": 1,
             "question": "What are the restrictions on the use of abbreviations or procedural signals in the Amateur Service?",
             "answers": [
                 {
@@ -332,6 +354,7 @@
         },
         {
             "question_id": "G1B08",
+            "question_group": 1,
             "question": "When choosing a transmitting frequency, what should you do to comply with good amateur practice?",
             "answers": [
                 {
@@ -347,6 +370,7 @@
         },
         {
             "question_id": "G1B09",
+            "question_group": 1,
             "question": "On what HF frequencies are automatically controlled beacons permitted?",
             "answers": [
                 {
@@ -362,6 +386,7 @@
         },
         {
             "question_id": "G1B10",
+            "question_group": 1,
             "question": "What is the power limit for beacon stations?",
             "answers": [
                 {
@@ -377,6 +402,7 @@
         },
         {
             "question_id": "G1B11",
+            "question_group": 1,
             "question": "Who or what determines \u201cgood engineering and good amateur practice,\u201d as applied to the operation of an amateur station in all respects not covered by the Part 97 rules?",
             "answers": [
                 {
@@ -392,6 +418,7 @@
         },
         {
             "question_id": "G1B12",
+            "question_group": 1,
             "question": "When is it permissible to communicate with amateur stations in countries outside the areas administered by the Federal Communications Commission?",
             "answers": [
                 {
@@ -407,6 +434,7 @@
         },
         {
             "question_id": "G1C01",
+            "question_group": 1,
             "question": "What is the maximum transmitting power an amateur station may use on 10.140 MHz?",
             "answers": [
                 {
@@ -422,6 +450,7 @@
         },
         {
             "question_id": "G1C02",
+            "question_group": 1,
             "question": "What is the maximum transmitting power an amateur station may use on the 12-meter band?",
             "answers": [
                 {
@@ -437,6 +466,7 @@
         },
         {
             "question_id": "G1C03",
+            "question_group": 1,
             "question": "What is the maximum bandwidth permitted by FCC rules for Amateur Radio stations transmitting on USB frequencies in the 60-meter band?",
             "answers": [
                 {
@@ -452,6 +482,7 @@
         },
         {
             "question_id": "G1C04",
+            "question_group": 1,
             "question": "Which of the following limitations apply to transmitter power on every amateur band?",
             "answers": [
                 {
@@ -467,6 +498,7 @@
         },
         {
             "question_id": "G1C05",
+            "question_group": 1,
             "question": "What is the limit for transmitter power on the 28 MHz band for a General Class control operator?",
             "answers": [
                 {
@@ -482,6 +514,7 @@
         },
         {
             "question_id": "G1C06",
+            "question_group": 1,
             "question": "What is the limit for transmitter power on the 1.8 MHz band?",
             "answers": [
                 {
@@ -497,6 +530,7 @@
         },
         {
             "question_id": "G1C07",
+            "question_group": 1,
             "question": "What is the maximum symbol rate permitted for RTTY or data emission transmission on the 20-meter band?",
             "answers": [
                 {
@@ -512,6 +546,7 @@
         },
         {
             "question_id": "G1C08",
+            "question_group": 1,
             "question": "What is the maximum symbol rate permitted for RTTY or data emission transmitted at frequencies below 28 MHz?",
             "answers": [
                 {
@@ -527,6 +562,7 @@
         },
         {
             "question_id": "G1C09",
+            "question_group": 1,
             "question": "What is the maximum symbol rate permitted for RTTY or data emission transmitted on the 1.25-meter and 70- centimeter bands?",
             "answers": [
                 {
@@ -542,6 +578,7 @@
         },
         {
             "question_id": "G1C10",
+            "question_group": 1,
             "question": "What is the maximum symbol rate permitted for RTTY or data emission transmissions on the 10-meter band?",
             "answers": [
                 {
@@ -557,6 +594,7 @@
         },
         {
             "question_id": "G1C11",
+            "question_group": 1,
             "question": "What is the maximum symbol rate permitted for RTTY or data emission transmissions on the 2-meter band?",
             "answers": [
                 {
@@ -572,6 +610,7 @@
         },
         {
             "question_id": "G1C12",
+            "question_group": 1,
             "question": "Which of the following is required by the FCC rules when operating in the 60-meter band?",
             "answers": [
                 {
@@ -587,6 +626,7 @@
         },
         {
             "question_id": "G1C13",
+            "question_group": 1,
             "question": "What must be done before using a new digital protocol on the air?",
             "answers": [
                 {
@@ -602,6 +642,7 @@
         },
         {
             "question_id": "G1C14",
+            "question_group": 1,
             "question": "What is the maximum power limit on the 60-meter band?",
             "answers": [
                 {
@@ -617,6 +658,7 @@
         },
         {
             "question_id": "G1C15",
+            "question_group": 1,
             "question": "What measurement is specified by FCC rules that regulate maximum power output?",
             "answers": [
                 {
@@ -632,6 +674,7 @@
         },
         {
             "question_id": "G1D01",
+            "question_group": 1,
             "question": "Who may receive partial credit for the elements represented by an expired Amateur Radio license?",
             "answers": [
                 {
@@ -647,6 +690,7 @@
         },
         {
             "question_id": "G1D02",
+            "question_group": 1,
             "question": "What license examinations may you administer when you are an accredited VE holding a General class operator license?",
             "answers": [
                 {
@@ -662,6 +706,7 @@
         },
         {
             "question_id": "G1D03",
+            "question_group": 1,
             "question": "On which of the following band segments may you operate if you are a Technician class operator and have a Certificate of Successful Completion of Examination (CSCE) for General class privileges?",
             "answers": [
                 {
@@ -677,6 +722,7 @@
         },
         {
             "question_id": "G1D04",
+            "question_group": 1,
             "question": "Which of the following is a requirement for administering a Technician class license examination?",
             "answers": [
                 {
@@ -692,6 +738,7 @@
         },
         {
             "question_id": "G1D05",
+            "question_group": 1,
             "question": "Which of the following must a person have before they can be an administering VE for a Technician class license examination?",
             "answers": [
                 {
@@ -707,6 +754,7 @@
         },
         {
             "question_id": "G1D06",
+            "question_group": 1,
             "question": "When must you add the special identifier \"AG\" after your call sign if you are a Technician class licensee and have a Certificate of Successful Completion of Examination (CSCE) for General class operator privileges, but the FCC has not yet posted your upgrade on its website?",
             "answers": [
                 {
@@ -722,6 +770,7 @@
         },
         {
             "question_id": "G1D07",
+            "question_group": 1,
             "question": "Volunteer Examiners are accredited by what organization?",
             "answers": [
                 {
@@ -737,6 +786,7 @@
         },
         {
             "question_id": "G1D08",
+            "question_group": 1,
             "question": "Which of the following criteria must be met for a non-U.S. citizen to be an accredited Volunteer Examiner?",
             "answers": [
                 {
@@ -752,6 +802,7 @@
         },
         {
             "question_id": "G1D09",
+            "question_group": 1,
             "question": "How long is a Certificate of Successful Completion of Examination (CSCE) valid for exam element credit?",
             "answers": [
                 {
@@ -767,6 +818,7 @@
         },
         {
             "question_id": "G1D10",
+            "question_group": 1,
             "question": "What is the minimum age that one must be to qualify as an accredited Volunteer Examiner?",
             "answers": [
                 {
@@ -782,6 +834,7 @@
         },
         {
             "question_id": "G1D11",
+            "question_group": 1,
             "question": "What is required to obtain a new General Class license after a previously-held license has expired and the two- year grace period has passed?",
             "answers": [
                 {
@@ -797,6 +850,7 @@
         },
         {
             "question_id": "G1E01",
+            "question_group": 1,
             "question": "Which of the following would disqualify a third party from participating in stating a message over an amateur station?",
             "answers": [
                 {
@@ -812,6 +866,7 @@
         },
         {
             "question_id": "G1E02",
+            "question_group": 1,
             "question": "When may a 10-meter repeater retransmit the 2-meter signal from a station that has a Technician class control operator?",
             "answers": [
                 {
@@ -827,6 +882,7 @@
         },
         {
             "question_id": "G1E03",
+            "question_group": 1,
             "question": "What is required to conduct communications with a digital station operating under automatic control outside the automatic control band segments?",
             "answers": [
                 {
@@ -842,6 +898,7 @@
         },
         {
             "question_id": "G1E04",
+            "question_group": 1,
             "question": "Which of the following conditions require a licensed Amateur Radio operator to take specific steps to avoid harmful interference to other users or facilities?",
             "answers": [
                 {
@@ -857,6 +914,7 @@
         },
         {
             "question_id": "G1E05",
+            "question_group": 1,
             "question": "What types of messages for a third party in another country may be transmitted by an amateur station?",
             "answers": [
                 {
@@ -872,6 +930,7 @@
         },
         {
             "question_id": "G1E06",
+            "question_group": 1,
             "question": "The frequency allocations of which ITU region apply to radio amateurs operating in North and South America?",
             "answers": [
                 {
@@ -887,6 +946,7 @@
         },
         {
             "question_id": "G1E07",
+            "question_group": 1,
             "question": "In what part of the 13-centimeter band may an amateur station communicate with non-licensed Wi-Fi stations?",
             "answers": [
                 {
@@ -902,6 +962,7 @@
         },
         {
             "question_id": "G1E08",
+            "question_group": 1,
             "question": "What is the maximum PEP output allowed for spread spectrum transmissions?",
             "answers": [
                 {
@@ -917,6 +978,7 @@
         },
         {
             "question_id": "G1E09",
+            "question_group": 1,
             "question": "Under what circumstances are messages that are sent via digital modes exempt from Part 97 third-party rules that apply to other modes of communication?",
             "answers": [
                 {
@@ -932,6 +994,7 @@
         },
         {
             "question_id": "G1E10",
+            "question_group": 1,
             "question": "Why should an amateur operator normally avoid transmitting on 14.100, 18.110, 21.150, 24. 930 and 28.200 MHz?",
             "answers": [
                 {
@@ -947,6 +1010,7 @@
         },
         {
             "question_id": "G1E11",
+            "question_group": 1,
             "question": "On what bands may automatically controlled stations transmitting RTTY or data emissions communicate with other automatically controlled digital station?",
             "answers": [
                 {
@@ -962,6 +1026,7 @@
         },
         {
             "question_id": "G2A01",
+            "question_group": 2,
             "question": "Which sideband is most commonly used for voice communications on frequencies of 14 MHz or higher?",
             "answers": [
                 {
@@ -977,6 +1042,7 @@
         },
         {
             "question_id": "G2A02",
+            "question_group": 2,
             "question": "Which of the following modes is most commonly used for voice communications on the 160-meter, 75-meter, and 40-meter bands?",
             "answers": [
                 {
@@ -992,6 +1058,7 @@
         },
         {
             "question_id": "G2A03",
+            "question_group": 2,
             "question": "Which of the following is most commonly used for SSB voice communications in the VHF and UHF bands?",
             "answers": [
                 {
@@ -1007,6 +1074,7 @@
         },
         {
             "question_id": "G2A04",
+            "question_group": 2,
             "question": "Which mode is most commonly used for voice communications on the 17-meter and 12-meter bands?",
             "answers": [
                 {
@@ -1022,6 +1090,7 @@
         },
         {
             "question_id": "G2A05",
+            "question_group": 2,
             "question": "Which mode of voice communication is most commonly used on the HF amateur bands?",
             "answers": [
                 {
@@ -1037,6 +1106,7 @@
         },
         {
             "question_id": "G2A06",
+            "question_group": 2,
             "question": "Which of the following is an advantage when using single sideband, as compared to other analog voice modes on the HF amateur bands?",
             "answers": [
                 {
@@ -1052,6 +1122,7 @@
         },
         {
             "question_id": "G2A07",
+            "question_group": 2,
             "question": "Which of the following statements is true of the single sideband voice mode?",
             "answers": [
                 {
@@ -1067,6 +1138,7 @@
         },
         {
             "question_id": "G2A08",
+            "question_group": 2,
             "question": "What is the recommended way to break in to a phone contact?",
             "answers": [
                 {
@@ -1082,6 +1154,7 @@
         },
         {
             "question_id": "G2A09",
+            "question_group": 2,
             "question": "Why do most amateur stations use lower sideband on the 160-meter, 75-meter, and 40-meter bands?",
             "answers": [
                 {
@@ -1097,6 +1170,7 @@
         },
         {
             "question_id": "G2A10",
+            "question_group": 2,
             "question": "Which of the following statements is true of voice VOX operation versus PTT operation?",
             "answers": [
                 {
@@ -1112,6 +1186,7 @@
         },
         {
             "question_id": "G2A11",
+            "question_group": 2,
             "question": "Generally, who should respond to a station in the contiguous 48 states who calls \u201cCQ DX\u201d?",
             "answers": [
                 {
@@ -1127,6 +1202,7 @@
         },
         {
             "question_id": "G2A12",
+            "question_group": 2,
             "question": "What control is typically adjusted for proper ALC setting on an amateur single sideband transceiver?",
             "answers": [
                 {
@@ -1142,6 +1218,7 @@
         },
         {
             "question_id": "G2B01",
+            "question_group": 2,
             "question": "Which of the following is true concerning access to frequencies?",
             "answers": [
                 {
@@ -1157,6 +1234,7 @@
         },
         {
             "question_id": "G2B02",
+            "question_group": 2,
             "question": "What is the first thing you should do if you are communicating with another amateur station and hear a station in distress break in?",
             "answers": [
                 {
@@ -1172,6 +1250,7 @@
         },
         {
             "question_id": "G2B03",
+            "question_group": 2,
             "question": "What is good amateur practice if propagation changes during a contact and you notice interference from other stations on the frequency?",
             "answers": [
                 {
@@ -1187,6 +1266,7 @@
         },
         {
             "question_id": "G2B04",
+            "question_group": 2,
             "question": "When selecting a CW transmitting frequency, what minimum separation should be used to minimize interference to stations on adjacent frequencies?",
             "answers": [
                 {
@@ -1202,6 +1282,7 @@
         },
         {
             "question_id": "G2B05",
+            "question_group": 2,
             "question": "When selecting an SSB transmitting frequency, what minimum separation should be used to minimize interference to stations on adjacent frequencies?",
             "answers": [
                 {
@@ -1217,6 +1298,7 @@
         },
         {
             "question_id": "G2B06",
+            "question_group": 2,
             "question": "What is a practical way to avoid harmful interference on an apparently clear frequency before calling CQ on CW or phone?",
             "answers": [
                 {
@@ -1232,6 +1314,7 @@
         },
         {
             "question_id": "G2B07",
+            "question_group": 2,
             "question": "Which of the following complies with good amateur practice when choosing a frequency on which to initiate a call?",
             "answers": [
                 {
@@ -1247,6 +1330,7 @@
         },
         {
             "question_id": "G2B08",
+            "question_group": 2,
             "question": "What is the voluntary band plan restriction for U.S. stations transmitting within the 48 contiguous states in the 50.1 to 50.125 MHz band segment?",
             "answers": [
                 {
@@ -1262,6 +1346,7 @@
         },
         {
             "question_id": "G2B09",
+            "question_group": 2,
             "question": "Who may be the control operator of an amateur station transmitting in RACES to assist relief operations during a disaster?",
             "answers": [
                 {
@@ -1277,6 +1362,7 @@
         },
         {
             "question_id": "G2B10",
+            "question_group": 2,
             "question": "When is an amateur station allowed to use any means at its disposal to assist another station in distress?",
             "answers": [
                 {
@@ -1292,6 +1378,7 @@
         },
         {
             "question_id": "G2B11",
+            "question_group": 2,
             "question": "What frequency should be used to send a distress call?",
             "answers": [
                 {
@@ -1307,6 +1394,7 @@
         },
         {
             "question_id": "G2C01",
+            "question_group": 2,
             "question": "Which of the following describes full break-in telegraphy (QSK)?",
             "answers": [
                 {
@@ -1322,6 +1410,7 @@
         },
         {
             "question_id": "G2C02",
+            "question_group": 2,
             "question": "What should you do if a CW station sends \u201cQRS?\u201d",
             "answers": [
                 {
@@ -1337,6 +1426,7 @@
         },
         {
             "question_id": "G2C03",
+            "question_group": 2,
             "question": "What does it mean when a CW operator sends \u201cKN\u201d at the end of a transmission?",
             "answers": [
                 {
@@ -1352,6 +1442,7 @@
         },
         {
             "question_id": "G2C04",
+            "question_group": 2,
             "question": "What does the Q signal \u201cQRL?\u201d mean?",
             "answers": [
                 {
@@ -1367,6 +1458,7 @@
         },
         {
             "question_id": "G2C05",
+            "question_group": 2,
             "question": "What is the best speed to use when answering a CQ in Morse code?",
             "answers": [
                 {
@@ -1382,6 +1474,7 @@
         },
         {
             "question_id": "G2C06",
+            "question_group": 2,
             "question": "What does the term \u201czero beat\u201d mean in CW operation?",
             "answers": [
                 {
@@ -1397,6 +1490,7 @@
         },
         {
             "question_id": "G2C07",
+            "question_group": 2,
             "question": "When sending CW, what does a \u201cC\u201d mean when added to the RST report?",
             "answers": [
                 {
@@ -1412,6 +1506,7 @@
         },
         {
             "question_id": "G2C08",
+            "question_group": 2,
             "question": "What prosign is sent to indicate the end of a formal message when using CW?",
             "answers": [
                 {
@@ -1427,6 +1522,7 @@
         },
         {
             "question_id": "G2C09",
+            "question_group": 2,
             "question": "What does the Q signal \u201cQSL\u201d mean?",
             "answers": [
                 {
@@ -1442,6 +1538,7 @@
         },
         {
             "question_id": "G2C10",
+            "question_group": 2,
             "question": "What does the Q signal \u201cQRN\u201d mean?",
             "answers": [
                 {
@@ -1457,6 +1554,7 @@
         },
         {
             "question_id": "G2C11",
+            "question_group": 2,
             "question": "What does the Q signal \u201cQRV\u201d mean?",
             "answers": [
                 {
@@ -1472,6 +1570,7 @@
         },
         {
             "question_id": "G2D01",
+            "question_group": 2,
             "question": "What is the Volunteer Monitoring Program?",
             "answers": [
                 {
@@ -1487,6 +1586,7 @@
         },
         {
             "question_id": "G2D02",
+            "question_group": 2,
             "question": "Which of the following are objectives of the Volunteer Monitoring Program?",
             "answers": [
                 {
@@ -1502,6 +1602,7 @@
         },
         {
             "question_id": "G2D03",
+            "question_group": 2,
             "question": "What skills learned during hidden transmitter hunts are of help to the Volunteer Monitoring Program?",
             "answers": [
                 {
@@ -1517,6 +1618,7 @@
         },
         {
             "question_id": "G2D04",
+            "question_group": 2,
             "question": "Which of the following describes an azimuthal projection map?",
             "answers": [
                 {
@@ -1532,6 +1634,7 @@
         },
         {
             "question_id": "G2D05",
+            "question_group": 2,
             "question": "Which of the following is a good way to indicate on a clear frequency in the HF phone bands that you are looking for a contact with any station?",
             "answers": [
                 {
@@ -1547,6 +1650,7 @@
         },
         {
             "question_id": "G2D06",
+            "question_group": 2,
             "question": "How is a directional antenna pointed when making a \u201clong-path\u201d contact with another station?",
             "answers": [
                 {
@@ -1562,6 +1666,7 @@
         },
         {
             "question_id": "G2D07",
+            "question_group": 2,
             "question": "Which of the following are examples of the NATO Phonetic Alphabet?",
             "answers": [
                 {
@@ -1577,6 +1682,7 @@
         },
         {
             "question_id": "G2D08",
+            "question_group": 2,
             "question": "What is a reason why many amateurs keep a station log?",
             "answers": [
                 {
@@ -1592,6 +1698,7 @@
         },
         {
             "question_id": "G2D09",
+            "question_group": 2,
             "question": "Which of the following is required when participating in a contest on HF frequencies?",
             "answers": [
                 {
@@ -1607,6 +1714,7 @@
         },
         {
             "question_id": "G2D10",
+            "question_group": 2,
             "question": "What is QRP operation?",
             "answers": [
                 {
@@ -1622,6 +1730,7 @@
         },
         {
             "question_id": "G2D11",
+            "question_group": 2,
             "question": "Which of the following is typical of the lower HF frequencies during the summer?",
             "answers": [
                 {
@@ -1637,6 +1746,7 @@
         },
         {
             "question_id": "G2E01",
+            "question_group": 2,
             "question": "Which mode is normally used when sending RTTY signals via AFSK with an SSB transmitter?",
             "answers": [
                 {
@@ -1652,6 +1762,7 @@
         },
         {
             "question_id": "G2E02",
+            "question_group": 2,
             "question": "How can a PACTOR modem or controller be used to determine if the channel is in use by other PACTOR stations?",
             "answers": [
                 {
@@ -1667,6 +1778,7 @@
         },
         {
             "question_id": "G2E03",
+            "question_group": 2,
             "question": "What symptoms may result from other signals interfering with a PACTOR or WINMOR transmission?",
             "answers": [
                 {
@@ -1682,6 +1794,7 @@
         },
         {
             "question_id": "G2E04",
+            "question_group": 2,
             "question": "What segment of the 20-meter band is most often used for digital transmissions (avoiding the DX propagation beacons)?",
             "answers": [
                 {
@@ -1697,6 +1810,7 @@
         },
         {
             "question_id": "G2E05",
+            "question_group": 2,
             "question": "What is the standard sideband used to generate a JT65, JT9, or FT8 digital signal when using AFSK in any amateur band?",
             "answers": [
                 {
@@ -1712,6 +1826,7 @@
         },
         {
             "question_id": "G2E06",
+            "question_group": 2,
             "question": "What is the most common frequency shift for RTTY emissions in the amateur HF bands?",
             "answers": [
                 {
@@ -1727,6 +1842,7 @@
         },
         {
             "question_id": "G2E07",
+            "question_group": 2,
             "question": "What segment of the 80-meter band is most commonly used for digital transmissions?",
             "answers": [
                 {
@@ -1742,6 +1858,7 @@
         },
         {
             "question_id": "G2E08",
+            "question_group": 2,
             "question": "In what segment of the 20-meter band are most PSK31 operations commonly found?",
             "answers": [
                 {
@@ -1757,6 +1874,7 @@
         },
         {
             "question_id": "G2E09",
+            "question_group": 2,
             "question": "How do you join a contact between two stations using the PACTOR protocol?",
             "answers": [
                 {
@@ -1772,6 +1890,7 @@
         },
         {
             "question_id": "G2E10",
+            "question_group": 2,
             "question": "Which of the following is a way to establish contact with a digital messaging system gateway station?",
             "answers": [
                 {
@@ -1787,6 +1906,7 @@
         },
         {
             "question_id": "G2E11",
+            "question_group": 2,
             "question": "Which of the following is characteristic of the FT8 mode of the WSJT-X family?",
             "answers": [
                 {
@@ -1802,6 +1922,7 @@
         },
         {
             "question_id": "G2E12",
+            "question_group": 2,
             "question": "Which of the following connectors would be a good choice for a serial data port?",
             "answers": [
                 {
@@ -1817,6 +1938,7 @@
         },
         {
             "question_id": "G2E13",
+            "question_group": 2,
             "question": "Which communication system sometimes uses the internet to transfer messages?",
             "answers": [
                 {
@@ -1832,6 +1954,7 @@
         },
         {
             "question_id": "G2E14",
+            "question_group": 2,
             "question": "What could be wrong if you cannot decode an RTTY or other FSK signal even though it is apparently tuned in properly?",
             "answers": [
                 {
@@ -1847,6 +1970,7 @@
         },
         {
             "question_id": "G2E15",
+            "question_group": 2,
             "question": "Which of the following is a requirement when using the FT8 digital mode?",
             "answers": [
                 {
@@ -1862,6 +1986,7 @@
         },
         {
             "question_id": "G3A01",
+            "question_group": 3,
             "question": "What is the significance of the sunspot number with regard to HF propagation?",
             "answers": [
                 {
@@ -1877,6 +2002,7 @@
         },
         {
             "question_id": "G3A02",
+            "question_group": 3,
             "question": "What effect does a Sudden Ionospheric Disturbance have on the daytime ionospheric propagation of HF radio waves?",
             "answers": [
                 {
@@ -1892,6 +2018,7 @@
         },
         {
             "question_id": "G3A03",
+            "question_group": 3,
             "question": "Approximately how long does it take the increased ultraviolet and X-ray radiation from solar flares to affect radio propagation on Earth?",
             "answers": [
                 {
@@ -1907,6 +2034,7 @@
         },
         {
             "question_id": "G3A04",
+            "question_group": 3,
             "question": "Which of the following are least reliable for long-distance communications during periods of low solar activity?",
             "answers": [
                 {
@@ -1922,6 +2050,7 @@
         },
         {
             "question_id": "G3A05",
+            "question_group": 3,
             "question": "What is the solar flux index?",
             "answers": [
                 {
@@ -1937,6 +2066,7 @@
         },
         {
             "question_id": "G3A06",
+            "question_group": 3,
             "question": "What is a geomagnetic storm?",
             "answers": [
                 {
@@ -1952,6 +2082,7 @@
         },
         {
             "question_id": "G3A07",
+            "question_group": 3,
             "question": "At what point in the solar cycle does the 20-meter band usually support worldwide propagation during daylight hours?",
             "answers": [
                 {
@@ -1967,6 +2098,7 @@
         },
         {
             "question_id": "G3A08",
+            "question_group": 3,
             "question": "Which of the following effects can a geomagnetic storm have on radio propagation?",
             "answers": [
                 {
@@ -1982,6 +2114,7 @@
         },
         {
             "question_id": "G3A09",
+            "question_group": 3,
             "question": "What benefit can high geomagnetic activity have on radio communications?",
             "answers": [
                 {
@@ -1997,6 +2130,7 @@
         },
         {
             "question_id": "G3A10",
+            "question_group": 3,
             "question": "What causes HF propagation conditions to vary periodically in a roughly 28-day cycle?",
             "answers": [
                 {
@@ -2012,6 +2146,7 @@
         },
         {
             "question_id": "G3A11",
+            "question_group": 3,
             "question": "How long does it take charged particles from coronal mass ejections to affect radio propagation on Earth?",
             "answers": [
                 {
@@ -2027,6 +2162,7 @@
         },
         {
             "question_id": "G3A12",
+            "question_group": 3,
             "question": "What does the K-index indicate?",
             "answers": [
                 {
@@ -2042,6 +2178,7 @@
         },
         {
             "question_id": "G3A13",
+            "question_group": 3,
             "question": "What does the A-index indicate?",
             "answers": [
                 {
@@ -2057,6 +2194,7 @@
         },
         {
             "question_id": "G3A14",
+            "question_group": 3,
             "question": "How are radio communications usually affected by the charged particles that reach Earth from solar coronal holes?",
             "answers": [
                 {
@@ -2072,6 +2210,7 @@
         },
         {
             "question_id": "G3B01",
+            "question_group": 3,
             "question": "What is a characteristic of skywave signals arriving at your location by both short-path and long-path propagation?",
             "answers": [
                 {
@@ -2087,6 +2226,7 @@
         },
         {
             "question_id": "G3B02",
+            "question_group": 3,
             "question": "What factors affect the MUF?",
             "answers": [
                 {
@@ -2102,6 +2242,7 @@
         },
         {
             "question_id": "G3B03",
+            "question_group": 3,
             "question": "Which of the following applies when selecting a frequency for lowest attenuation when transmitting on HF?",
             "answers": [
                 {
@@ -2117,6 +2258,7 @@
         },
         {
             "question_id": "G3B04",
+            "question_group": 3,
             "question": "What is a reliable way to determine if the MUF is high enough to support skip propagation between your station and a distant location on frequencies between 14 and 30 MHz?",
             "answers": [
                 {
@@ -2132,6 +2274,7 @@
         },
         {
             "question_id": "G3B05",
+            "question_group": 3,
             "question": "What usually happens to radio waves with frequencies below the MUF and above the LUF when they are sent into the ionosphere?",
             "answers": [
                 {
@@ -2147,6 +2290,7 @@
         },
         {
             "question_id": "G3B06",
+            "question_group": 3,
             "question": "What usually happens to radio waves with frequencies below the LUF?",
             "answers": [
                 {
@@ -2162,6 +2306,7 @@
         },
         {
             "question_id": "G3B07",
+            "question_group": 3,
             "question": "What does LUF stand for?",
             "answers": [
                 {
@@ -2177,6 +2322,7 @@
         },
         {
             "question_id": "G3B08",
+            "question_group": 3,
             "question": "What does MUF stand for?",
             "answers": [
                 {
@@ -2192,6 +2338,7 @@
         },
         {
             "question_id": "G3B09",
+            "question_group": 3,
             "question": "What is the approximate maximum distance along the Earth\u2019s surface that is normally covered in one hop using the F2 region?",
             "answers": [
                 {
@@ -2207,6 +2354,7 @@
         },
         {
             "question_id": "G3B10",
+            "question_group": 3,
             "question": "What is the approximate maximum distance along the Earth\u2019s surface that is normally covered in one hop using the E region?",
             "answers": [
                 {
@@ -2222,6 +2370,7 @@
         },
         {
             "question_id": "G3B11",
+            "question_group": 3,
             "question": "What happens to HF propagation when the LUF exceeds the MUF?",
             "answers": [
                 {
@@ -2237,6 +2386,7 @@
         },
         {
             "question_id": "G3C01",
+            "question_group": 3,
             "question": "Which ionospheric layer is closest to the surface of Earth?",
             "answers": [
                 {
@@ -2252,6 +2402,7 @@
         },
         {
             "question_id": "G3C02",
+            "question_group": 3,
             "question": "Where on Earth do ionospheric layers reach their maximum height?",
             "answers": [
                 {
@@ -2267,6 +2418,7 @@
         },
         {
             "question_id": "G3C03",
+            "question_group": 3,
             "question": "Why is the F2 region mainly responsible for the longest distance radio wave propagation?",
             "answers": [
                 {
@@ -2282,6 +2434,7 @@
         },
         {
             "question_id": "G3C04",
+            "question_group": 3,
             "question": "What does the term \u201ccritical angle\u201d mean, as used in radio wave propagation?",
             "answers": [
                 {
@@ -2297,6 +2450,7 @@
         },
         {
             "question_id": "G3C05",
+            "question_group": 3,
             "question": "Why is long-distance communication on the 40-meter, 60-meter, 80-meter, and 160-meter bands more difficult during the day?",
             "answers": [
                 {
@@ -2312,6 +2466,7 @@
         },
         {
             "question_id": "G3C06",
+            "question_group": 3,
             "question": "What is a characteristic of HF scatter?",
             "answers": [
                 {
@@ -2327,6 +2482,7 @@
         },
         {
             "question_id": "G3C07",
+            "question_group": 3,
             "question": "What makes HF scatter signals often sound distorted?",
             "answers": [
                 {
@@ -2342,6 +2498,7 @@
         },
         {
             "question_id": "G3C08",
+            "question_group": 3,
             "question": "Why are HF scatter signals in the skip zone usually weak?",
             "answers": [
                 {
@@ -2357,6 +2514,7 @@
         },
         {
             "question_id": "G3C09",
+            "question_group": 3,
             "question": "What type of propagation allows signals to be heard in the transmitting station\u2019s skip zone?",
             "answers": [
                 {
@@ -2372,6 +2530,7 @@
         },
         {
             "question_id": "G3C10",
+            "question_group": 3,
             "question": "What is Near Vertical Incidence Skywave (NVIS) propagation?",
             "answers": [
                 {
@@ -2387,6 +2546,7 @@
         },
         {
             "question_id": "G3C11",
+            "question_group": 3,
             "question": "Which ionospheric layer is the most absorbent of long skip signals during daylight hours on frequencies below 10 MHz?",
             "answers": [
                 {
@@ -2402,6 +2562,7 @@
         },
         {
             "question_id": "G4A01",
+            "question_group": 4,
             "question": "What is the purpose of the \u201cnotch filter\u201d found on many HF transceivers?",
             "answers": [
                 {
@@ -2417,6 +2578,7 @@
         },
         {
             "question_id": "G4A02",
+            "question_group": 4,
             "question": "What is one advantage of selecting the opposite, or \u201creverse,\u201d sideband when receiving CW signals on a typical HF transceiver?",
             "answers": [
                 {
@@ -2432,6 +2594,7 @@
         },
         {
             "question_id": "G4A03",
+            "question_group": 4,
             "question": "What is normally meant by operating a transceiver in \u201csplit\u201d mode?",
             "answers": [
                 {
@@ -2447,6 +2610,7 @@
         },
         {
             "question_id": "G4A04",
+            "question_group": 4,
             "question": "What reading on the plate current meter of a vacuum tube RF power amplifier indicates correct adjustment of the plate tuning control?",
             "answers": [
                 {
@@ -2462,6 +2626,7 @@
         },
         {
             "question_id": "G4A05",
+            "question_group": 4,
             "question": "What is a reason to use Automatic Level Control (ALC) with an RF power amplifier?",
             "answers": [
                 {
@@ -2477,6 +2642,7 @@
         },
         {
             "question_id": "G4A06",
+            "question_group": 4,
             "question": "What type of device is often used to match transmitter output impedance to an impedance not equal to 50 ohms?",
             "answers": [
                 {
@@ -2492,6 +2658,7 @@
         },
         {
             "question_id": "G4A07",
+            "question_group": 4,
             "question": "What condition can lead to permanent damage to a solid-state RF power amplifier?",
             "answers": [
                 {
@@ -2507,6 +2674,7 @@
         },
         {
             "question_id": "G4A08",
+            "question_group": 4,
             "question": "What is the correct adjustment for the load or coupling control of a vacuum tube RF power amplifier?",
             "answers": [
                 {
@@ -2522,6 +2690,7 @@
         },
         {
             "question_id": "G4A09",
+            "question_group": 4,
             "question": "Why is a time delay sometimes included in a transmitter keying circuit?",
             "answers": [
                 {
@@ -2537,6 +2706,7 @@
         },
         {
             "question_id": "G4A10",
+            "question_group": 4,
             "question": "What is the purpose of an electronic keyer?",
             "answers": [
                 {
@@ -2548,6 +2718,86 @@
             ],
             "right_answer": "B",
             "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4A11",
+            "question_group": 4,
+            "question": "Which of the following is a use for the IF shift control on a receiver?",
+            "answers": [
+                {
+                    "A": "To avoid interference from stations very close to the receive frequency",
+                    "B": "To change frequency rapidly",
+                    "C": "To permit listening on a different frequency from that on which you are transmitting",
+                    "D": "To tune in stations that are slightly off frequency without changing your transmit frequency"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4A12",
+            "question_group": 4,
+            "question": "Which of the following is a common use for the dual-VFO feature on a transceiver?",
+            "answers": [
+                {
+                    "A": "To allow transmitting on two frequencies at once",
+                    "B": "To permit full duplex operation \u2014 that is, transmitting and receiving at the same time",
+                    "C": "To permit monitoring of two different frequencies",
+                    "D": "To facilitate computer interface"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 2,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4A13",
+            "question_group": 4,
+            "question": "What is one reason to use the attenuator function that is present on many HF transceivers?",
+            "answers": [
+                {
+                    "A": "To reduce signal overload due to strong incoming signals",
+                    "B": "To reduce the transmitter power when driving a linear amplifier",
+                    "C": "To reduce power consumption when operating from batteries",
+                    "D": "To slow down received CW signals for better copy"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 2,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4A14",
+            "question_group": 4,
+            "question": "What is likely to happen if a transceiver\u2019s ALC system is not set properly when transmitting AFSK signals with the radio using single sideband mode?",
+            "answers": [
+                {
+                    "A": "ALC will invert the modulation of the AFSK mode",
+                    "B": "Improper action of ALC distorts the signal and can cause spurious emissions",
+                    "C": "When using digital modes, too much ALC activity can cause the transmitter to overheat",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 2,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4A15",
+            "question_group": 4,
+            "question": "Which of the following can be a symptom of transmitted RF being picked up by an audio cable carrying AFSK data signals between a computer and a transceiver?",
+            "answers": [
+                {
+                    "A": "The VOX circuit does not un-key the transmitter",
+                    "B": "The transmitter signal is distorted",
+                    "C": "Frequent connection timeouts",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 1,
             "in_attempts": 0
         }
     ]
