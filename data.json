@@ -2973,7 +2973,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -2989,7 +2989,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -3005,7 +3005,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -3021,7 +3021,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -3037,7 +3037,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -3053,7 +3053,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -3069,7 +3069,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 10,
+            "cr_attempts": 11,
             "in_attempts": 0
         },
         {
@@ -3085,7 +3085,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -3101,9 +3101,105 @@
                 }
             ],
             "right_answer": "C",
+            "cr_attempts": 2,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4C03",
+            "question_group": 4,
+            "question": "What sound is heard from an audio device or telephone if there is interference from a nearby single sideband phone transmitter?",
+            "answers": [
+                {
+                    "A": "A steady hum whenever the transmitter is on the air",
+                    "B": "On-and-off humming or clicking",
+                    "C": "Distorted speech",
+                    "D": "Clearly audible speech"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4C04",
+            "question_group": 4,
+            "question": "What is the effect on an audio device when there is interference from a nearby CW transmitter?",
+            "answers": [
+                {
+                    "A": "On-and-off humming or clicking",
+                    "B": "A CW signal at a nearly pure audio frequency",
+                    "C": "A chirpy CW signal",
+                    "D": "Severely distorted audio"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4C05",
+            "question_group": 4,
+            "question": "What might be the problem if you receive an RF burn when touching your equipment while transmitting on an HF band, assuming the equipment is connected to a ground rod?",
+            "answers": [
+                {
+                    "A": "Flat braid rather than round wire has been used for the ground wire",
+                    "B": "Insulated wire has been used for the ground wire",
+                    "C": "The ground rod is resonant",
+                    "D": "The ground wire has high impedance on that frequency"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4C06",
+            "question_group": 4,
+            "question": "What effect can be caused by a resonant ground connection?",
+            "answers": [
+                {
+                    "A": "Overheating of ground straps",
+                    "B": "Corrosion of the ground rod",
+                    "C": "High RF voltages on the enclosures of station equipment",
+                    "D": "A ground loop"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4C07",
+            "question_group": 4,
+            "question": "Why should soldered joints not be used with the wires that connect the base of a tower to a system of ground rods?",
+            "answers": [
+                {
+                    "A": "The resistance of solder is too high",
+                    "B": "Solder flux will prevent a low conductivity connection",
+                    "C": "Solder has too high a dielectric constant to provide adequate lightning protection",
+                    "D": "A soldered joint will likely be destroyed by the heat of a lightning strike"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4C08",
+            "question_group": 4,
+            "question": "Which of the following would reduce RF interference caused by common-mode current on an audio cable?",
+            "answers": [
+                {
+                    "A": "Placing a ferrite choke around the cable",
+                    "B": "Adding series capacitors to the conductors",
+                    "C": "Adding shunt inductors to the conductors",
+                    "D": "Adding an additional insulating jacket to the cable"
+                }
+            ],
+            "right_answer": "A",
             "cr_attempts": 1,
             "in_attempts": 0
         }
     ],
-    "last_index": 191
+    "last_index": 185
 }
