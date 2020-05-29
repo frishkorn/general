@@ -3069,7 +3069,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 9,
+            "cr_attempts": 10,
             "in_attempts": 0
         },
         {
@@ -3085,9 +3085,25 @@
                 }
             ],
             "right_answer": "B",
+            "cr_attempts": 2,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4C02",
+            "question_group": 4,
+            "question": "Which of the following could be a cause of interference covering a wide range of frequencies?",
+            "answers": [
+                {
+                    "A": "Not using a balun or line isolator to feed balanced antennas",
+                    "B": "Lack of rectification of the transmitter\u2019s signal in power conductors",
+                    "C": "Arcing at a poor electrical connection",
+                    "D": "Using a balun to feed an unbalanced antenna"
+                }
+            ],
+            "right_answer": "C",
             "cr_attempts": 1,
             "in_attempts": 0
         }
     ],
-    "last_index": 0
+    "last_index": 191
 }
