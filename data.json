@@ -237,7 +237,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -252,7 +252,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -372,7 +372,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -447,7 +447,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -492,7 +492,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -552,7 +552,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -612,7 +612,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -1827,7 +1827,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -2067,7 +2067,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -2082,7 +2082,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -2097,7 +2097,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -2112,7 +2112,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -2127,7 +2127,97 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3B05",
+            "question": "What usually happens to radio waves with frequencies below the MUF and above the LUF when they are sent into the ionosphere?",
+            "answers": [
+                {
+                    "A": "They are bent back to Earth",
+                    "B": "They pass through the ionosphere",
+                    "C": "They are amplified by interaction with the ionosphere",
+                    "D": "They are bent and trapped in the ionosphere to circle Earth"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3B06",
+            "question": "What usually happens to radio waves with frequencies below the LUF?",
+            "answers": [
+                {
+                    "A": "They are bent back to Earth",
+                    "B": "They pass through the ionosphere",
+                    "C": "They are completely absorbed by the ionosphere",
+                    "D": "They are bent and trapped in the ionosphere to circle Earth"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3B07",
+            "question": "What does LUF stand for?",
+            "answers": [
+                {
+                    "A": "The Lowest Usable Frequency for communications between two points",
+                    "B": "The Longest Universal Function for communications between two points",
+                    "C": "The Lowest Usable Frequency during a 24-hour period",
+                    "D": "The Longest Universal Function during a 24-hour period"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3B08",
+            "question": "What does MUF stand for?",
+            "answers": [
+                {
+                    "A": "The Minimum Usable Frequency for communications between two points",
+                    "B": "The Maximum Usable Frequency for communications between two points",
+                    "C": "The Minimum Usable Frequency during a 24-hour period",
+                    "D": "The Maximum Usable Frequency during a 24-hour period"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3B09",
+            "question": "What is the approximate maximum distance along the Earth\u2019s surface that is normally covered in one hop using the F2 region?",
+            "answers": [
+                {
+                    "A": "180 miles",
+                    "B": "1,200 miles",
+                    "C": "2,500 miles",
+                    "D": "12,000 miles"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3B10",
+            "question": "What is the approximate maximum distance along the Earth\u2019s surface that is normally covered in one hop using the E region?",
+            "answers": [
+                {
+                    "A": "180 miles",
+                    "B": "1,200 miles",
+                    "C": "2,500 miles",
+                    "D": "12,000 miles"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 1,
             "in_attempts": 0
         }
     ]

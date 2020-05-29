@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # exam.py
-# C. Frishkorn 05/20/2020
-# version: 0.5.71
+# C. Frishkorn 05/29/2020
+# version: 0.5.77
 # ------------------------
 import json
 from random import randint
@@ -50,7 +50,7 @@ def series_mode(selection):
             print(bcolors.BOLD + "Correct!" + bcolors.ENDC)
             result = "C"
         elif entry == "X":
-            continue
+            break
         else:
             print(bcolors.WARNING + "\nSorry the correct answer was %s." % (answer) + bcolors.ENDC)
             result = "I"
