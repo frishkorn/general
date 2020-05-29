@@ -102,7 +102,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -118,7 +118,7 @@
             ],
             "right_answer": "C",
             "cr_attempts": 3,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G1A09",
@@ -447,7 +447,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1272,7 +1272,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1317,7 +1317,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1542,7 +1542,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 8,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -1902,7 +1902,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -2157,7 +2157,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -2172,7 +2172,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -2187,7 +2187,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -2202,7 +2202,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -2217,6 +2217,51 @@
                 }
             ],
             "right_answer": "B",
+            "cr_attempts": 2,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3B11",
+            "question": "What happens to HF propagation when the LUF exceeds the MUF?",
+            "answers": [
+                {
+                    "A": "No HF radio frequency will support ordinary skywave communications over the path",
+                    "B": "HF communications over the path are enhanced",
+                    "C": "Double hop propagation along the path is more common",
+                    "D": "Propagation over the path on all HF frequencies is enhanced"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3C01",
+            "question": "Which ionospheric layer is closest to the surface of Earth?",
+            "answers": [
+                {
+                    "A": "The D layer",
+                    "B": "The E layer",
+                    "C": "The F1 layer",
+                    "D": "The F2 layer"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G3C02",
+            "question": "Where on Earth do ionospheric layers reach their maximum height?",
+            "answers": [
+                {
+                    "A": "Where the sun is overhead",
+                    "B": "Where the sun is on the opposite side of Earth",
+                    "C": "Where the sun is rising",
+                    "D": "Where the sun has just set"
+                }
+            ],
+            "right_answer": "A",
             "cr_attempts": 1,
             "in_attempts": 0
         }
