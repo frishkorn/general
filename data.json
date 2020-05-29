@@ -13,7 +13,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -29,7 +29,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -93,7 +93,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 1
         },
         {
@@ -173,7 +173,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -189,7 +189,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -285,7 +285,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -301,7 +301,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -445,7 +445,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -509,7 +509,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -589,7 +589,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 9,
+            "cr_attempts": 10,
             "in_attempts": 0
         },
         {
@@ -621,7 +621,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -717,7 +717,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 9,
+            "cr_attempts": 10,
             "in_attempts": 0
         },
         {
@@ -1038,7 +1038,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 3,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G2A02",
@@ -1053,7 +1053,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 9,
+            "cr_attempts": 10,
             "in_attempts": 0
         },
         {
@@ -1069,7 +1069,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1101,7 +1101,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1133,7 +1133,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1293,7 +1293,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1326,7 +1326,7 @@
             ],
             "right_answer": "C",
             "cr_attempts": 0,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G2B08",
@@ -1485,7 +1485,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1501,7 +1501,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1533,7 +1533,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1597,7 +1597,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1645,7 +1645,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 9,
+            "cr_attempts": 10,
             "in_attempts": 0
         },
         {
@@ -1742,7 +1742,7 @@
             ],
             "right_answer": "D",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 2
         },
         {
             "question_id": "G2E01",
@@ -1837,7 +1837,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -1869,7 +1869,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1949,7 +1949,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 9,
+            "cr_attempts": 10,
             "in_attempts": 0
         },
         {
@@ -2030,7 +2030,7 @@
             ],
             "right_answer": "C",
             "cr_attempts": 2,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G3A04",
@@ -2061,7 +2061,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 4,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -2093,7 +2093,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -2141,7 +2141,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -2237,7 +2237,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -2269,7 +2269,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -2317,7 +2317,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -2541,7 +2541,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -2557,7 +2557,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -2621,7 +2621,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -2685,7 +2685,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -2797,7 +2797,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -2829,7 +2829,71 @@
                 }
             ],
             "right_answer": "A",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B01",
+            "question_group": 4,
+            "question": "What item of test equipment contains horizontal and vertical channel amplifiers?",
+            "answers": [
+                {
+                    "A": "An ohmmeter",
+                    "B": "A signal generator",
+                    "C": "An ammeter",
+                    "D": "An oscilloscope"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B02",
+            "question_group": 4,
+            "question": "Which of the following is an advantage of an oscilloscope versus a digital voltmeter?",
+            "answers": [
+                {
+                    "A": "An oscilloscope uses less power",
+                    "B": "Complex impedances can be easily measured",
+                    "C": "Input impedance is much lower",
+                    "D": "Complex waveforms can be measured"
+                }
+            ],
+            "right_answer": "D",
             "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B03",
+            "question_group": 4,
+            "question": "Which of the following is the best instrument to use when checking the keying waveform of a CW transmitter?",
+            "answers": [
+                {
+                    "A": "An oscilloscope",
+                    "B": "A field strength meter",
+                    "C": "A sidetone monitor",
+                    "D": "A wavemeter"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4B04",
+            "question_group": 4,
+            "question": "What signal source is connected to the vertical input of an oscilloscope when checking the RF envelope pattern of a transmitted signal?",
+            "answers": [
+                {
+                    "A": "The local oscillator of the transmitter",
+                    "B": "An external RF oscillator",
+                    "C": "The transmitter balanced mixer output",
+                    "D": "The attenuated RF output of the transmitter"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 1,
             "in_attempts": 0
         }
     ]
