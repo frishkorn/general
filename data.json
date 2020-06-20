@@ -45,7 +45,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -109,7 +109,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -221,7 +221,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -269,7 +269,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 8,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -301,7 +301,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -317,7 +317,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -397,7 +397,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -445,7 +445,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -509,7 +509,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 8,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -574,7 +574,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 5,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G1C10",
@@ -813,7 +813,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 8,
+            "cr_attempts": 10,
             "in_attempts": 0
         },
         {
@@ -941,7 +941,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1021,7 +1021,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 9,
+            "cr_attempts": 10,
             "in_attempts": 0
         },
         {
@@ -1133,7 +1133,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -1245,7 +1245,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -1309,7 +1309,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -1389,7 +1389,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1405,7 +1405,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1533,7 +1533,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -1565,7 +1565,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1613,7 +1613,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 9,
+            "cr_attempts": 10,
             "in_attempts": 0
         },
         {
@@ -1645,7 +1645,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 12,
+            "cr_attempts": 13,
             "in_attempts": 0
         },
         {
@@ -1661,7 +1661,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1758,7 +1758,7 @@
             ],
             "right_answer": "D",
             "cr_attempts": 2,
-            "in_attempts": 2
+            "in_attempts": 3
         },
         {
             "question_id": "G2E02",
@@ -1901,7 +1901,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 8,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -1981,7 +1981,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 13,
+            "cr_attempts": 14,
             "in_attempts": 0
         },
         {
@@ -2013,7 +2013,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -2061,7 +2061,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 8,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -2093,7 +2093,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -2189,7 +2189,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -2477,7 +2477,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -2493,7 +2493,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -2573,7 +2573,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -2589,7 +2589,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -2637,7 +2637,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -2653,7 +2653,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -2734,7 +2734,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 3,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G4A12",
@@ -2765,7 +2765,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -2813,7 +2813,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -2893,7 +2893,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -3101,7 +3101,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -3117,7 +3117,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3133,7 +3133,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3149,7 +3149,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3165,7 +3165,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3279,7 +3279,55 @@
             "right_answer": "D",
             "cr_attempts": 1,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G4D01",
+            "question_group": 4,
+            "question": "What is the purpose of a speech processor as used in a modern transceiver?",
+            "answers": [
+                {
+                    "A": "Increase the intelligibility of transmitted phone signals during poor conditions",
+                    "B": "Increase transmitter bass response for more natural-sounding SSB signals",
+                    "C": "Prevent distortion of voice signals",
+                    "D": "Decrease high-frequency voice output to prevent out-of-band operation"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4D02",
+            "question_group": 4,
+            "question": "Which of the following describes how a speech processor affects a transmitted single sideband phone signal?",
+            "answers": [
+                {
+                    "A": "It increases peak power",
+                    "B": "It increases average power",
+                    "C": "It reduces harmonic distortion",
+                    "D": "It reduces intermodulation distortion"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4D03",
+            "question_group": 4,
+            "question": "Which of the following can be the result of an incorrectly adjusted speech processor?",
+            "answers": [
+                {
+                    "A": "Distorted speech",
+                    "B": "Splatter",
+                    "C": "Excessive background pickup",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
-    "last_index": 198
+    "last_index": 193
 }
