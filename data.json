@@ -3487,6 +3487,38 @@
             "right_answer": "D",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G4E03",
+            "question_group": 4,
+            "question": "Which of the following direct, fused power connections would be the best for a 100 watt HF mobile installation?",
+            "answers": [
+                {
+                    "A": "To the battery using heavy-gauge wire",
+                    "B": "To the alternator or generator using heavy-gauge wire",
+                    "C": "To the battery using resistor wire",
+                    "D": "To the alternator or generator using resistor wire"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4E04",
+            "question_group": 4,
+            "question": "Why is it best NOT to draw the DC power for a 100 watt HF transceiver from a vehicle\u2019s auxiliary power socket?",
+            "answers": [
+                {
+                    "A": "The socket is not wired with an RF-shielded power cable",
+                    "B": "The socket\u2019s wiring may be inadequate for the current drawn by the transceiver",
+                    "C": "The DC polarity of the socket is reversed from the polarity of modern HF transceivers",
+                    "D": "Drawing more than 50 watts from this socket could cause the engine to overheat"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 187
