@@ -861,7 +861,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -941,7 +941,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -1405,7 +1405,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -1437,7 +1437,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1469,7 +1469,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -1629,7 +1629,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1645,7 +1645,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 13,
+            "cr_attempts": 14,
             "in_attempts": 0
         },
         {
@@ -1661,7 +1661,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1949,7 +1949,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 12,
+            "cr_attempts": 13,
             "in_attempts": 0
         },
         {
@@ -2029,7 +2029,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 1
         },
         {
@@ -2541,7 +2541,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -2781,7 +2781,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -2877,7 +2877,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -3021,7 +3021,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -3037,7 +3037,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -3054,7 +3054,7 @@
             ],
             "right_answer": "D",
             "cr_attempts": 5,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G4B15",
@@ -3070,7 +3070,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 11,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G4C01",
@@ -3086,7 +3086,7 @@
             ],
             "right_answer": "B",
             "cr_attempts": 3,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G4C02",
@@ -3261,7 +3261,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -3327,7 +3327,71 @@
             "right_answer": "D",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G4D04",
+            "question_group": 4,
+            "question": "What does an S meter measure?",
+            "answers": [
+                {
+                    "A": "Conductance",
+                    "B": "Impedance",
+                    "C": "Received signal strength",
+                    "D": "Transmitter power output"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4D05",
+            "question_group": 4,
+            "question": "How does a signal that reads 20 dB over S9 compare to one that reads S9 on a receiver, assuming a properly calibrated S meter?",
+            "answers": [
+                {
+                    "A": "It is 10 times less powerful",
+                    "B": "It is 20 times less powerful",
+                    "C": "It is 20 times more powerful",
+                    "D": "It is 100 times more powerful"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4D06",
+            "question_group": 4,
+            "question": "Where is an S meter found?",
+            "answers": [
+                {
+                    "A": "In a receiver",
+                    "B": "In an SWR bridge",
+                    "C": "In a transmitter",
+                    "D": "In a conductance bridge"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4D07",
+            "question_group": 4,
+            "question": "How much must the power output of a transmitter be raised to change the S meter reading on a distant receiver from S8 to S9?",
+            "answers": [
+                {
+                    "A": "Approximately 1.5 times",
+                    "B": "Approximately 2 times",
+                    "C": "Approximately 4 times",
+                    "D": "Approximately 8 times"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
-    "last_index": 193
+    "last_index": 0
 }
