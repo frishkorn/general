@@ -3407,6 +3407,38 @@
             "right_answer": "C",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G4D09",
+            "question_group": 4,
+            "question": "What frequency range is occupied by a 3 kHz USB signal with the displayed carrier frequency set to 14.347 MHz?",
+            "answers": [
+                {
+                    "A": "14.347 to 14.647 MHz",
+                    "B": "14.347 to 14.350 MHz",
+                    "C": "14.344 to 14.347 MHz",
+                    "D": "14.3455 to 14.3485 MHz"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4D10",
+            "question_group": 4,
+            "question": "How close to the lower edge of the phone segment should your displayed carrier frequency be when using 3 kHz wide LSB?",
+            "answers": [
+                {
+                    "A": "At least 3 kHz above the edge of the segment",
+                    "B": "At least 3 kHz below the edge of the segment",
+                    "C": "At least 1 kHz below the edge of the segment",
+                    "D": "At least 1 kHz above the edge of the segment"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 187
