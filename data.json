@@ -365,7 +365,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1005,7 +1005,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -1325,8 +1325,8 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
-            "in_attempts": 1
+            "cr_attempts": 2,
+            "in_attempts": 2
         },
         {
             "question_id": "G2B08",
@@ -1533,7 +1533,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -1758,7 +1758,7 @@
             ],
             "right_answer": "D",
             "cr_attempts": 2,
-            "in_attempts": 3
+            "in_attempts": 4
         },
         {
             "question_id": "G2E02",
@@ -1965,7 +1965,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 11,
+            "cr_attempts": 12,
             "in_attempts": 0
         },
         {
@@ -2045,7 +2045,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -2269,7 +2269,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 1
         },
         {
@@ -2477,7 +2477,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -2813,7 +2813,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -3101,7 +3101,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -3309,7 +3309,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 1
         },
         {
@@ -3453,7 +3453,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -3519,7 +3519,71 @@
             "right_answer": "B",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G4E05",
+            "question_group": 4,
+            "question": "Which of the following most limits an HF mobile installation?",
+            "answers": [
+                {
+                    "A": "\u201cPicket fencing\u201d",
+                    "B": "The wire gauge of the DC power line to the transceiver",
+                    "C": "Efficiency of the electrically short antenna",
+                    "D": "FCC rules limiting mobile output power on the 75-meter band"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4E06",
+            "question_group": 4,
+            "question": "What is one disadvantage of using a shortened mobile antenna as opposed to a full-size antenna?",
+            "answers": [
+                {
+                    "A": "Short antennas are more likely to cause distortion of transmitted signals",
+                    "B": "Short antennas can only receive circularly polarized signals",
+                    "C": "Operating bandwidth may be very limited",
+                    "D": "Harmonic radiation may increase"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4E07",
+            "question_group": 4,
+            "question": "Which of the following may cause receive interference in a radio installed in a vehicle?",
+            "answers": [
+                {
+                    "A": "The battery charging system",
+                    "B": "The fuel delivery system",
+                    "C": "The vehicle control computer",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4E08",
+            "question_group": 4,
+            "question": "What is the name of the process by which sunlight is changed directly into electricity?",
+            "answers": [
+                {
+                    "A": "Photovoltaic conversion",
+                    "B": "Photon emission",
+                    "C": "Photosynthesis",
+                    "D": "Photon decomposition"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
-    "last_index": 187
+    "last_index": 0
 }
