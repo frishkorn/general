@@ -3439,6 +3439,54 @@
             "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G4D11",
+            "question_group": 4,
+            "question": "How close to the upper edge of the phone segment should your displayed carrier frequency be when using 3 kHz wide USB?",
+            "answers": [
+                {
+                    "A": "At least 3 kHz above the edge of the band",
+                    "B": "At least 3 kHz below the edge of the band",
+                    "C": "At least 1 kHz above the edge of the segment",
+                    "D": "At least 1 kHz below the edge of the segment"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4E01",
+            "question_group": 4,
+            "question": "What is the purpose of a capacitance hat on a mobile antenna?",
+            "answers": [
+                {
+                    "A": "To increase the power handling capacity of a whip antenna",
+                    "B": "To allow automatic band changing",
+                    "C": "To electrically lengthen a physically short antenna",
+                    "D": "To allow remote tuning"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4E02",
+            "question_group": 4,
+            "question": "What is the purpose of a corona ball on an HF mobile antenna?",
+            "answers": [
+                {
+                    "A": "To narrow the operating bandwidth of the antenna",
+                    "B": "To increase the \u201cQ\u201d of the antenna",
+                    "C": "To reduce the chance of damage if the antenna should strike an object",
+                    "D": "To reduce RF voltage discharge from the tip of the antenna while transmitting"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 187
