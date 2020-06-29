@@ -77,7 +77,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 8,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -574,7 +574,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 5,
-            "in_attempts": 1
+            "in_attempts": 2
         },
         {
             "question_id": "G1C10",
@@ -1710,7 +1710,7 @@
             ],
             "right_answer": "C",
             "cr_attempts": 4,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G2D10",
@@ -1981,7 +1981,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 14,
+            "cr_attempts": 15,
             "in_attempts": 0
         },
         {
@@ -3390,6 +3390,22 @@
             ],
             "right_answer": "C",
             "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4D08",
+            "question_group": 4,
+            "question": "What frequency range is occupied by a 3 kHz LSB signal when the displayed carrier frequency is set to 7.178 MHz?",
+            "answers": [
+                {
+                    "A": "7.178 to 7.181 MHz",
+                    "B": "7.178 to 7.184 MHz",
+                    "C": "7.175 to 7.178 MHz",
+                    "D": "7.1765 to 7.1795 MHz"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
             "in_attempts": 0
         }
     ],
