@@ -3599,6 +3599,38 @@
             "right_answer": "B",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G4E10",
+            "question_group": 4,
+            "question": "What is the reason that a series diode is connected between a solar panel and a storage battery that is being charged by the panel?",
+            "answers": [
+                {
+                    "A": "The diode serves to regulate the charging voltage to prevent overcharge",
+                    "B": "The diode prevents self-discharge of the battery through the panel during times of low or no illumination",
+                    "C": "The diode limits the current flowing from the panel to a safe value",
+                    "D": "The diode greatly increases the efficiency during times of high illumination"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G4E11",
+            "question_group": 4,
+            "question": "Which of the following is a disadvantage of using wind as the primary source of power for an emergency station?",
+            "answers": [
+                {
+                    "A": "The conversion efficiency from mechanical energy to electrical energy is less than 2 percent",
+                    "B": "The voltage and current ratings of such systems are not compatible with amateur equipment",
+                    "C": "A large energy storage system is needed to supply power when the wind is not blowing",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 195
