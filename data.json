@@ -3951,6 +3951,86 @@
             "right_answer": "B",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G5B10",
+            "question_group": 5,
+            "question": "What percentage of power loss would result from a transmission line loss of 1 dB?",
+            "answers": [
+                {
+                    "A": "10.9 percent",
+                    "B": "12.2 percent",
+                    "C": "20.6 percent",
+                    "D": "25.9 percent"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5B11",
+            "question_group": 5,
+            "question": "What is the ratio of peak envelope power to average power for an unmodulated carrier?",
+            "answers": [
+                {
+                    "A": "0.707",
+                    "B": "1.00",
+                    "C": "1.414",
+                    "D": "2.00"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5B12",
+            "question_group": 5,
+            "question": "What would be the RMS voltage across a 50 ohm dummy load dissipating 1200 watts?",
+            "answers": [
+                {
+                    "A": "173 volts",
+                    "B": "245 volts",
+                    "C": "346 volts",
+                    "D": "692 volts"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5B13",
+            "question_group": 5,
+            "question": "What is the output PEP of an unmodulated carrier if an average reading wattmeter connected to the transmitter output indicates 1060 watts?",
+            "answers": [
+                {
+                    "A": "530 watts",
+                    "B": "1060 watts",
+                    "C": "1500 watts",
+                    "D": "2120 watts"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5B14",
+            "question_group": 5,
+            "question": "What is the output PEP from a transmitter if an oscilloscope measures 500 volts peak-to-peak across a 50 ohm resistive load connected to the transmitter output?",
+            "answers": [
+                {
+                    "A": "8.75 watts",
+                    "B": "625 watts",
+                    "C": "2500 watts",
+                    "D": "5000 watts"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 197
