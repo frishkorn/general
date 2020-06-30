@@ -13,7 +13,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 11,
+            "cr_attempts": 13,
             "in_attempts": 0
         },
         {
@@ -29,7 +29,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 8,
+            "cr_attempts": 10,
             "in_attempts": 0
         },
         {
@@ -45,7 +45,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -61,7 +61,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 2
         },
         {
@@ -125,7 +125,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 1
         },
         {
@@ -349,7 +349,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -398,7 +398,7 @@
             ],
             "right_answer": "C",
             "cr_attempts": 5,
-            "in_attempts": 1
+            "in_attempts": 2
         },
         {
             "question_id": "G1B11",
@@ -478,7 +478,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 7,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G1C04",
@@ -557,7 +557,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 8,
+            "cr_attempts": 10,
             "in_attempts": 0
         },
         {
@@ -637,7 +637,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 8,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -669,7 +669,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -685,7 +685,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 11,
+            "cr_attempts": 12,
             "in_attempts": 0
         },
         {
@@ -973,7 +973,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1229,7 +1229,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1341,7 +1341,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 8,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -1581,7 +1581,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1837,7 +1837,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 10,
+            "cr_attempts": 11,
             "in_attempts": 0
         },
         {
@@ -1949,7 +1949,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 13,
+            "cr_attempts": 14,
             "in_attempts": 0
         },
         {
@@ -2029,7 +2029,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 1
         },
         {
@@ -2446,7 +2446,7 @@
             ],
             "right_answer": "D",
             "cr_attempts": 2,
-            "in_attempts": 1
+            "in_attempts": 2
         },
         {
             "question_id": "G3C05",
@@ -3165,7 +3165,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -3181,7 +3181,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -3197,7 +3197,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -3213,7 +3213,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -3229,7 +3229,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -3245,7 +3245,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -3261,7 +3261,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -3277,7 +3277,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -3293,7 +3293,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -3309,7 +3309,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 1
         },
         {
@@ -3325,7 +3325,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 1
         },
         {
@@ -3341,7 +3341,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -3357,7 +3357,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -3373,7 +3373,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -3389,7 +3389,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -3405,7 +3405,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3422,7 +3422,7 @@
             ],
             "right_answer": "B",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 2
         },
         {
             "question_id": "G4D10",
@@ -3437,7 +3437,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3453,7 +3453,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -3469,7 +3469,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3485,7 +3485,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3501,7 +3501,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -3517,7 +3517,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -3533,7 +3533,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3549,7 +3549,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3565,7 +3565,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3581,7 +3581,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3597,7 +3597,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -3613,7 +3613,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3630,8 +3630,136 @@
             ],
             "right_answer": "C",
             "cr_attempts": 0,
+            "in_attempts": 1
+        },
+        {
+            "question_id": "G5A01",
+            "question_group": 5,
+            "question": "What is impedance?",
+            "answers": [
+                {
+                    "A": "The electric charge stored by a capacitor",
+                    "B": "The inverse of resistance",
+                    "C": "The opposition to the flow of current in an AC circuit",
+                    "D": "The force of repulsion between two similar electric fields"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5A02",
+            "question_group": 5,
+            "question": "What is reactance?",
+            "answers": [
+                {
+                    "A": "Opposition to the flow of direct current caused by resistance",
+                    "B": "Opposition to the flow of alternating current caused by capacitance or inductance",
+                    "C": "A property of ideal resistors in AC circuits",
+                    "D": "A large spark produced at switch contacts when an inductor is de-energized"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5A03",
+            "question_group": 5,
+            "question": "Which of the following causes opposition to the flow of alternating current in an inductor?",
+            "answers": [
+                {
+                    "A": "Conductance",
+                    "B": "Reluctance",
+                    "C": "Admittance",
+                    "D": "Reactance"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5A04",
+            "question_group": 5,
+            "question": "Which of the following causes opposition to the flow of alternating current in a capacitor?",
+            "answers": [
+                {
+                    "A": "Conductance",
+                    "B": "Reluctance",
+                    "C": "Reactance",
+                    "D": "Admittance"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5A05",
+            "question_group": 5,
+            "question": "How does an inductor react to AC?",
+            "answers": [
+                {
+                    "A": "As the frequency of the applied AC increases, the reactance decreases",
+                    "B": "As the amplitude of the applied AC increases, the reactance increases",
+                    "C": "As the amplitude of the applied AC increases, the reactance decreases",
+                    "D": "As the frequency of the applied AC increases, the reactance increases"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5A06",
+            "question_group": 5,
+            "question": "How does a capacitor react to AC?",
+            "answers": [
+                {
+                    "A": "As the frequency of the applied AC increases, the reactance decreases",
+                    "B": "As the frequency of the applied AC increases, the reactance increases",
+                    "C": "As the amplitude of the applied AC increases, the reactance increases",
+                    "D": "As the amplitude of the applied AC increases, the reactance decreases"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5A07",
+            "question_group": 5,
+            "question": "What happens when the impedance of an electrical load is equal to the output impedance of a power source, assuming both impedances are resistive?",
+            "answers": [
+                {
+                    "A": "The source delivers minimum power to the load",
+                    "B": "The electrical load is shorted",
+                    "C": "No current can flow through the circuit",
+                    "D": "The source can deliver maximum power to the load"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5A08",
+            "question_group": 5,
+            "question": "What is one reason to use an impedance matching transformer?",
+            "answers": [
+                {
+                    "A": "To minimize transmitter power output",
+                    "B": "To maximize the transfer of power",
+                    "C": "To reduce power supply ripple",
+                    "D": "To minimize radiation resistance"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
             "in_attempts": 0
         }
     ],
-    "last_index": 195
+    "last_index": 197
 }
