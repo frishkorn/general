@@ -253,7 +253,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -269,7 +269,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 9,
+            "cr_attempts": 10,
             "in_attempts": 0
         },
         {
@@ -317,7 +317,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -429,7 +429,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -445,7 +445,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -621,7 +621,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -877,7 +877,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -893,7 +893,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 10,
+            "cr_attempts": 11,
             "in_attempts": 0
         },
         {
@@ -1357,7 +1357,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -1565,7 +1565,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1773,7 +1773,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -1853,7 +1853,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 1
         },
         {
@@ -1869,7 +1869,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -1965,7 +1965,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 12,
+            "cr_attempts": 13,
             "in_attempts": 0
         },
         {
@@ -2333,7 +2333,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -2381,7 +2381,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -2413,7 +2413,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -2973,7 +2973,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -3133,7 +3133,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -3341,7 +3341,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -3501,7 +3501,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -3565,7 +3565,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -3677,7 +3677,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -3741,7 +3741,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -3757,6 +3757,54 @@
                 }
             ],
             "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5A09",
+            "question_group": 5,
+            "question": "What unit is used to measure reactance?",
+            "answers": [
+                {
+                    "A": "Farad",
+                    "B": "Ohm",
+                    "C": "Ampere",
+                    "D": "Siemens"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5A10",
+            "question_group": 5,
+            "question": "Which of the following devices can be used for impedance matching at radio frequencies?",
+            "answers": [
+                {
+                    "A": "A transformer",
+                    "B": "A Pi-network",
+                    "C": "A length of transmission line",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5A11",
+            "question_group": 5,
+            "question": "Which of the following describes one method of impedance matching between two AC circuits?",
+            "answers": [
+                {
+                    "A": "Insert an LC network between the two circuits",
+                    "B": "Reduce the power output of the first circuit",
+                    "C": "Increase the power output of the first circuit",
+                    "D": "Insert a circulator between the two circuits"
+                }
+            ],
+            "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
         }
