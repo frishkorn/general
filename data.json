@@ -3807,6 +3807,150 @@
             "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G5B01",
+            "question_group": 5,
+            "question": "What dB change represents a factor of two increase or decrease in power?",
+            "answers": [
+                {
+                    "A": "Approximately 2 dB",
+                    "B": "Approximately 3 dB",
+                    "C": "Approximately 6 dB",
+                    "D": "Approximately 12 dB"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5B02",
+            "question_group": 5,
+            "question": "How does the total current relate to the individual currents in each branch of a purely resistive parallel circuit?",
+            "answers": [
+                {
+                    "A": "It equals the average of each branch current",
+                    "B": "It decreases as more parallel branches are added to the circuit",
+                    "C": "It equals the sum of the currents through each branch",
+                    "D": "It is the sum of the reciprocal of each individual voltage drop"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5B03",
+            "question_group": 5,
+            "question": "How many watts of electrical power are used if 400 VDC is supplied to an 800 ohm load?",
+            "answers": [
+                {
+                    "A": "0.5 watts",
+                    "B": "200 watts",
+                    "C": "400 watts",
+                    "D": "3200 watts"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5B04",
+            "question_group": 5,
+            "question": "How many watts of electrical power are used by a 12 VDC light bulb that draws 0.2 amperes?",
+            "answers": [
+                {
+                    "A": "2.4 watts",
+                    "B": "24 watts",
+                    "C": "6 watts",
+                    "D": "60 watts"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5B05",
+            "question_group": 5,
+            "question": "How many watts are dissipated when a current of 7.0 milliamperes flows through a 1250 ohm resistance?",
+            "answers": [
+                {
+                    "A": "Approximately 61 milliwatts",
+                    "B": "Approximately 61 watts",
+                    "C": "Approximately 11 milliwatts",
+                    "D": "Approximately 11 watts"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5B06",
+            "question_group": 5,
+            "question": "What is the output PEP from a transmitter if an oscilloscope measures 200 volts peak-to-peak across a 50 ohm dummy load connected to the transmitter output?",
+            "answers": [
+                {
+                    "A": "1.4 watts",
+                    "B": "100 watts",
+                    "C": "353.5 watts",
+                    "D": "400 watts"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5B07",
+            "question_group": 5,
+            "question": "What value of an AC signal produces the same power dissipation in a resistor as a DC voltage of the same value?",
+            "answers": [
+                {
+                    "A": "The peak-to-peak value",
+                    "B": "The peak value",
+                    "C": "The RMS value",
+                    "D": "The reciprocal of the RMS value"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5B08",
+            "question_group": 5,
+            "question": "What is the peak-to-peak voltage of a sine wave with an RMS voltage of 120.0 volts?",
+            "answers": [
+                {
+                    "A": "84.8 volts",
+                    "B": "169.7 volts",
+                    "C": "240.0 volts",
+                    "D": "339.4 volts"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5B09",
+            "question_group": 5,
+            "question": "What is the RMS voltage of a sine wave with a value of 17 volts peak?",
+            "answers": [
+                {
+                    "A": "8.5 volts",
+                    "B": "12 volts",
+                    "C": "24 volts",
+                    "D": "34 volts"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 197
