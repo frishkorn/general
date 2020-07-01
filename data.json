@@ -3901,7 +3901,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -3917,7 +3917,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -3933,7 +3933,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -3949,7 +3949,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -3965,7 +3965,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -3981,7 +3981,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -3997,7 +3997,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -4014,7 +4014,7 @@
             ],
             "right_answer": "B",
             "cr_attempts": 0,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G5B14",
@@ -4030,8 +4030,40 @@
             ],
             "right_answer": "B",
             "cr_attempts": 0,
+            "in_attempts": 1
+        },
+        {
+            "question_id": "G5C01",
+            "question_group": 5,
+            "question": "What causes a voltage to appear across the secondary winding of a transformer when an AC voltage source is connected across its primary winding?",
+            "answers": [
+                {
+                    "A": "Capacitive coupling",
+                    "B": "Displacement current coupling",
+                    "C": "Mutual inductance",
+                    "D": "Mutual capacitance"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C02",
+            "question_group": 5,
+            "question": "What happens if a signal is applied to the secondary winding of a 4:1 voltage step-down transformer instead of the primary winding?",
+            "answers": [
+                {
+                    "A": "The output voltage is multiplied by 4",
+                    "B": "The output voltage is divided by 4",
+                    "C": "Additional resistance must be added in series with the primary to prevent overload",
+                    "D": "Additional resistance must be added in parallel with the secondary to prevent overload"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
             "in_attempts": 0
         }
     ],
-    "last_index": 197
+    "last_index": 243
 }
