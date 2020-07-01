@@ -4559,6 +4559,86 @@
             "right_answer": "C",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G6B02",
+            "question_group": 6,
+            "question": "What is meant by the term MMIC?",
+            "answers": [
+                {
+                    "A": "Multi-Megabyte Integrated Circuit",
+                    "B": "Monolithic Microwave Integrated Circuit",
+                    "C": "Military Manufactured Integrated Circuit",
+                    "D": "Mode Modulated Integrated Circuit"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6B03",
+            "question_group": 6,
+            "question": "Which of the following is an advantage of CMOS integrated circuits compared to TTL integrated circuits?",
+            "answers": [
+                {
+                    "A": "Low power consumption",
+                    "B": "High power handling capability",
+                    "C": "Better suited for RF amplification",
+                    "D": "Better suited for power supply regulation"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6B04",
+            "question_group": 6,
+            "question": "What is meant by the term ROM?",
+            "answers": [
+                {
+                    "A": "Resistor Operated Memory",
+                    "B": "Read Only Memory",
+                    "C": "Random Operational Memory",
+                    "D": "Resistant to Overload Memory"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6B05",
+            "question_group": 6,
+            "question": "What is meant when memory is characterized as non-volatile?",
+            "answers": [
+                {
+                    "A": "It is resistant to radiation damage",
+                    "B": "It is resistant to high temperatures",
+                    "C": "The stored information is maintained even if power is removed",
+                    "D": "The stored information cannot be changed once written"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6B06",
+            "question_group": 6,
+            "question": "What kind of device is an integrated circuit operational amplifier?",
+            "answers": [
+                {
+                    "A": "Digital",
+                    "B": "MMIC",
+                    "C": "Programmable Logic",
+                    "D": "Analog"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 243
