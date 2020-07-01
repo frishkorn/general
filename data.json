@@ -4897,6 +4897,54 @@
             "right_answer": "C",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G7A10",
+            "question_group": 7,
+            "question": "Which symbol in figure G7-1 represents a Zener diode?",
+            "answers": [
+                {
+                    "A": "Symbol 4",
+                    "B": "Symbol 1",
+                    "C": "Symbol 11",
+                    "D": "Symbol 5"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7A11",
+            "question_group": 7,
+            "question": "Which symbol in figure G7-1 represents an NPN junction transistor?",
+            "answers": [
+                {
+                    "A": "Symbol 1",
+                    "B": "Symbol 2",
+                    "C": "Symbol 7",
+                    "D": "Symbol 11"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7A12",
+            "question_group": 7,
+            "question": "Which symbol in Figure G7-1 represents a solid core transformer?",
+            "answers": [
+                {
+                    "A": "Symbol 4",
+                    "B": "Symbol 7",
+                    "C": "Symbol 6",
+                    "D": "Symbol 1"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 242,
