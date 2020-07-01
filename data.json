@@ -45,7 +45,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 8,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -93,7 +93,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 1
         },
         {
@@ -349,7 +349,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -749,7 +749,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -765,7 +765,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 6,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -782,7 +782,7 @@
             ],
             "right_answer": "C",
             "cr_attempts": 7,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G1D08",
@@ -813,7 +813,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 10,
+            "cr_attempts": 11,
             "in_attempts": 0
         },
         {
@@ -861,7 +861,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -989,7 +989,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 10,
+            "cr_attempts": 11,
             "in_attempts": 0
         },
         {
@@ -1005,7 +1005,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -1037,7 +1037,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 1
         },
         {
@@ -1213,7 +1213,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -1245,7 +1245,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -1373,7 +1373,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 10,
+            "cr_attempts": 11,
             "in_attempts": 0
         },
         {
@@ -1437,7 +1437,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -1469,7 +1469,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1485,7 +1485,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -1581,7 +1581,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -1758,7 +1758,7 @@
             ],
             "right_answer": "D",
             "cr_attempts": 2,
-            "in_attempts": 4
+            "in_attempts": 5
         },
         {
             "question_id": "G2E02",
@@ -1853,7 +1853,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 1
         },
         {
@@ -2189,7 +2189,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -2253,7 +2253,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -2286,7 +2286,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 2,
-            "in_attempts": 1
+            "in_attempts": 2
         },
         {
             "question_id": "G3B06",
@@ -2333,7 +2333,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -2413,7 +2413,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 5,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -2445,7 +2445,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 2
         },
         {
@@ -2845,7 +2845,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -2925,7 +2925,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -2989,7 +2989,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -3021,7 +3021,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -3053,7 +3053,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 1
         },
         {
@@ -3341,7 +3341,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -3453,7 +3453,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -3469,7 +3469,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -3517,7 +3517,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -3533,7 +3533,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -3597,7 +3597,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3613,7 +3613,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -3645,7 +3645,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -3726,7 +3726,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 0,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G5A07",
@@ -3837,7 +3837,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -3901,7 +3901,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -4061,6 +4061,406 @@
                 }
             ],
             "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C03",
+            "question_group": 5,
+            "question": "Which of the following components increases the total resistance of a resistor?",
+            "answers": [
+                {
+                    "A": "A parallel resistor",
+                    "B": "A series resistor",
+                    "C": "A series capacitor",
+                    "D": "A parallel capacitor"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C04",
+            "question_group": 5,
+            "question": "What is the total resistance of three 100 ohm resistors in parallel?",
+            "answers": [
+                {
+                    "A": "0.30 ohms",
+                    "B": "0.33 ohms",
+                    "C": "33.3 ohms",
+                    "D": "300 ohms"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C05",
+            "question_group": 5,
+            "question": "If three equal value resistors in series produce 450 ohms, what is the value of each resistor?",
+            "answers": [
+                {
+                    "A": "1500 ohms",
+                    "B": "90 ohms",
+                    "C": "150 ohms",
+                    "D": "175 ohms"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C06",
+            "question_group": 5,
+            "question": "What is the RMS voltage across a 500-turn secondary winding in a transformer if the 2250-turn primary is connected to 120 VAC?",
+            "answers": [
+                {
+                    "A": "2370 volts",
+                    "B": "540 volts",
+                    "C": "26.7 volts",
+                    "D": "5.9 volts"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C07",
+            "question_group": 5,
+            "question": "What is the turns ratio of a transformer used to match an audio amplifier having 600 ohm output impedance to a speaker having 4 ohm impedance?",
+            "answers": [
+                {
+                    "A": "12.2 to 1",
+                    "B": "24.4 to 1",
+                    "C": "150 to 1",
+                    "D": "300 to 1"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C08",
+            "question_group": 5,
+            "question": "What is the equivalent capacitance of two 5.0 nanofarad capacitors and one 750 picofarad capacitor connected in parallel?",
+            "answers": [
+                {
+                    "A": "576.9 nanofarads",
+                    "B": "1733 picofarads",
+                    "C": "3583 picofarads",
+                    "D": "10.750 nanofarads"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C09",
+            "question_group": 5,
+            "question": "What is the capacitance of three 100 microfarad capacitors connected in series?",
+            "answers": [
+                {
+                    "A": "0.30 microfarads",
+                    "B": "0.33 microfarads",
+                    "C": "33.3 microfarads",
+                    "D": "300 microfarads"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C10",
+            "question_group": 5,
+            "question": "What is the inductance of three 10 millihenry inductors connected in parallel?",
+            "answers": [
+                {
+                    "A": "0.30 henries",
+                    "B": "3.3 henries",
+                    "C": "3.3 millihenries",
+                    "D": "30 millihenries"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C11",
+            "question_group": 5,
+            "question": "What is the inductance of a 20 millihenry inductor connected in series with a 50 millihenry inductor?",
+            "answers": [
+                {
+                    "A": "0.07 millihenries",
+                    "B": "14.3 millihenries",
+                    "C": "70 millihenries",
+                    "D": "1000 millihenries"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C12",
+            "question_group": 5,
+            "question": "What is the capacitance of a 20 microfarad capacitor connected in series with a 50 microfarad capacitor?",
+            "answers": [
+                {
+                    "A": "0.07 microfarads",
+                    "B": "14.3 microfarads",
+                    "C": "70 microfarads",
+                    "D": "1000 microfarads"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C13",
+            "question_group": 5,
+            "question": "Which of the following components should be added to a capacitor to increase the capacitance?",
+            "answers": [
+                {
+                    "A": "An inductor in series",
+                    "B": "A resistor in series",
+                    "C": "A capacitor in parallel",
+                    "D": "A capacitor in series"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C14",
+            "question_group": 5,
+            "question": "Which of the following components should be added to an inductor to increase the inductance?",
+            "answers": [
+                {
+                    "A": "A capacitor in series",
+                    "B": "A resistor in parallel",
+                    "C": "An inductor in parallel",
+                    "D": "An inductor in series"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C15",
+            "question_group": 5,
+            "question": "What is the total resistance of a 10 ohm, a 20 ohm, and a 50 ohm resistor connected in parallel?",
+            "answers": [
+                {
+                    "A": "5.9 ohms",
+                    "B": "0.17 ohms",
+                    "C": "10000 ohms",
+                    "D": "80 ohms"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 1,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C16",
+            "question_group": 5,
+            "question": "Why is the conductor of the primary winding of many voltage step-up transformers larger in diameter than the conductor of the secondary winding?",
+            "answers": [
+                {
+                    "A": "To improve the coupling between the primary and secondary",
+                    "B": "To accommodate the higher current of the primary",
+                    "C": "To prevent parasitic oscillations due to resistive losses in the primary",
+                    "D": "To ensure that the volume of the primary winding is equal to the volume of the secondary winding"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C17",
+            "question_group": 5,
+            "question": "What is the value in nanofarads (nF) of a 22,000 picofarad (pF) capacitor?",
+            "answers": [
+                {
+                    "A": "0.22",
+                    "B": "2.2",
+                    "C": "22",
+                    "D": "220"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G5C18",
+            "question_group": 5,
+            "question": "What is the value in microfarads of a 4700 nanofarad (nF) capacitor?",
+            "answers": [
+                {
+                    "A": "47",
+                    "B": "0.47",
+                    "C": "47,000",
+                    "D": "4.7"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6A01",
+            "question_group": 6,
+            "question": "What is the minimum allowable discharge voltage for maximum life of a standard 12 volt lead-acid battery?",
+            "answers": [
+                {
+                    "A": "6 volts",
+                    "B": "8.5 volts",
+                    "C": "10.5 volts",
+                    "D": "12 volts"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6A02",
+            "question_group": 6,
+            "question": "What is an advantage of the low internal resistance of nickel-cadmium batteries?",
+            "answers": [
+                {
+                    "A": "Long life",
+                    "B": "High discharge current",
+                    "C": "High voltage",
+                    "D": "Rapid recharge"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6A03",
+            "question_group": 6,
+            "question": "What is the approximate junction threshold voltage of a germanium diode?",
+            "answers": [
+                {
+                    "A": "0.1 volt",
+                    "B": "0.3 volts",
+                    "C": "0.7 volts",
+                    "D": "1.0 volts"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6A04",
+            "question_group": 6,
+            "question": "Which of the following is an advantage of an electrolytic capacitor?",
+            "answers": [
+                {
+                    "A": "Tight tolerance",
+                    "B": "Much less leakage than any other type",
+                    "C": "High capacitance for a given volume",
+                    "D": "Inexpensive RF capacitor"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6A05",
+            "question_group": 6,
+            "question": "What is the approximate junction threshold voltage of a conventional silicon diode?",
+            "answers": [
+                {
+                    "A": "0.1 volt",
+                    "B": "0.3 volts",
+                    "C": "0.7 volts",
+                    "D": "1.0 volts"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6A06",
+            "question_group": 6,
+            "question": "Which of the following is a reason not to use wire-wound resistors in an RF circuit?",
+            "answers": [
+                {
+                    "A": "The resistor\u2019s tolerance value would not be adequate for such a circuit",
+                    "B": "The resistor\u2019s inductance could make circuit performance unpredictable",
+                    "C": "The resistor could overheat",
+                    "D": "The resistor\u2019s internal capacitance would detune the circuit"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6A07",
+            "question_group": 6,
+            "question": "What are the stable operating points for a bipolar transistor used as a switch in a logic circuit?",
+            "answers": [
+                {
+                    "A": "Its saturation and cutoff regions",
+                    "B": "Its active region (between the cutoff and saturation regions)",
+                    "C": "Its peak and valley current points",
+                    "D": "Its enhancement and depletion modes"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6A08",
+            "question_group": 6,
+            "question": "What is an advantage of using a ferrite core toroidal inductor?",
+            "answers": [
+                {
+                    "A": "Large values of inductance may be obtained",
+                    "B": "The magnetic properties of the core may be optimized for a specific range of frequencies",
+                    "C": "Most of the magnetic field is contained in the core",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6A09",
+            "question_group": 6,
+            "question": "Which of the following describes the construction of a MOSFET?",
+            "answers": [
+                {
+                    "A": "The gate is formed by a back-biased junction",
+                    "B": "The gate is separated from the channel with a thin insulating layer",
+                    "C": "The source is separated from the drain by a thin insulating layer",
+                    "D": "The source is formed by depositing metal on silicon"
+                }
+            ],
+            "right_answer": "B",
             "cr_attempts": 0,
             "in_attempts": 0
         }
