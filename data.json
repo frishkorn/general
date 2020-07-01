@@ -269,7 +269,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 10,
+            "cr_attempts": 11,
             "in_attempts": 0
         },
         {
@@ -285,7 +285,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -893,7 +893,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 11,
+            "cr_attempts": 13,
             "in_attempts": 0
         },
         {
@@ -1309,7 +1309,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 3,
             "in_attempts": 0
         },
         {
@@ -2317,7 +2317,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -2397,7 +2397,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -2557,7 +2557,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -2686,7 +2686,7 @@
             ],
             "right_answer": "D",
             "cr_attempts": 3,
-            "in_attempts": 0
+            "in_attempts": 1
         },
         {
             "question_id": "G4A09",
@@ -3197,7 +3197,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -3645,7 +3645,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 2,
             "in_attempts": 0
         },
         {
@@ -3885,7 +3885,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -4285,7 +4285,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -4349,7 +4349,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -4509,7 +4509,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -4751,7 +4751,101 @@
             "right_answer": "C",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G7A01",
+            "question_group": 7,
+            "question": "What useful feature does a power supply bleeder resistor provide?",
+            "answers": [
+                {
+                    "A": "It acts as a fuse for excess voltage",
+                    "B": "It ensures that the filter capacitors are discharged when power is removed",
+                    "C": "It removes shock hazards from the induction coils",
+                    "D": "It eliminates ground loop current"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7A02",
+            "question_group": 7,
+            "question": "Which of the following components are used in a power supply filter network?",
+            "answers": [
+                {
+                    "A": "Diodes",
+                    "B": "Transformers and transducers",
+                    "C": "Quartz crystals",
+                    "D": "Capacitors and inductors"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7A03",
+            "question_group": 7,
+            "question": "Which type of rectifier circuit uses two diodes and a center-tapped transformer?",
+            "answers": [
+                {
+                    "A": "Full-wave",
+                    "B": "Full-wave bridge",
+                    "C": "Half-wave",
+                    "D": "Synchronous"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7A04",
+            "question_group": 7,
+            "question": "What is an advantage of a half-wave rectifier in a power supply?",
+            "answers": [
+                {
+                    "A": "Only one diode is required",
+                    "B": "The ripple frequency is twice that of a full-wave rectifier",
+                    "C": "More current can be drawn from the half-wave rectifier",
+                    "D": "The output voltage is two times the peak output voltage of the transformer"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7A05",
+            "question_group": 7,
+            "question": "What portion of the AC cycle is converted to DC by a half-wave rectifier?",
+            "answers": [
+                {
+                    "A": "90 degrees",
+                    "B": "180 degrees",
+                    "C": "270 degrees",
+                    "D": "360 degrees"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
-    "last_index": 243
+    "last_index": 242,
+    "group_questions": [
+        {
+            "1": 5,
+            "2": 5,
+            "3": 3,
+            "4": 5,
+            "5": 3,
+            "6": 2,
+            "7": 3,
+            "8": 3,
+            "9": 4,
+            "0": 2
+        }
+    ]
 }
