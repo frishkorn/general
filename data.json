@@ -1,4 +1,6 @@
 {
+    "exam_title": "General Class Question Pool [2019 - 2023]",
+    "exam_description": "2nd & Final Public Release with Errata - March 15, 2019",
     "question_pool": [
         {
             "question_id": "G1A01",
@@ -877,7 +879,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 5,
+            "cr_attempts": 6,
             "in_attempts": 0
         },
         {
@@ -4829,6 +4831,70 @@
                 }
             ],
             "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7A06",
+            "question_group": 7,
+            "question": "What portion of the AC cycle is converted to DC by a full-wave rectifier?",
+            "answers": [
+                {
+                    "A": "90 degrees",
+                    "B": "180 degrees",
+                    "C": "270 degrees",
+                    "D": "360 degrees"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7A07",
+            "question_group": 7,
+            "question": "What is the output waveform of an unfiltered full-wave rectifier connected to a resistive load?",
+            "answers": [
+                {
+                    "A": "A series of DC pulses at twice the frequency of the AC input",
+                    "B": "A series of DC pulses at the same frequency as the AC input",
+                    "C": "A sine wave at half the frequency of the AC input",
+                    "D": "A steady DC voltage"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7A08",
+            "question_group": 7,
+            "question": "Which of the following is an advantage of a switchmode power supply as compared to a linear power supply?",
+            "answers": [
+                {
+                    "A": "Faster switching time makes higher output voltage possible",
+                    "B": "Fewer circuit components are required",
+                    "C": "High-frequency operation allows the use of smaller components",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7A09",
+            "question_group": 7,
+            "question": "Which symbol in figure G7-1 represents a field effect transistor?",
+            "answers": [
+                {
+                    "A": "Symbol 2",
+                    "B": "Symbol 5",
+                    "C": "Symbol 1",
+                    "D": "Symbol 4"
+                }
+            ],
+            "right_answer": "C",
             "cr_attempts": 0,
             "in_attempts": 0
         }

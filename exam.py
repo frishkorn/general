@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # exam.py
-# C. Frishkorn 05/29/2020
-# version: 0.6.87
+# C. Frishkorn 06/30/2020
+# version: 0.7.112
 # ------------------------
 import json
 from random import randint
@@ -175,10 +175,9 @@ def load_pool():
 pool = load_pool()
 
 # Ask user if they want to add questions / answers. Print header.
-# TO:DO - Make header generic and move into data.json file.
-print("\n2019-2023 General Class Pool - Exam Tool")
-print("2nd & Final Public Release with Errata - March 15, 2019")
-print("Question ID's show [correct|incorrect] attempts.\n")
+print(pool['exam_title'])
+print(pool['exam_description'])
+print("Question ID's Show [Correct|Incorrect] Attempts\n")
 selection = input("(A)dd Question, (R)eview, (P)ractice, (S)eries Mode, or E(X)it?: ").upper()
 if selection == "A":
     selection = add_question(selection)
