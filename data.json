@@ -4945,6 +4945,22 @@
             "right_answer": "C",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G7A13",
+            "question_group": 7,
+            "question": "Which symbol in Figure G7-1 represents a tapped inductor?",
+            "answers": [
+                {
+                    "A": "Symbol 7",
+                    "B": "Symbol 11",
+                    "C": "Symbol 6",
+                    "D": "Symbol 1"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 242,
