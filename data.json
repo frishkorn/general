@@ -1373,7 +1373,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 11,
+            "cr_attempts": 12,
             "in_attempts": 0
         },
         {
@@ -1693,7 +1693,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 9,
+            "cr_attempts": 10,
             "in_attempts": 0
         },
         {
@@ -4637,6 +4637,118 @@
                 }
             ],
             "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6B07",
+            "question_group": 6,
+            "question": "Which of the following describes a type N connector?",
+            "answers": [
+                {
+                    "A": "A moisture-resistant RF connector useful to 10 GHz",
+                    "B": "A small bayonet connector used for data circuits",
+                    "C": "A threaded connector used for hydraulic systems",
+                    "D": "An audio connector used in surround-sound installations"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6B08",
+            "question_group": 6,
+            "question": "How is an LED biased when emitting light?",
+            "answers": [
+                {
+                    "A": "Beyond cutoff",
+                    "B": "At the Zener voltage",
+                    "C": "Reverse biased",
+                    "D": "Forward biased"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6B09",
+            "question_group": 6,
+            "question": "Which of the following is a characteristic of a liquid crystal display?",
+            "answers": [
+                {
+                    "A": "It utilizes ambient or back lighting",
+                    "B": "It offers a wide dynamic range",
+                    "C": "It consumes relatively high power",
+                    "D": "It has relatively short lifetime"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6B10",
+            "question_group": 6,
+            "question": "How does a ferrite bead or core reduce common-mode RF current on the shield of a coaxial cable?",
+            "answers": [
+                {
+                    "A": "By creating an impedance in the current\u2019s path",
+                    "B": "It converts common-mode current to differential mode",
+                    "C": "By creating an out-of-phase current to cancel the common-mode current",
+                    "D": "Ferrites expel magnetic fields"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6B11",
+            "question_group": 6,
+            "question": "What is a type SMA connector?",
+            "answers": [
+                {
+                    "A": "A large bayonet connector usable at power levels more than 1 KW",
+                    "B": "A small threaded connector suitable for signals up to several GHz",
+                    "C": "A connector designed for serial multiple access signals",
+                    "D": "A type of push-on connector intended for high-voltage applications"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6B12",
+            "question_group": 6,
+            "question": "Which of these connector types is commonly used for audio signals in Amateur Radio stations?",
+            "answers": [
+                {
+                    "A": "PL-259",
+                    "B": "BNC",
+                    "C": "RCA Phono",
+                    "D": "Type N"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G6B13",
+            "question_group": 6,
+            "question": "Which of these connector types is commonly used for RF connections at frequencies up to 150 MHz?",
+            "answers": [
+                {
+                    "A": "Octal",
+                    "B": "RJ-11",
+                    "C": "PL-259",
+                    "D": "DB-25"
+                }
+            ],
+            "right_answer": "C",
             "cr_attempts": 0,
             "in_attempts": 0
         }
