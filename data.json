@@ -4961,9 +4961,185 @@
             "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G7B01",
+            "question_group": 7,
+            "question": "What is the reason for neutralizing the final amplifier stage of a transmitter?",
+            "answers": [
+                {
+                    "A": "To limit the modulation index",
+                    "B": "To eliminate self-oscillations",
+                    "C": "To cut off the final amplifier during standby periods",
+                    "D": "To keep the carrier on frequency"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7B02",
+            "question_group": 7,
+            "question": "Which of these classes of amplifiers has the highest efficiency?",
+            "answers": [
+                {
+                    "A": "Class A",
+                    "B": "Class B",
+                    "C": "Class AB",
+                    "D": "Class C"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7B03",
+            "question_group": 7,
+            "question": "Which of the following describes the function of a two-input AND gate?",
+            "answers": [
+                {
+                    "A": "Output is high when either or both inputs are low",
+                    "B": "Output is high only when both inputs are high",
+                    "C": "Output is low when either or both inputs are high",
+                    "D": "Output is low only when both inputs are high"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7B04",
+            "question_group": 7,
+            "question": "Which of the following describes the function of a two input NOR gate?",
+            "answers": [
+                {
+                    "A": "Output is high when either or both inputs are low",
+                    "B": "Output is high only when both inputs are high",
+                    "C": "Output is low when either or both inputs are high",
+                    "D": "Output is low only when both inputs are high"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7B05",
+            "question_group": 7,
+            "question": "How many states does a 3-bit binary counter have?",
+            "answers": [
+                {
+                    "A": "3",
+                    "B": "6",
+                    "C": "8",
+                    "D": "16"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7B06",
+            "question_group": 7,
+            "question": "What is a shift register?",
+            "answers": [
+                {
+                    "A": "A clocked array of circuits that passes data in steps along the array",
+                    "B": "An array of operational amplifiers used for tri-state arithmetic operations",
+                    "C": "A digital mixer",
+                    "D": "An analog mixer"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7B07",
+            "question_group": 7,
+            "question": "Which of the following are basic components of a sine wave oscillator?",
+            "answers": [
+                {
+                    "A": "An amplifier and a divider",
+                    "B": "A frequency multiplier and a mixer",
+                    "C": "A circulator and a filter operating in a feed-forward loop",
+                    "D": "A filter and an amplifier operating in a feedback loop"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7B08",
+            "question_group": 7,
+            "question": "How is the efficiency of an RF power amplifier determined?",
+            "answers": [
+                {
+                    "A": "Divide the DC input power by the DC output power",
+                    "B": "Divide the RF output power by the DC input power",
+                    "C": "Multiply the RF input power by the reciprocal of the RF output power",
+                    "D": "Add the RF input power to the DC output power"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7B09",
+            "question_group": 7,
+            "question": "What determines the frequency of an LC oscillator?",
+            "answers": [
+                {
+                    "A": "The number of stages in the counter",
+                    "B": "The number of stages in the divider",
+                    "C": "The inductance and capacitance in the tank circuit",
+                    "D": "The time delay of the lag circuit"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7B10",
+            "question_group": 7,
+            "question": "Which of the following describes a linear amplifier?",
+            "answers": [
+                {
+                    "A": "Any RF power amplifier used in conjunction with an amateur transceiver",
+                    "B": "An amplifier in which the output preserves the input waveform",
+                    "C": "A Class C high efficiency amplifier",
+                    "D": "An amplifier used as a frequency multiplier"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7B11",
+            "question_group": 7,
+            "question": "For which of the following modes is a Class C power stage appropriate for amplifying a modulated signal?",
+            "answers": [
+                {
+                    "A": "SSB",
+                    "B": "FM",
+                    "C": "AM",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
-    "last_index": 242,
+    "last_index": 0,
     "group_questions": [
         {
             "1": 5,
