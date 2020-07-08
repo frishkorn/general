@@ -15,7 +15,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 13,
+            "cr_attempts": 14,
             "in_attempts": 0
         },
         {
@@ -143,7 +143,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 8,
+            "cr_attempts": 9,
             "in_attempts": 0
         },
         {
@@ -367,7 +367,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -719,7 +719,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 11,
+            "cr_attempts": 12,
             "in_attempts": 0
         },
         {
@@ -1471,7 +1471,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 0
         },
         {
@@ -1567,7 +1567,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 6,
+            "cr_attempts": 7,
             "in_attempts": 0
         },
         {
@@ -1647,7 +1647,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 14,
+            "cr_attempts": 15,
             "in_attempts": 0
         },
         {
@@ -1935,7 +1935,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 9,
+            "cr_attempts": 10,
             "in_attempts": 0
         },
         {
@@ -3055,7 +3055,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 1
         },
         {
@@ -3087,7 +3087,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 4,
+            "cr_attempts": 5,
             "in_attempts": 1
         },
         {
@@ -3183,7 +3183,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 7,
+            "cr_attempts": 8,
             "in_attempts": 0
         },
         {
@@ -3615,7 +3615,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 4,
             "in_attempts": 0
         },
         {
@@ -3791,7 +3791,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -4383,7 +4383,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -5023,7 +5023,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 0,
+            "cr_attempts": 1,
             "in_attempts": 0
         },
         {
@@ -5132,6 +5132,102 @@
                     "B": "FM",
                     "C": "AM",
                     "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7C01",
+            "question_group": 7,
+            "question": "Which of the following is used to process signals from the balanced modulator then send them to the mixer in some single sideband phone transmitters?",
+            "answers": [
+                {
+                    "A": "Carrier oscillator",
+                    "B": "Filter",
+                    "C": "IF amplifier",
+                    "D": "RF amplifier"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7C02",
+            "question_group": 7,
+            "question": "Which circuit is used to combine signals from the carrier oscillator and speech amplifier then send the result to the filter in some single sideband phone transmitters?",
+            "answers": [
+                {
+                    "A": "Discriminator",
+                    "B": "Detector",
+                    "C": "IF amplifier",
+                    "D": "Balanced modulator"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 1
+        },
+        {
+            "question_id": "G7C03",
+            "question_group": 7,
+            "question": "What circuit is used to process signals from the RF amplifier and local oscillator then send the result to the IF filter in a superheterodyne receiver?",
+            "answers": [
+                {
+                    "A": "Balanced modulator",
+                    "B": "IF amplifier",
+                    "C": "Mixer",
+                    "D": "Detector"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7C04",
+            "question_group": 7,
+            "question": "What circuit is used to combine signals from the IF amplifier and BFO and send the result to the AF amplifier in some single sideband receivers?",
+            "answers": [
+                {
+                    "A": "RF oscillator",
+                    "B": "IF filter",
+                    "C": "Balanced modulator",
+                    "D": "Product detector"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7C05",
+            "question_group": 7,
+            "question": "Which of the following is an advantage of a direct digital synthesizer (DDS)?",
+            "answers": [
+                {
+                    "A": "Wide tuning range and no need for band switching",
+                    "B": "Relatively high-power output",
+                    "C": "Relatively low power consumption",
+                    "D": "Variable frequency with the stability of a crystal oscillator"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7C06",
+            "question_group": 7,
+            "question": "What should be the impedance of a low-pass filter as compared to the impedance of the transmission line into which it is inserted?",
+            "answers": [
+                {
+                    "A": "Substantially higher",
+                    "B": "About the same",
+                    "C": "Substantially lower",
+                    "D": "Twice the transmission line impedance"
                 }
             ],
             "right_answer": "B",
