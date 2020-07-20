@@ -5329,6 +5329,70 @@
             "right_answer": "C",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G7C13",
+            "question_group": 7,
+            "question": "What term specifies a filter\u2019s maximum ability to reject signals outside its passband?",
+            "answers": [
+                {
+                    "A": "Notch depth",
+                    "B": "Rolloff",
+                    "C": "Insertion loss",
+                    "D": "Ultimate rejection"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7C14",
+            "question_group": 7,
+            "question": "The bandwidth of a band-pass filter is measured between what two frequencies?",
+            "answers": [
+                {
+                    "A": "Upper and lower half-power",
+                    "B": "Cutoff and rolloff",
+                    "C": "Pole and zero",
+                    "D": "Image and harmonic"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7C15",
+            "question_group": 7,
+            "question": "What term specifies a filter\u2019s attenuation inside its passband?",
+            "answers": [
+                {
+                    "A": "Insertion loss",
+                    "B": "Return loss",
+                    "C": "Q",
+                    "D": "Ultimate rejection"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G7C16",
+            "question_group": 7,
+            "question": "Which of the following is a typical application for a Direct Digital Synthesizer?",
+            "answers": [
+                {
+                    "A": "A high-stability variable frequency oscillator in a transceiver",
+                    "B": "A digital voltmeter",
+                    "C": "A digital mode interface between a computer and a transceiver",
+                    "D": "A high-sensitivity radio direction finder"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 0,
