@@ -5665,6 +5665,150 @@
             "right_answer": "D",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G8B06",
+            "question_group": 8,
+            "question": "What is the total bandwidth of an FM phone transmission having 5 kHz deviation and 3 kHz modulating frequency?",
+            "answers": [
+                {
+                    "A": "3 kHz",
+                    "B": "5 kHz",
+                    "C": "8 kHz",
+                    "D": "16 kHz"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8B07",
+            "question_group": 8,
+            "question": "What is the frequency deviation for a 12.21 MHz reactance modulated oscillator in a 5 kHz deviation, 146.52 MHz FM phone transmitter?",
+            "answers": [
+                {
+                    "A": "101.75 Hz",
+                    "B": "416.7 Hz",
+                    "C": "5 kHz",
+                    "D": "60 kHz"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8B08",
+            "question_group": 8,
+            "question": "Why is it important to know the duty cycle of the mode you are using when transmitting?",
+            "answers": [
+                {
+                    "A": "To aid in tuning your transmitter",
+                    "B": "Some modes have high duty cycles that could exceed the transmitter\u2019s average power rating",
+                    "C": "To allow time for the other station to break in during a transmission",
+                    "D": "The attenuator will have to be adjusted accordingly"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8B09",
+            "question_group": 8,
+            "question": "Why is it good to match receiver bandwidth to the bandwidth of the operating mode?",
+            "answers": [
+                {
+                    "A": "It is required by FCC rules",
+                    "B": "It minimizes power consumption in the receiver",
+                    "C": "It improves impedance matching of the antenna",
+                    "D": "It results in the best signal-to-noise ratio"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8B10",
+            "question_group": 8,
+            "question": "What is the relationship between transmitted symbol rate and bandwidth?",
+            "answers": [
+                {
+                    "A": "Symbol rate and bandwidth are not related",
+                    "B": "Higher symbol rates require wider bandwidth",
+                    "C": "Lower symbol rates require wider bandwidth",
+                    "D": "Bandwidth is always half the symbol rate"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8B11",
+            "question_group": 8,
+            "question": "What combination of a mixer\u2019s Local Oscillator (LO) and RF input frequencies is found in the output?",
+            "answers": [
+                {
+                    "A": "The ratio",
+                    "B": "The average",
+                    "C": "The sum and difference",
+                    "D": "The arithmetic product"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8B12",
+            "question_group": 8,
+            "question": "What process combines two signals in a non-linear circuit or connection to produce unwanted spurious outputs?",
+            "answers": [
+                {
+                    "A": "Intermodulation",
+                    "B": "Heterodyning",
+                    "C": "Detection",
+                    "D": "Rolloff"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8C01",
+            "question_group": 8,
+            "question": "On what band do amateurs share channels with the unlicensed Wi-Fi service?",
+            "answers": [
+                {
+                    "A": "432 MHz",
+                    "B": "902 MHz",
+                    "C": "2.4 GHz",
+                    "D": "10.7 GHz"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8C02",
+            "question_group": 8,
+            "question": "Which digital mode is used as a low-power beacon for assessing HF propagation?",
+            "answers": [
+                {
+                    "A": "WSPR",
+                    "B": "Olivia",
+                    "C": "PSK31",
+                    "D": "SSB-SC"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 0,
