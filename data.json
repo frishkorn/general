@@ -5537,6 +5537,134 @@
             "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G8A10",
+            "question_group": 8,
+            "question": "What is meant by the term \u201cflat-topping,\u201d when referring to a single sideband phone transmission?",
+            "answers": [
+                {
+                    "A": "Signal distortion caused by insufficient collector current",
+                    "B": "The transmitter\u2019s automatic level control (ALC) is properly adjusted",
+                    "C": "Signal distortion caused by excessive drive",
+                    "D": "The transmitter\u2019s carrier is properly suppressed"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8A11",
+            "question_group": 8,
+            "question": "What is the modulation envelope of an AM signal?",
+            "answers": [
+                {
+                    "A": "The waveform created by connecting the peak values of the modulated signal",
+                    "B": "The carrier frequency that contains the signal",
+                    "C": "Spurious signals that envelop nearby frequencies",
+                    "D": "The bandwidth of the modulated signal"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8A12",
+            "question_group": 8,
+            "question": "Which of the following narrow-band digital modes can receive signals with very low signal-to-noise ratios?",
+            "answers": [
+                {
+                    "A": "MSK144",
+                    "B": "FT8",
+                    "C": "AMTOR",
+                    "D": "MFSK32"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8B01",
+            "question_group": 8,
+            "question": "Which mixer input is varied or tuned to convert signals of different frequencies to an intermediate frequency (IF)?",
+            "answers": [
+                {
+                    "A": "Image frequency",
+                    "B": "Local oscillator",
+                    "C": "RF input",
+                    "D": "Beat frequency oscillator"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8B02",
+            "question_group": 8,
+            "question": "If a receiver mixes a 13.800 MHz VFO with a 14.255 MHz received signal to produce a 455 kHz intermediate frequency (IF) signal, what type of interference will a 13.345 MHz signal produce in the receiver?",
+            "answers": [
+                {
+                    "A": "Quadrature noise",
+                    "B": "Image response",
+                    "C": "Mixer interference",
+                    "D": "Intermediate interference"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8B03",
+            "question_group": 8,
+            "question": "What is another term for the mixing of two RF signals?",
+            "answers": [
+                {
+                    "A": "Heterodyning",
+                    "B": "Synthesizing",
+                    "C": "Cancellation",
+                    "D": "Phase inverting"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8B04",
+            "question_group": 8,
+            "question": "What is the stage in a VHF FM transmitter that generates a harmonic of a lower frequency signal to reach the desired operating frequency?",
+            "answers": [
+                {
+                    "A": "Mixer",
+                    "B": "Reactance modulator",
+                    "C": "Pre-emphasis network",
+                    "D": "Multiplier"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8B05",
+            "question_group": 8,
+            "question": "What is the approximate bandwidth of a PACTOR-III signal at maximum data rate?",
+            "answers": [
+                {
+                    "A": "31.5 Hz",
+                    "B": "500 Hz",
+                    "C": "1800 Hz",
+                    "D": "2300 Hz"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 0,
