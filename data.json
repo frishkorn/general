@@ -5393,6 +5393,150 @@
             "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G8A01",
+            "question_group": 8,
+            "question": "How is an FSK signal generated?",
+            "answers": [
+                {
+                    "A": "By keying an FM transmitter with a sub-audible tone",
+                    "B": "By changing an oscillator\u2019s frequency directly with a digital control signal",
+                    "C": "By using a transceiver\u2019s computer data interface protocol to change frequencies",
+                    "D": "By reconfiguring the CW keying input to act as a tone generator"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8A02",
+            "question_group": 8,
+            "question": "What is the name of the process that changes the phase angle of an RF signal to convey information?",
+            "answers": [
+                {
+                    "A": "Phase convolution",
+                    "B": "Phase modulation",
+                    "C": "Phase transformation",
+                    "D": "Phase inversion"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8A03",
+            "question_group": 8,
+            "question": "What is the name of the process that changes the instantaneous frequency of an RF wave to convey information?",
+            "answers": [
+                {
+                    "A": "Frequency convolution",
+                    "B": "Frequency transformation",
+                    "C": "Frequency conversion",
+                    "D": "Frequency modulation"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8A04",
+            "question_group": 8,
+            "question": "What emission is produced by a reactance modulator connected to a transmitter RF amplifier stage?",
+            "answers": [
+                {
+                    "A": "Multiplex modulation",
+                    "B": "Phase modulation",
+                    "C": "Amplitude modulation",
+                    "D": "Pulse modulation"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8A05",
+            "question_group": 8,
+            "question": "What type of modulation varies the instantaneous power level of the RF signal?",
+            "answers": [
+                {
+                    "A": "Frequency shift keying",
+                    "B": "Phase modulation",
+                    "C": "Frequency modulation",
+                    "D": "Amplitude modulation"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8A06",
+            "question_group": 8,
+            "question": "Which of the following is characteristic of QPSK31?",
+            "answers": [
+                {
+                    "A": "It is sideband sensitive",
+                    "B": "Its encoding provides error correction",
+                    "C": "Its bandwidth is approximately the same as BPSK31",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8A07",
+            "question_group": 8,
+            "question": "Which of the following phone emissions uses the narrowest bandwidth?",
+            "answers": [
+                {
+                    "A": "Single sideband",
+                    "B": "Double sideband",
+                    "C": "Phase modulation",
+                    "D": "Frequency modulation"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8A08",
+            "question_group": 8,
+            "question": "Which of the following is an effect of overmodulation?",
+            "answers": [
+                {
+                    "A": "Insufficient audio",
+                    "B": "Insufficient bandwidth",
+                    "C": "Frequency drift",
+                    "D": "Excessive bandwidth"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8A09",
+            "question_group": 8,
+            "question": "What type of modulation is used by the FT8 digital mode?",
+            "answers": [
+                {
+                    "A": "8-tone frequency shift keying",
+                    "B": "Vestigial sideband",
+                    "C": "Amplitude compressed AM",
+                    "D": "Direct sequence spread spectrum"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 0,
