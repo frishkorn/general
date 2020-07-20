@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # exam.py
-# C. Frishkorn 06/30/2020
-# version: 0.7.112
+# C. Frishkorn 07/20/2020
+# version: 0.8.119
 # ------------------------
 import json
 from random import randint
@@ -128,6 +128,17 @@ def update_attempt(result, index):
             temp[index - 1]['in_attempts'] = temp[index - 1]['in_attempts'] + 1
     write_json(file_data)
 
+def reset_attempts():
+    with open('data.json') as json_file:
+        file_data = json.load(json_file)
+        temp = file_data['question_pool']
+        length = len(temp)
+        for x in range(length):
+            temp[x]['cr_attempts'] = 0
+            temp[x]['in_attempts'] = 0
+            file_data['last_index'] = 0
+    write_json(file_data)
+
 def practice_quiz(selection):
     total_num = 0
     num_wrong = 0
@@ -198,5 +209,14 @@ if selection == "P":
 
 if selection == "S":
     series_mode(selection)
+
+if selection == "C":
+    print(bcolors.WARNING + "\nAre you sure? This will reset all correct / incorrect attempts!!!" + bcolors.ENDC) 
+    selection = input("\n(Y/N?): ").upper()
+    if selection == "Y":
+        reset_attempts()
+    else:
+        pass
+
 else:
     pass
