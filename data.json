@@ -5809,6 +5809,102 @@
             "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G8C03",
+            "question_group": 8,
+            "question": "What part of a packet radio frame contains the routing and handling information?",
+            "answers": [
+                {
+                    "A": "Directory",
+                    "B": "Preamble",
+                    "C": "Header",
+                    "D": "Footer"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8C04",
+            "question_group": 8,
+            "question": "Which of the following describes Baudot code?",
+            "answers": [
+                {
+                    "A": "A 7-bit code with start, stop, and parity bits",
+                    "B": "A code using error detection and correction",
+                    "C": "A 5-bit code with additional start and stop bits",
+                    "D": "A code using SELCAL and LISTEN"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8C05",
+            "question_group": 8,
+            "question": "In the PACTOR protocol, what is meant by a NAK response to a transmitted packet?",
+            "answers": [
+                {
+                    "A": "The receiver is requesting the packet be retransmitted",
+                    "B": "The receiver is reporting the packet was received without error",
+                    "C": "The receiver is busy decoding the packet",
+                    "D": "The entire file has been received correctly"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8C06",
+            "question_group": 8,
+            "question": "What action results from a failure to exchange information due to excessive transmission attempts when using PACTOR or WINMOR?",
+            "answers": [
+                {
+                    "A": "The checksum overflows",
+                    "B": "The connection is dropped",
+                    "C": "Packets will be routed incorrectly",
+                    "D": "Encoding reverts to the default character set"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8C07",
+            "question_group": 8,
+            "question": "How does the receiving station respond to an ARQ data mode packet containing errors?",
+            "answers": [
+                {
+                    "A": "It terminates the contact",
+                    "B": "It requests the packet be retransmitted",
+                    "C": "It sends the packet back to the transmitting station",
+                    "D": "It requests a change in transmitting protocol"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8C08",
+            "question_group": 8,
+            "question": "Which of the following statements is true about PSK31?",
+            "answers": [
+                {
+                    "A": "Upper case letters are sent with more power",
+                    "B": "Upper case letters use longer Varicode bit sequences and thus slow down transmission",
+                    "C": "Error correction is used to ensure accurate message reception",
+                    "D": "Higher power is needed as compared to RTTY for similar error rates"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 0,
