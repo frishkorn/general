@@ -5905,6 +5905,182 @@
             "right_answer": "B",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G8C09",
+            "question_group": 8,
+            "question": "What does the number 31 represent in \u201cPSK31\u201d?",
+            "answers": [
+                {
+                    "A": "The approximate transmitted symbol rate",
+                    "B": "The version of the PSK protocol",
+                    "C": "The year in which PSK31 was invented",
+                    "D": "The number of characters that can be represented by PSK31"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8C10",
+            "question_group": 8,
+            "question": "How does forward error correction (FEC) allow the receiver to correct errors in received data packets?",
+            "answers": [
+                {
+                    "A": "By controlling transmitter output power for optimum signal strength",
+                    "B": "By using the Varicode character set",
+                    "C": "By transmitting redundant information with the data",
+                    "D": "By using a parity bit with each character"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8C11",
+            "question_group": 8,
+            "question": "How are the two separate frequencies of a Frequency Shift Keyed (FSK) signal identified?",
+            "answers": [
+                {
+                    "A": "Dot and dash",
+                    "B": "On and off",
+                    "C": "High and low",
+                    "D": "Mark and space"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8C12",
+            "question_group": 8,
+            "question": "Which type of code is used for sending characters in a PSK31 signal?",
+            "answers": [
+                {
+                    "A": "Varicode",
+                    "B": "Viterbi",
+                    "C": "Volumetric",
+                    "D": "Binary"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8C13",
+            "question_group": 8,
+            "question": "What is indicated on a waterfall display by one or more vertical lines on either side of a digital signal?",
+            "answers": [
+                {
+                    "A": "Long path propagation",
+                    "B": "Backscatter propagation",
+                    "C": "Insufficient modulation",
+                    "D": "Overmodulation"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G8C14",
+            "question_group": 8,
+            "question": "Which of the following describes a waterfall display?",
+            "answers": [
+                {
+                    "A": "Frequency is horizontal, signal strength is vertical, time is intensity",
+                    "B": "Frequency is vertical, signal strength is intensity, time is horizontal",
+                    "C": "Frequency is horizontal, signal strength is intensity, time is vertical",
+                    "D": "Frequency is vertical, signal strength is horizontal, time is intensity"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9A01",
+            "question_group": 9,
+            "question": "Which of the following factors determine the characteristic impedance of a parallel conductor antenna feed line?",
+            "answers": [
+                {
+                    "A": "The distance between the centers of the conductors and the radius of the conductors",
+                    "B": "The distance between the centers of the conductors and the length of the line",
+                    "C": "The radius of the conductors and the frequency of the signal",
+                    "D": "The frequency of the signal and the length of the line"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9A02",
+            "question_group": 9,
+            "question": "What are the typical characteristic impedances of coaxial cables used for antenna feed lines at amateur stations?",
+            "answers": [
+                {
+                    "A": "25 and 30 ohms",
+                    "B": "50 and 75 ohms",
+                    "C": "80 and 100 ohms",
+                    "D": "500 and 750 ohms"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9A03",
+            "question_group": 9,
+            "question": "What is the typical characteristic impedance of \u201cwindow line\u201d parallel transmission line?",
+            "answers": [
+                {
+                    "A": "50 ohms",
+                    "B": "75 ohms",
+                    "C": "100 ohms",
+                    "D": "450 ohms"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9A04",
+            "question_group": 9,
+            "question": "What might cause reflected power at the point where a feed line connects to an antenna?",
+            "answers": [
+                {
+                    "A": "Operating an antenna at its resonant frequency",
+                    "B": "Using more transmitter power than the antenna can handle",
+                    "C": "A difference between feed-line impedance and antenna feed-point impedance",
+                    "D": "Feeding the antenna with unbalanced feed line"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9A05",
+            "question_group": 9,
+            "question": "How does the attenuation of coaxial cable change as the frequency of the signal it is carrying increases?",
+            "answers": [
+                {
+                    "A": "Attenuation is independent of frequency",
+                    "B": "Attenuation increases",
+                    "C": "Attenuation decreases",
+                    "D": "Attenuation reaches a maximum at approximately 18 MHz"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 0,
