@@ -74,14 +74,17 @@ def series_mode(selection):
 
 # 35 Question exam with only a selected number of questions per group.
 def exam_mode(selection):
-    index = len(pool['group_questions'])
-    for x in range(index):
-        print("%d, %s" % (x, pool['group_questions'][str(x)]))
-    # number = 1
-    # while number < 36:
-    #    print(pool['group_questions']['1'])
-    #    print("Question %d: " % number)
-    #    number += 1
+    size = len(pool['group_questions'])
+    for x in range(size):
+        remaining = pool['group_questions'][str(x)]
+        while remaining != 0:
+            # Get a question and skip if doesn't match desired question group.
+            index = get_random(pool_len)
+            if pool['question_pool'][index - 1]['question_group'] == x:
+                print(pool['question_pool'][index - 1]['question_id'])
+                remaining -= 1
+            else:
+                continue
 
 def add_question(selection):
     while selection != "N":
