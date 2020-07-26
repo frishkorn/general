@@ -6081,6 +6081,230 @@
             "right_answer": "B",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G9A06",
+            "question_group": 9,
+            "question": "In what units is RF feed line loss usually expressed?",
+            "answers": [
+                {
+                    "A": "Ohms per 1000 feet",
+                    "B": "Decibels per 1000 feet",
+                    "C": "Ohms per 100 feet",
+                    "D": "Decibels per 100 feet"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9A07",
+            "question_group": 9,
+            "question": "What must be done to prevent standing waves on an antenna feed line?",
+            "answers": [
+                {
+                    "A": "The antenna feed point must be at DC ground potential",
+                    "B": "The feed line must be cut to a length equal to an odd number of electrical quarter wavelengths",
+                    "C": "The feed line must be cut to a length equal to an even number of physical half wavelengths",
+                    "D": "The antenna feed point impedance must be matched to the characteristic impedance of the feed line"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9A08",
+            "question_group": 9,
+            "question": "If the SWR on an antenna feed line is 5 to 1, and a matching network at the transmitter end of the feed line is adjusted to 1 to 1 SWR, what is the resulting SWR on the feed line?",
+            "answers": [
+                {
+                    "A": "1 to 1",
+                    "B": "5 to 1",
+                    "C": "Between 1 to 1 and 5 to 1 depending on the characteristic impedance of the line",
+                    "D": "Between 1 to 1 and 5 to 1 depending on the reflected power at the transmitter"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9A09",
+            "question_group": 9,
+            "question": "What standing wave ratio will result when connecting a 50 ohm feed line to a non-reactive load having 200 ohm impedance?",
+            "answers": [
+                {
+                    "A": "4:1",
+                    "B": "1:4",
+                    "C": "2:1",
+                    "D": "1:2"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9A10",
+            "question_group": 9,
+            "question": "What standing wave ratio will result when connecting a 50 ohm feed line to a non-reactive load having 10 ohm impedance?",
+            "answers": [
+                {
+                    "A": "2:1",
+                    "B": "50:1",
+                    "C": "1:5",
+                    "D": "5:1"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9A11",
+            "question_group": 9,
+            "question": "What standing wave ratio will result when connecting a 50 ohm feed line to a non-reactive load having 50 ohm impedance?",
+            "answers": [
+                {
+                    "A": "2:1",
+                    "B": "1:1",
+                    "C": "50:50",
+                    "D": "0:0"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9A12",
+            "question_group": 9,
+            "question": "What is the interaction between high standing wave ratio (SWR) and transmission line loss?",
+            "answers": [
+                {
+                    "A": "There is no interaction between transmission line loss and SWR",
+                    "B": "If a transmission line is lossy, high SWR will increase the loss",
+                    "C": "High SWR makes it difficult to measure transmission line loss",
+                    "D": "High SWR reduces the relative effect of transmission line loss"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9A13",
+            "question_group": 9,
+            "question": "What is the effect of transmission line loss on SWR measured at the input to the line?",
+            "answers": [
+                {
+                    "A": "The higher the transmission line loss, the more the SWR will read artificially low",
+                    "B": "The higher the transmission line loss, the more the SWR will read artificially high",
+                    "C": "The higher the transmission line loss, the more accurate the SWR measurement will be",
+                    "D": "Transmission line loss does not affect the SWR measurement"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9B01",
+            "question_group": 9,
+            "question": "What is one disadvantage of a directly fed random-wire HF antenna?",
+            "answers": [
+                {
+                    "A": "It must be longer than 1 wavelength",
+                    "B": "You may experience RF burns when touching metal objects in your station",
+                    "C": "It produces only vertically polarized radiation",
+                    "D": "It is more effective on the lower HF bands than on the higher bands"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9B02",
+            "question_group": 9,
+            "question": "Which of the following is a common way to adjust the feed-point impedance of a quarter wave ground-plane vertical antenna to be approximately 50 ohms?",
+            "answers": [
+                {
+                    "A": "Slope the radials upward",
+                    "B": "Slope the radials downward",
+                    "C": "Lengthen the radials",
+                    "D": "Shorten the radials"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9B03",
+            "question_group": 9,
+            "question": "Which of the following best describes the radiation pattern of a quarter-wave, ground-plane vertical antenna?",
+            "answers": [
+                {
+                    "A": "Bi-directional in azimuth",
+                    "B": "Isotropic",
+                    "C": "Hemispherical",
+                    "D": "Omnidirectional in azimuth"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9B04",
+            "question_group": 9,
+            "question": "What is the radiation pattern of a dipole antenna in free space in a plane containing the conductor?",
+            "answers": [
+                {
+                    "A": "It is a figure-eight at right angles to the antenna",
+                    "B": "It is a figure-eight off both ends of the antenna",
+                    "C": "It is a circle (equal radiation in all directions)",
+                    "D": "It has a pair of lobes on one side of the antenna and a single lobe on the other side"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9B05",
+            "question_group": 9,
+            "question": "How does antenna height affect the horizontal (azimuthal) radiation pattern of a horizontal dipole HF antenna?",
+            "answers": [
+                {
+                    "A": "If the antenna is too high, the pattern becomes unpredictable",
+                    "B": "Antenna height has no effect on the pattern",
+                    "C": "If the antenna is less than 1/2 wavelength high, the azimuthal pattern is almost omnidirectional",
+                    "D": "If the antenna is less than 1/2 wavelength high, radiation off the ends of the wire is eliminated"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9B06",
+            "question_group": 9,
+            "question": "Where should the radial wires of a ground-mounted vertical antenna system be placed?",
+            "answers": [
+                {
+                    "A": "As high as possible above the ground",
+                    "B": "Parallel to the antenna element",
+                    "C": "On the surface of the Earth or buried a few inches below the ground",
+                    "D": "At the center of the antenna"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 0,
