@@ -87,6 +87,14 @@ def exam_mode(selection):
                 for y in range(4):
                     letter = answer_letter[y]
                     print(letter + ": " + pool['question_pool'][index - 1]['answers'][0][letter])
+                entry = input("\nWhat is the correct answer? ").upper()
+                if entry == answer:
+                    print(bcolors.BOLD + "Correct!" + bcolors.ENDC)
+                    result = "C"
+                else:
+                    print(bcolors.WARNING + "\nSorry the correct answer was %s." % (answer) + bcolors.ENDC)
+                    result = "I"
+                update_attempt(result, index)
                 remaining -= 1
             else:
                 continue
