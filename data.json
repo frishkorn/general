@@ -6529,6 +6529,134 @@
             "right_answer": "D",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G9C09",
+            "question_group": 9,
+            "question": "How does the gain of two three-element, horizontally polarized Yagi antennas spaced vertically 1/2 wavelength apart typically compare to the gain of a single three-element Yagi?",
+            "answers": [
+                {
+                    "A": "Approximately 1.5 dB higher",
+                    "B": "Approximately 3 dB higher",
+                    "C": "Approximately 6 dB higher",
+                    "D": "Approximately 9 dB higher"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9C10",
+            "question_group": 9,
+            "question": "Which of the following can be adjusted to optimize forward gain, front-to-back ratio, or SWR bandwidth of a Yagi antenna?",
+            "answers": [
+                {
+                    "A": "The physical length of the boom",
+                    "B": "The number of elements on the boom",
+                    "C": "The spacing of each element along the boom",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9C11",
+            "question_group": 9,
+            "question": "Which HF antenna would be the best to use for minimizing interference?",
+            "answers": [
+                {
+                    "A": "A quarter-wave vertical antenna",
+                    "B": "An isotropic antenna",
+                    "C": "A directional antenna",
+                    "D": "An omnidirectional antenna"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9C12",
+            "question_group": 9,
+            "question": "Which of the following is an advantage of using a gamma match with a Yagi antenna?",
+            "answers": [
+                {
+                    "A": "It does not require that the driven element be insulated from the boom",
+                    "B": "It does not require any inductors or capacitors",
+                    "C": "It is useful for matching multiband antennas",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9C13",
+            "question_group": 9,
+            "question": "Approximately how long is each side of the driven element of a quad antenna?",
+            "answers": [
+                {
+                    "A": "1/4 wavelength",
+                    "B": "1/2 wavelength",
+                    "C": "3/4 wavelength",
+                    "D": "1 wavelength"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9C14",
+            "question_group": 9,
+            "question": "How does the forward gain of a two-element quad antenna compare to the forward gain of a three-element Yagi antenna?",
+            "answers": [
+                {
+                    "A": "About the same",
+                    "B": "About 2/3 as much",
+                    "C": "About 1.5 times as much",
+                    "D": "About twice as much"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9C15",
+            "question_group": 9,
+            "question": "What is meant by the terms dBi and dBd when referring to antenna gain?",
+            "answers": [
+                {
+                    "A": "dBi refers to an isotropic antenna, dBd refers to a dipole antenna",
+                    "B": "dBi refers to an ionospheric reflecting antenna, dBd refers to a dissipative antenna",
+                    "C": "dBi refers to an inverted-vee antenna, dBd refers to a downward reflecting antenna",
+                    "D": "dBi refers to an isometric antenna, dBd refers to a discone antenna"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9C16",
+            "question_group": 9,
+            "question": "What is a beta or hairpin match?",
+            "answers": [
+                {
+                    "A": "It is a shorted transmission line stub placed at the feed point of a Yagi antenna to provide impedance matching",
+                    "B": "It is a 1\u20444 wavelength section of 75 ohm coax in series with the feed point of a Yagi to provide impedance matching",
+                    "C": "It is a series capacitor selected to cancel the inductive reactance of a folded dipole antenna",
+                    "D": "It is a section of 300 ohm twinlead used to match a folded dipole antenna"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 0,
