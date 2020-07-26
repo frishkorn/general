@@ -6417,6 +6417,118 @@
             "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G9C02",
+            "question_group": 9,
+            "question": "What is the approximate length of the driven element of a Yagi antenna?",
+            "answers": [
+                {
+                    "A": "1/4 wavelength",
+                    "B": "1/2 wavelength",
+                    "C": "3/4 wavelength",
+                    "D": "1 wavelength"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9C03",
+            "question_group": 9,
+            "question": "How do the lengths of a three-element Yagi reflector and director compare to that of the driven element?",
+            "answers": [
+                {
+                    "A": "The reflector is longer, and the director is shorter",
+                    "B": "The reflector is shorter, and the director is longer",
+                    "C": "They are all the same length",
+                    "D": "Relative length depends on the frequency of operation"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9C04",
+            "question_group": 9,
+            "question": "How does antenna gain stated in dBi compare to gain stated in dBd for the same antenna?",
+            "answers": [
+                {
+                    "A": "dBi gain figures are 2.15 dB lower than dBd gain figures",
+                    "B": "dBi gain figures are 2.15 dB higher than dBd gain figures",
+                    "C": "dBi gain figures are the same as the square root of dBd gain figures multiplied by 2.15",
+                    "D": "dBi gain figures are the reciprocal of dBd gain figures + 2.15 dB"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9C05",
+            "question_group": 9,
+            "question": "How does increasing boom length and adding directors affect a Yagi antenna?",
+            "answers": [
+                {
+                    "A": "Gain increases",
+                    "B": "Beamwidth increases",
+                    "C": "Front-to-back ratio decreases",
+                    "D": "Front-to-side ratio decreases"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9C06",
+            "question_group": 9,
+            "question": "What configuration of the loops of a two-element quad antenna must be used for the antenna to operate as a beam antenna, assuming one of the elements is used as a reflector?",
+            "answers": [
+                {
+                    "A": "The driven element must be fed with a balun transformer",
+                    "B": "There must be an open circuit in the driven element at the point opposite the feed point",
+                    "C": "The reflector element must be approximately 5 percent shorter than the driven element",
+                    "D": "The reflector element must be approximately 5 percent longer than the driven element"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9C07",
+            "question_group": 9,
+            "question": "What does \u201cfront-to-back ratio\u201d mean in reference to a Yagi antenna?",
+            "answers": [
+                {
+                    "A": "The number of directors versus the number of reflectors",
+                    "B": "The relative position of the driven element with respect to the reflectors and directors",
+                    "C": "The power radiated in the major radiation lobe compared to that in the opposite direction",
+                    "D": "The ratio of forward gain to dipole gain"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9C08",
+            "question_group": 9,
+            "question": "What is meant by the \u201cmain lobe\u201d of a directive antenna?",
+            "answers": [
+                {
+                    "A": "The magnitude of the maximum vertical angle of radiation",
+                    "B": "The point of maximum current in a radiating antenna element",
+                    "C": "The maximum voltage standing wave point on a radiating element",
+                    "D": "The direction of maximum radiated field strength from the antenna"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 0,
