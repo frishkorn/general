@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # exam.py
-# C. Frishkorn 07/20/2020
-# version: 0.8.119
+# C. Frishkorn 07/26/2020
+# version: 1.0.133
 # ------------------------
 import json
 from random import randint
@@ -71,6 +71,49 @@ def series_mode(selection):
         file_data = json.load(json_file)
         file_data['last_index'] = index
     write_json(file_data)
+
+# 35 Question exam with only a selected number of questions per group.
+# TO:DO - Add a time limit of 45 minutes for FCC test. Make configurable?
+def exam_mode(selection):
+    size = len(pool['group_questions'])
+    total_num = 0
+    num_wrong = 0
+    for x in range(size):
+        remaining = pool['group_questions'][str(x)]
+        while remaining != 0:
+            # Get a question and skip if doesn't match desired question group.
+            index = get_random(pool_len)
+            if pool['question_pool'][index - 1]['question_group'] == x:
+                print("\n" + pool['question_pool'][index - 1]['question_id'] + " [" + str(pool['question_pool'][index - 1]['cr_attempts']) + "|" + str(pool['question_pool'][index - 1]['in_attempts']) + "]")
+                print(pool['question_pool'][index - 1]['question'])
+                answer = pool['question_pool'][index - 1]['right_answer']
+                for y in range(4):
+                    letter = answer_letter[y]
+                    print(letter + ": " + pool['question_pool'][index - 1]['answers'][0][letter])
+                entry = input("\nWhat is the correct answer? ").upper()
+                if entry == answer:
+                    print(bcolors.BOLD + "Correct!" + bcolors.ENDC)
+                    result = "C"
+                else:
+                    print(bcolors.WARNING + "\nSorry the correct answer was %s." % (answer) + bcolors.ENDC)
+                    result = "I"
+                    num_wrong += 1
+                update_attempt(result, index)
+                remaining -= 1
+                total_num += 1
+            else:
+                continue
+    score = (((total_num - num_wrong) / total_num) * 100)
+    final = "\nYour score was "
+    if num_wrong != 0:
+        if score <= 73:
+            print(final + bcolors.FAIL + "{:.1f}".format(score) + "%" + bcolors.ENDC + "!")
+        elif score <= 90:
+            print(final + bcolors.WARNING + "{:.1f}".format(score) + "%" + bcolors.ENDC + "!")
+        else:
+            print(final + bcolors.BOLD + "{:.1f}".format(score) + "%" + bcolors.ENDC + "!")
+    else:
+        print(final + bcolors.BOLD + "100%" + bcolors.ENDC + "!")
 
 def add_question(selection):
     while selection != "N":
@@ -189,7 +232,7 @@ pool = load_pool()
 print(pool['exam_title'])
 print(pool['exam_description'])
 print("Question ID's Show [Correct|Incorrect] Attempts\n")
-selection = input("(A)dd Question, (R)eview, (P)ractice, (S)eries Mode, or E(X)it?: ").upper()
+selection = input("(A)dd Question, (R)eview, (P)ractice, (E)xam Mode, (S)eries Mode, or E(X)it?: ").upper()
 if selection == "A":
     selection = add_question(selection)
     pool = load_pool()
@@ -209,6 +252,9 @@ if selection == "P":
 
 if selection == "S":
     series_mode(selection)
+
+if selection == "E":
+    exam_mode(selection)
 
 if selection == "C":
     print(bcolors.WARNING + "\nAre you sure? This will reset all correct / incorrect attempts!!!" + bcolors.ENDC) 
