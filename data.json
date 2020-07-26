@@ -6657,6 +6657,150 @@
             "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G9D01",
+            "question_group": 9,
+            "question": "Which of the following antenna types will be most effective as a Near Vertical Incidence Skywave (NVIS) antenna for short-skip communications on 40 meters during the day?",
+            "answers": [
+                {
+                    "A": "A horizontal dipole placed between 1/10 and 1/4 wavelength above the ground",
+                    "B": "A vertical antenna placed between 1/4 and 1/2 wavelength above the ground",
+                    "C": "A left-hand circularly polarized antenna",
+                    "D": "A right-hand circularly polarized antenna"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9D02",
+            "question_group": 9,
+            "question": "What is the feed-point impedance of an end-fed half-wave antenna?",
+            "answers": [
+                {
+                    "A": "Very low",
+                    "B": "Approximately 50 ohms",
+                    "C": "Approximately 300 ohms",
+                    "D": "Very high"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9D03",
+            "question_group": 9,
+            "question": "In which direction is the maximum radiation from a portable VHF/UHF \u201chalo\u201d antenna?",
+            "answers": [
+                {
+                    "A": "Broadside to the plane of the halo",
+                    "B": "Opposite the feed point",
+                    "C": "Omnidirectional in the plane of the halo",
+                    "D": "Toward the halo\u2019s supporting mast"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9D04",
+            "question_group": 9,
+            "question": "What is the primary purpose of antenna traps?",
+            "answers": [
+                {
+                    "A": "To permit multiband operation",
+                    "B": "To notch spurious frequencies",
+                    "C": "To provide balanced feed-point impedance",
+                    "D": "To prevent out-of-band operation"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9D05",
+            "question_group": 9,
+            "question": "What is an advantage of vertical stacking of horizontally polarized Yagi antennas?",
+            "answers": [
+                {
+                    "A": "It allows quick selection of vertical or horizontal polarization",
+                    "B": "It allows simultaneous vertical and horizontal polarization",
+                    "C": "It narrows the main lobe in azimuth",
+                    "D": "It narrows the main lobe in elevation"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9D06",
+            "question_group": 9,
+            "question": "Which of the following is an advantage of a log periodic antenna?",
+            "answers": [
+                {
+                    "A": "Wide bandwidth",
+                    "B": "Higher gain per element than a Yagi antenna",
+                    "C": "Harmonic suppression",
+                    "D": "Polarization diversity"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9D07",
+            "question_group": 9,
+            "question": "Which of the following describes a log periodic antenna?",
+            "answers": [
+                {
+                    "A": "Element length and spacing vary logarithmically along the boom",
+                    "B": "Impedance varies periodically as a function of frequency",
+                    "C": "Gain varies logarithmically as a function of frequency",
+                    "D": "SWR varies periodically as a function of boom length"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9D08",
+            "question_group": 9,
+            "question": "How does a \u201cscrewdriver\u201d mobile antenna adjust its feed-point impedance?",
+            "answers": [
+                {
+                    "A": "By varying its body capacitance",
+                    "B": "By varying the base loading inductance",
+                    "C": "By extending and retracting the whip",
+                    "D": "By deploying a capacitance hat"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9D09",
+            "question_group": 9,
+            "question": "What is the primary use of a Beverage antenna?",
+            "answers": [
+                {
+                    "A": "Directional receiving for low HF bands",
+                    "B": "Directional transmitting for low HF bands",
+                    "C": "Portable direction finding at higher HF frequencies",
+                    "D": "Portable direction finding at lower HF frequencies"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 0,
