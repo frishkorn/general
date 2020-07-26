@@ -73,8 +73,11 @@ def series_mode(selection):
     write_json(file_data)
 
 # 35 Question exam with only a selected number of questions per group.
+# TO:DO - Add a time limit of 45 minutes for FCC test. Make configurable?
 def exam_mode(selection):
     size = len(pool['group_questions'])
+    total_num = 0
+    num_wrong = 0
     for x in range(size):
         remaining = pool['group_questions'][str(x)]
         while remaining != 0:
@@ -94,10 +97,14 @@ def exam_mode(selection):
                 else:
                     print(bcolors.WARNING + "\nSorry the correct answer was %s." % (answer) + bcolors.ENDC)
                     result = "I"
+                    num_wrong += 1
                 update_attempt(result, index)
                 remaining -= 1
+                total_num += 1
             else:
                 continue
+    score = (((total_num - num_wrong) / total_num) * 100)
+    print(score)
 
 def add_question(selection):
     while selection != "N":
