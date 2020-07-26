@@ -2,7 +2,7 @@
 
 # exam.py
 # C. Frishkorn 07/26/2020
-# version: 1.0.119
+# version: 1.0.133
 # ------------------------
 import json
 from random import randint
@@ -104,7 +104,16 @@ def exam_mode(selection):
             else:
                 continue
     score = (((total_num - num_wrong) / total_num) * 100)
-    print(score)
+    final = "\nYour score was "
+    if num_wrong != 0:
+        if score <= 73:
+            print(final + bcolors.FAIL + "{:.1f}".format(score) + "%" + bcolors.ENDC + "!")
+        elif score <= 90:
+            print(final + bcolors.WARNING + "{:.1f}".format(score) + "%" + bcolors.ENDC + "!")
+        else:
+            print(final + bcolors.BOLD + "{:.1f}".format(score) + "%" + bcolors.ENDC + "!")
+    else:
+        print(final + bcolors.BOLD + "100%" + bcolors.ENDC + "!")
 
 def add_question(selection):
     while selection != "N":
