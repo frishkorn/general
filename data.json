@@ -6881,6 +6881,390 @@
             "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G0A02",
+            "question_group": 0,
+            "question": "Which of the following properties is important in estimating whether an RF signal exceeds the maximum permissible exposure (MPE)?",
+            "answers": [
+                {
+                    "A": "Its duty cycle",
+                    "B": "Its frequency",
+                    "C": "Its power density",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0A03",
+            "question_group": 0,
+            "question": "How can you determine that your station complies with FCC RF exposure regulations?",
+            "answers": [
+                {
+                    "A": "By calculation based on FCC OET Bulletin 65",
+                    "B": "By calculation based on computer modeling",
+                    "C": "By measurement of field strength using calibrated equipment",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0A04",
+            "question_group": 0,
+            "question": "What does \u201ctime averaging\u201d mean in reference to RF radiation exposure?",
+            "answers": [
+                {
+                    "A": "The average amount of power developed by the transmitter over a specific 24-hour period",
+                    "B": "The average time it takes RF radiation to have any long-term effect on the body",
+                    "C": "The total time of the exposure",
+                    "D": "The total RF exposure averaged over a certain time"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0A05",
+            "question_group": 0,
+            "question": "What must you do if an evaluation of your station shows RF energy radiated from your station exceeds permissible limits?",
+            "answers": [
+                {
+                    "A": "Take action to prevent human exposure to the excessive RF fields",
+                    "B": "File an Environmental Impact Statement (EIS-97) with the FCC",
+                    "C": "Secure written permission from your neighbors to operate above the controlled MPE limits",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0A06",
+            "question_group": 0,
+            "question": "What precaution should be taken when installing a ground-mounted antenna?",
+            "answers": [
+                {
+                    "A": "It should not be installed higher than you can reach",
+                    "B": "It should not be installed in a wet area",
+                    "C": "It should be limited to 10 feet in height",
+                    "D": "It should be installed such that it is protected against unauthorized access"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0A07",
+            "question_group": 0,
+            "question": "What effect does transmitter duty cycle have when evaluating RF exposure?",
+            "answers": [
+                {
+                    "A": "A lower transmitter duty cycle permits greater short-term exposure levels",
+                    "B": "A higher transmitter duty cycle permits greater short-term exposure levels",
+                    "C": "Low duty cycle transmitters are exempt from RF exposure evaluation requirements",
+                    "D": "High duty cycle transmitters are exempt from RF exposure requirements"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0A08",
+            "question_group": 0,
+            "question": "Which of the following steps must an amateur operator take to ensure compliance with RF safety regulations when transmitter power exceeds levels specified in FCC Part 97.13?",
+            "answers": [
+                {
+                    "A": "Post a copy of FCC Part 97.13 in the station",
+                    "B": "Post a copy of OET Bulletin 65 in the station",
+                    "C": "Perform a routine RF exposure evaluation",
+                    "D": "Contact the FCC for a visit to conduct a station evaluation"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0A09",
+            "question_group": 0,
+            "question": "What type of instrument can be used to accurately measure an RF field?",
+            "answers": [
+                {
+                    "A": "A receiver with an S meter",
+                    "B": "A calibrated field strength meter with a calibrated antenna",
+                    "C": "An SWR meter with a peak-reading function",
+                    "D": "An oscilloscope with a high-stability crystal marker generator"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0A10",
+            "question_group": 0,
+            "question": "What is one thing that can be done if evaluation shows that a neighbor might receive more than the allowable limit of RF exposure from the main lobe of a directional antenna?",
+            "answers": [
+                {
+                    "A": "Change to a non-polarized antenna with higher gain",
+                    "B": "Post a warning sign that is clearly visible to the neighbor",
+                    "C": "Use an antenna with a higher front-to-back ratio",
+                    "D": "Take precautions to ensure that the antenna cannot be pointed in their direction"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0A11",
+            "question_group": 0,
+            "question": "What precaution should you take if you install an indoor transmitting antenna?",
+            "answers": [
+                {
+                    "A": "Locate the antenna close to your operating position to minimize feed-line radiation",
+                    "B": "Position the antenna along the edge of a wall to reduce parasitic radiation",
+                    "C": "Make sure that MPE limits are not exceeded in occupied areas",
+                    "D": "Make sure the antenna is properly shielded"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0B01",
+            "question_group": 0,
+            "question": "Which wire or wires in a four-conductor connection should be attached to fuses or circuit breakers in a device operated from a 240 VAC single phase source?",
+            "answers": [
+                {
+                    "A": "Only the two wires carrying voltage",
+                    "B": "Only the neutral wire",
+                    "C": "Only the ground wire",
+                    "D": "All wires"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0B02",
+            "question_group": 0,
+            "question": "According to the National Electrical Code, what is the minimum wire size that may be used safely for wiring with a 20 ampere circuit breaker?",
+            "answers": [
+                {
+                    "A": "AWG number 20",
+                    "B": "AWG number 16",
+                    "C": "AWG number 12",
+                    "D": "AWG number 8"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0B03",
+            "question_group": 0,
+            "question": "Which size of fuse or circuit breaker would be appropriate to use with a circuit that uses AWG number 14 wiring?",
+            "answers": [
+                {
+                    "A": "100 amperes",
+                    "B": "60 amperes",
+                    "C": "30 amperes",
+                    "D": "15 amperes"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0B04",
+            "question_group": 0,
+            "question": "Which of the following is a primary reason for not placing a gasoline-fueled generator inside an occupied area?",
+            "answers": [
+                {
+                    "A": "Danger of carbon monoxide poisoning",
+                    "B": "Danger of engine over torque",
+                    "C": "Lack of oxygen for adequate combustion",
+                    "D": "Lack of nitrogen for adequate combustion"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0B05",
+            "question_group": 0,
+            "question": "Which of the following conditions will cause a Ground Fault Circuit Interrupter (GFCI) to disconnect the 120 or 240 Volt AC line power to a device?",
+            "answers": [
+                {
+                    "A": "Current flowing from one or more of the voltage-carrying wires to the neutral wire",
+                    "B": "Current flowing from one or more of the voltage-carrying wires directly to ground",
+                    "C": "Overvoltage on the voltage-carrying wires",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0B06",
+            "question_group": 0,
+            "question": "Which of the following is covered by the National Electrical Code?",
+            "answers": [
+                {
+                    "A": "Acceptable bandwidth limits",
+                    "B": "Acceptable modulation limits",
+                    "C": "Electrical safety inside the ham shack",
+                    "D": "RF exposure limits of the human body"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0B07",
+            "question_group": 0,
+            "question": "Which of these choices should be observed when climbing a tower using a safety belt or harness?",
+            "answers": [
+                {
+                    "A": "Never lean back and rely on the belt alone to support your weight",
+                    "B": "Confirm that the belt is rated for the weight of the climber and that it is within its allowable service life",
+                    "C": "Ensure that all heavy tools are securely fastened to the belt D-ring",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0B08",
+            "question_group": 0,
+            "question": "What should be done by any person preparing to climb a tower that supports electrically powered devices?",
+            "answers": [
+                {
+                    "A": "Notify the electric company that a person will be working on the tower",
+                    "B": "Make sure all circuits that supply power to the tower are locked out and tagged",
+                    "C": "Unground the base of the tower",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0B09",
+            "question_group": 0,
+            "question": "Which of the following is true of an emergency generator installation?",
+            "answers": [
+                {
+                    "A": "The generator should be located in a well-ventilated area",
+                    "B": "The generator must be insulated from ground",
+                    "C": "Fuel should be stored near the generator for rapid refueling in case of an emergency",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0B10",
+            "question_group": 0,
+            "question": "Which of the following is a danger from lead-tin solder?",
+            "answers": [
+                {
+                    "A": "Lead can contaminate food if hands are not washed carefully after handling the solder",
+                    "B": "High voltages can cause lead-tin solder to disintegrate suddenly",
+                    "C": "Tin in the solder can \u201ccold flow,\u201d causing shorts in the circuit",
+                    "D": "RF energy can convert the lead into a poisonous gas"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0B11",
+            "question_group": 0,
+            "question": "Which of the following is good practice for lightning protection grounds?",
+            "answers": [
+                {
+                    "A": "They must be bonded to all buried water and gas lines",
+                    "B": "Bends in ground wires must be made as close as possible to a right angle",
+                    "C": "Lightning grounds must be connected to all ungrounded wiring",
+                    "D": "They must be bonded together with all other grounds"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0B12",
+            "question_group": 0,
+            "question": "What is the purpose of a power supply interlock?",
+            "answers": [
+                {
+                    "A": "To prevent unauthorized changes to the circuit that would void the manufacturer\u2019s warranty",
+                    "B": "To shut down the unit if it becomes too hot",
+                    "C": "To ensure that dangerous voltages are removed if the cabinet is opened",
+                    "D": "To shut off the power supply if too much voltage is produced"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0B13",
+            "question_group": 0,
+            "question": "What must you do when powering your house from an emergency generator?",
+            "answers": [
+                {
+                    "A": "Disconnect the incoming utility power feed",
+                    "B": "Insure that the generator is not grounded",
+                    "C": "Insure that all lightning grounds are disconnected",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0B14",
+            "question_group": 0,
+            "question": "What precaution should you take whenever you adjust or repair an antenna?",
+            "answers": [
+                {
+                    "A": "Ensure that you and the antenna structure are grounded",
+                    "B": "Turn off the transmitter and disconnect the feed line",
+                    "C": "Wear a radiation badge",
+                    "D": "All these choices are correct"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 0,
