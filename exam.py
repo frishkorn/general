@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # exam.py
-# C. Frishkorn 07/20/2020
-# version: 0.8.119
+# C. Frishkorn 07/26/2020
+# version: 1.0.119
 # ------------------------
 import json
 from random import randint
@@ -71,6 +71,17 @@ def series_mode(selection):
         file_data = json.load(json_file)
         file_data['last_index'] = index
     write_json(file_data)
+
+# 35 Question exam with only a selected number of questions per group.
+def exam_mode(selection):
+    index = len(pool['group_questions'])
+    for x in range(index):
+        print("%d, %s" % (x, pool['group_questions'][str(x)]))
+    # number = 1
+    # while number < 36:
+    #    print(pool['group_questions']['1'])
+    #    print("Question %d: " % number)
+    #    number += 1
 
 def add_question(selection):
     while selection != "N":
@@ -189,7 +200,7 @@ pool = load_pool()
 print(pool['exam_title'])
 print(pool['exam_description'])
 print("Question ID's Show [Correct|Incorrect] Attempts\n")
-selection = input("(A)dd Question, (R)eview, (P)ractice, (S)eries Mode, or E(X)it?: ").upper()
+selection = input("(A)dd Question, (R)eview, (P)ractice, (E)xam Mode, (S)eries Mode, or E(X)it?: ").upper()
 if selection == "A":
     selection = add_question(selection)
     pool = load_pool()
@@ -209,6 +220,9 @@ if selection == "P":
 
 if selection == "S":
     series_mode(selection)
+
+if selection == "E":
+    exam_mode(selection)
 
 if selection == "C":
     print(bcolors.WARNING + "\nAre you sure? This will reset all correct / incorrect attempts!!!" + bcolors.ENDC) 
