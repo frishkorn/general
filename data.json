@@ -6801,6 +6801,86 @@
             "right_answer": "A",
             "cr_attempts": 0,
             "in_attempts": 0
+        },
+        {
+            "question_id": "G9D10",
+            "question_group": 9,
+            "question": "In which direction or directions does an electrically small loop (less than 1/3 wavelength in circumference) have nulls in its radiation pattern?",
+            "answers": [
+                {
+                    "A": "In the plane of the loop",
+                    "B": "Broadside to the loop",
+                    "C": "Broadside and in the plane of the loop",
+                    "D": "Electrically small loops are omnidirectional"
+                }
+            ],
+            "right_answer": "B",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9D11",
+            "question_group": 9,
+            "question": "Which of the following is a disadvantage of multiband antennas?",
+            "answers": [
+                {
+                    "A": "They present low impedance on all design frequencies",
+                    "B": "They must be used with an antenna tuner",
+                    "C": "They must be fed with open wire line",
+                    "D": "They have poor harmonic rejection"
+                }
+            ],
+            "right_answer": "D",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9D12",
+            "question_group": 9,
+            "question": "What is the common name of a dipole with a single central support?",
+            "answers": [
+                {
+                    "A": "Inverted V",
+                    "B": "Inverted L",
+                    "C": "Sloper",
+                    "D": "Lazy H"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G9D13",
+            "question_group": 9,
+            "question": "What is the combined vertical and horizontal polarization pattern of a multi-wavelength, horizontal loop antenna?",
+            "answers": [
+                {
+                    "A": "A figure-eight, similar to a dipole",
+                    "B": "Four major loops with deep nulls",
+                    "C": "Virtually omnidirectional with a lower peak vertical radiation angle than a dipole",
+                    "D": "Radiation maximum is straight up"
+                }
+            ],
+            "right_answer": "C",
+            "cr_attempts": 0,
+            "in_attempts": 0
+        },
+        {
+            "question_id": "G0A01",
+            "question_group": 0,
+            "question": "What is one way that RF energy can affect human body tissue?",
+            "answers": [
+                {
+                    "A": "It heats body tissue",
+                    "B": "It causes radiation poisoning",
+                    "C": "It causes the blood count to reach a dangerously low level",
+                    "D": "It cools body tissue"
+                }
+            ],
+            "right_answer": "A",
+            "cr_attempts": 0,
+            "in_attempts": 0
         }
     ],
     "last_index": 0,
