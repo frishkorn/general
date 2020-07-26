@@ -81,7 +81,12 @@ def exam_mode(selection):
             # Get a question and skip if doesn't match desired question group.
             index = get_random(pool_len)
             if pool['question_pool'][index - 1]['question_group'] == x:
-                print(pool['question_pool'][index - 1]['question_id'])
+                print("\n" + pool['question_pool'][index - 1]['question_id'] + " [" + str(pool['question_pool'][index - 1]['cr_attempts']) + "|" + str(pool['question_pool'][index - 1]['in_attempts']) + "]")
+                print(pool['question_pool'][index - 1]['question'])
+                answer = pool['question_pool'][index - 1]['right_answer']
+                for y in range(4):
+                    letter = answer_letter[y]
+                    print(letter + ": " + pool['question_pool'][index - 1]['answers'][0][letter])
                 remaining -= 1
             else:
                 continue
