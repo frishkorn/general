@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # exam.py
-# C. Frishkorn 07/26/2020
-# version: 1.0.133
+# C. Frishkorn 07/28/2020
+# version: 1.0.149
 # ------------------------
 import json
 from random import randint
@@ -48,7 +48,7 @@ def series_mode(selection):
         answer = pool['question_pool'][index - 1]['right_answer']
         for x in range(4):
             letter = answer_letter[x]
-            print(letter + ": " + pool['question_pool'][index - 1]['answers'][0][letter])
+            print(letter + ": " + pool['question_pool'][index - 1]['answers'][letter])
         entry = input("\nWhat is the correct answer? or e(X)it: ").upper()
         selection = entry
         if entry == answer:
@@ -89,7 +89,7 @@ def exam_mode(selection):
                 answer = pool['question_pool'][index - 1]['right_answer']
                 for y in range(4):
                     letter = answer_letter[y]
-                    print(letter + ": " + pool['question_pool'][index - 1]['answers'][0][letter])
+                    print(letter + ": " + pool['question_pool'][index - 1]['answers'][letter])
                 entry = input("\nWhat is the correct answer? ").upper()
                 if entry == answer:
                     print(bcolors.BOLD + "Correct!" + bcolors.ENDC)
@@ -157,7 +157,7 @@ def review_question(selection):
     while selection != "N":
         index = random_question()
         answer = pool['question_pool'][index - 1]['right_answer']
-        print(answer + ": " + pool['question_pool'][index - 1]['answers'][0][answer])
+        print(answer + ": " + pool['question_pool'][index - 1]['answers'][answer])
         selection = input("\nAnother review question? (Y/N): ").upper()
 
 # Update attempts function.
@@ -191,7 +191,7 @@ def practice_quiz(selection):
         answer = pool['question_pool'][index - 1]['right_answer']
         for x in range(4):
             letter = answer_letter[x]
-            print(letter + ": " + pool['question_pool'][index - 1]['answers'][0][letter])
+            print(letter + ": " + pool['question_pool'][index - 1]['answers'][letter])
         entry = input("\nWhat is the correct answer? or e(X)it: ").upper()
         selection = entry
         if entry == answer:
