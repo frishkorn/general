@@ -15,7 +15,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -79,7 +79,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -95,7 +95,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -127,7 +127,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -175,7 +175,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -271,7 +271,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -319,7 +319,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -367,7 +367,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -511,7 +511,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -527,7 +527,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -576,7 +576,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G1C10",
@@ -591,7 +591,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -607,7 +607,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -623,7 +623,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -639,7 +639,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -687,7 +687,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -751,8 +751,8 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
-            "in_attempts": 1
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G1D06",
@@ -767,7 +767,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -783,7 +783,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -799,7 +799,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -815,7 +815,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -831,7 +831,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -863,7 +863,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -927,7 +927,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -975,7 +975,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -991,7 +991,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1039,7 +1039,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1103,7 +1103,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1119,7 +1119,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1199,7 +1199,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1295,7 +1295,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1343,7 +1343,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1359,7 +1359,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1391,7 +1391,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1407,7 +1407,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1423,7 +1423,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1455,7 +1455,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1519,7 +1519,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1567,7 +1567,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1615,7 +1615,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1647,7 +1647,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1679,7 +1679,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1695,7 +1695,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1727,7 +1727,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1744,7 +1744,7 @@
             ],
             "right_answer": "D",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G2E01",
@@ -1791,7 +1791,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 4,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1823,7 +1823,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1839,7 +1839,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1871,7 +1871,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1903,7 +1903,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1951,7 +1951,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2015,7 +2015,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2031,7 +2031,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2047,7 +2047,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2063,7 +2063,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2128,7 +2128,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G3A10",
@@ -2207,7 +2207,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2255,8 +2255,8 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
-            "in_attempts": 1
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G3B04",
@@ -2271,7 +2271,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2335,7 +2335,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2383,7 +2383,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2399,7 +2399,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2415,7 +2415,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2431,7 +2431,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2447,8 +2447,8 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
-            "in_attempts": 1
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G3C05",
@@ -2463,7 +2463,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2495,7 +2495,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2511,7 +2511,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2559,7 +2559,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2671,7 +2671,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2687,7 +2687,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2703,7 +2703,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2735,7 +2735,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2831,7 +2831,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2895,7 +2895,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2911,7 +2911,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2927,7 +2927,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2959,7 +2959,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2991,7 +2991,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3023,7 +3023,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3039,7 +3039,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3120,7 +3120,7 @@
             ],
             "right_answer": "C",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G4C04",
@@ -3135,7 +3135,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3215,7 +3215,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3247,7 +3247,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3263,7 +3263,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3279,7 +3279,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3295,7 +3295,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3343,7 +3343,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3359,7 +3359,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3439,7 +3439,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3455,7 +3455,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3471,7 +3471,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3519,7 +3519,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3535,7 +3535,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3551,7 +3551,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3599,7 +3599,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3631,7 +3631,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3680,7 +3680,7 @@
             ],
             "right_answer": "D",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G5A04",
@@ -3791,7 +3791,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3824,7 +3824,7 @@
             ],
             "right_answer": "B",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G5B02",
@@ -3855,7 +3855,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3903,7 +3903,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3920,7 +3920,7 @@
             ],
             "right_answer": "C",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G5B08",
@@ -3984,7 +3984,7 @@
             ],
             "right_answer": "B",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G5B12",
@@ -4047,7 +4047,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4063,8 +4063,8 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
-            "in_attempts": 1
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G5C03",
@@ -4095,7 +4095,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4160,7 +4160,7 @@
             ],
             "right_answer": "D",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G5C09",
@@ -4207,7 +4207,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4272,7 +4272,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G5C16",
@@ -4304,7 +4304,7 @@
             ],
             "right_answer": "C",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G5C18",
@@ -4319,7 +4319,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4351,7 +4351,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4367,7 +4367,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4399,7 +4399,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4415,7 +4415,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4432,7 +4432,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G6A08",
@@ -4479,7 +4479,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4575,7 +4575,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4591,7 +4591,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4607,7 +4607,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4767,7 +4767,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4783,7 +4783,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4831,7 +4831,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4847,7 +4847,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4863,7 +4863,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4895,7 +4895,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4911,7 +4911,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4976,7 +4976,7 @@
             ],
             "right_answer": "B",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G7B02",
@@ -5040,7 +5040,7 @@
             ],
             "right_answer": "C",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G7B06",
@@ -5103,7 +5103,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5136,7 +5136,7 @@
             ],
             "right_answer": "B",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G7C01",
@@ -5151,8 +5151,8 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
-            "in_attempts": 1
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G7C02",
@@ -5231,7 +5231,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5280,7 +5280,7 @@
             ],
             "right_answer": "B",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G7C10",
@@ -5327,7 +5327,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5343,7 +5343,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5391,7 +5391,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5423,7 +5423,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5439,7 +5439,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5455,7 +5455,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5487,7 +5487,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5535,7 +5535,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5583,7 +5583,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5631,7 +5631,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5679,7 +5679,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5695,8 +5695,8 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
-            "in_attempts": 1
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G8B08",
@@ -5871,7 +5871,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5903,7 +5903,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5919,7 +5919,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5951,7 +5951,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5967,7 +5967,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5983,7 +5983,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6031,7 +6031,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6144,7 +6144,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G9A10",
@@ -6175,7 +6175,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6223,7 +6223,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6239,7 +6239,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6271,7 +6271,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6319,8 +6319,8 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
-            "in_attempts": 1
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G9B08",
@@ -6335,7 +6335,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6351,7 +6351,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6431,7 +6431,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6496,7 +6496,7 @@
             ],
             "right_answer": "D",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G9C07",
@@ -6511,8 +6511,8 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
-            "in_attempts": 1
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G9C08",
@@ -6527,7 +6527,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6543,7 +6543,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6559,7 +6559,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6575,7 +6575,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6591,7 +6591,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 4,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6607,7 +6607,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6624,7 +6624,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G9C15",
@@ -6639,7 +6639,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6655,7 +6655,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6671,7 +6671,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 3,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6687,7 +6687,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6703,7 +6703,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6719,7 +6719,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6735,7 +6735,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6752,7 +6752,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G9D07",
@@ -6768,7 +6768,7 @@
             ],
             "right_answer": "A",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G9D08",
@@ -6783,7 +6783,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6799,7 +6799,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6816,7 +6816,7 @@
             ],
             "right_answer": "B",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G9D11",
@@ -6831,7 +6831,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6847,7 +6847,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6863,8 +6863,8 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
-            "in_attempts": 1
+            "cr_attempts": 0,
+            "in_attempts": 0
         },
         {
             "question_id": "G0A01",
@@ -6879,7 +6879,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6895,7 +6895,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6911,7 +6911,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 3,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6927,7 +6927,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6943,7 +6943,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6959,7 +6959,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6975,7 +6975,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6991,7 +6991,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7007,7 +7007,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7023,7 +7023,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7039,7 +7039,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 3,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7055,7 +7055,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7071,7 +7071,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7087,7 +7087,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7103,7 +7103,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7119,7 +7119,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7135,7 +7135,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7152,7 +7152,7 @@
             ],
             "right_answer": "B",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G0B08",
@@ -7167,7 +7167,7 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7183,7 +7183,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7199,7 +7199,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7215,7 +7215,7 @@
                 }
             ],
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7231,7 +7231,7 @@
                 }
             ],
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7247,7 +7247,7 @@
                 }
             ],
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -7263,11 +7263,11 @@
                 }
             ],
             "right_answer": "B",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         }
     ],
-    "last_index": 406,
+    "last_index": 0,
     "group_questions": {
         "1": 5,
         "2": 5,
