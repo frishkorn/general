@@ -18,7 +18,7 @@ class bcolors:
     ENDC = '\033[0m'
 
 # JSON write function (pretty print).
-def write_json(data, filename='data.json'):
+def write_json(data, filename):
     with open(filename,'w') as f:
         json.dump(data, f, indent=4)
 
@@ -28,7 +28,9 @@ def store_result(score):
     result = {'date':now.strftime("%m/%d/%Y"),'time':now.strftime("%H:%M:%S"),'score':score}
     with open('scores.json') as json_file:
         file_data = json.load(json_file)
-        print(file_data)
+        temp = file_data['score_history']
+        temp.append(result)
+        write_json(file_data, 'scores.json')
 
 # Get random function.
 def get_random(length):
@@ -79,7 +81,7 @@ def series_mode(selection):
     with open('data.json') as json_file:
         file_data = json.load(json_file)
         file_data['last_index'] = index
-    write_json(file_data)
+    write_json(file_data, 'data.json')
 
 # 35 Question exam with only a selected number of questions per group.
 # TO:DO - Add a time limit of 45 minutes for FCC test. Make configurable?
@@ -159,7 +161,7 @@ def add_question(selection):
             file_data = json.load(json_file)
             temp = file_data['question_pool']
             temp.append(question_data)
-        write_json(file_data)
+        write_json(file_data, 'data.json')
 
         # Ask user if they would like to enter another question / answer.
         selection = input("\nWould you like to add another question? (Y/N): ").upper()
@@ -183,7 +185,7 @@ def update_attempt(result, index):
             temp[index - 1]['cr_attempts'] = temp[index - 1]['cr_attempts'] + 1
         else:
             temp[index - 1]['in_attempts'] = temp[index - 1]['in_attempts'] + 1
-    write_json(file_data)
+    write_json(file_data, 'data.json')
 
 def reset_attempts():
     with open('data.json') as json_file:
@@ -194,7 +196,7 @@ def reset_attempts():
             temp[x]['cr_attempts'] = 0
             temp[x]['in_attempts'] = 0
             file_data['last_index'] = 0
-    write_json(file_data)
+    write_json(file_data, 'data.json')
 
 def practice_quiz(selection):
     total_num = 0

@@ -1,9 +1,9 @@
 {
     "score_history": [
         {
-            "date": "test",
-            "time": "test",
-            "score": 100.0
+            "date": "",
+            "time": "",
+            "score": 0
         }
     ]
 }
