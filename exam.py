@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # exam.py
-# C. Frishkorn 07/28/2020
-# version: 1.0.149
+# C. Frishkorn 07/29/2020
+# version: 1.0.150
 # ------------------------
 import json
 from random import randint
@@ -78,12 +78,15 @@ def exam_mode(selection):
     size = len(pool['group_questions'])
     total_num = 0
     num_wrong = 0
+    attempted = []
     for x in range(size):
         remaining = pool['group_questions'][str(x)]
         while remaining != 0:
             # Get a question and skip if doesn't match desired question group.
             index = get_random(pool_len)
-            if pool['question_pool'][index - 1]['question_group'] == x:
+            if index in attempted:
+                continue
+            elif pool['question_pool'][index - 1]['question_group'] == x:
                 print("\n" + pool['question_pool'][index - 1]['question_id'] + " [" + str(pool['question_pool'][index - 1]['cr_attempts']) + "|" + str(pool['question_pool'][index - 1]['in_attempts']) + "]")
                 print(pool['question_pool'][index - 1]['question'])
                 answer = pool['question_pool'][index - 1]['right_answer']
@@ -103,6 +106,7 @@ def exam_mode(selection):
                 total_num += 1
             else:
                 continue
+            attempted.append(index)
     score = (((total_num - num_wrong) / total_num) * 100)
     final = "\nYour score was "
     if num_wrong != 0:
