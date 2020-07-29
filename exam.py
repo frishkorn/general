@@ -6,6 +6,7 @@
 # ------------------------
 import json
 from random import randint
+from datetime import datetime
 
 answer_letter = {0:"A", 1:"B", 2:"C", 3:"D"}
 
@@ -20,6 +21,14 @@ class bcolors:
 def write_json(data, filename='data.json'):
     with open(filename,'w') as f:
         json.dump(data, f, indent=4)
+
+def store_result(score):
+    now = datetime.now()
+    score = float("{:.1f}".format(score))
+    result = {'date':now.strftime("%m/%d/%Y"),'time':now.strftime("%H:%M:%S"),'score':score}
+    with open('scores.json') as json_file:
+        file_data = json.load(json_file)
+        print(file_data)
 
 # Get random function.
 def get_random(length):
@@ -118,6 +127,7 @@ def exam_mode(selection):
             print(final + bcolors.BOLD + "{:.1f}".format(score) + "%" + bcolors.ENDC + "!")
     else:
         print(final + bcolors.BOLD + "100%" + bcolors.ENDC + "!")
+    store_result(score)
 
 def add_question(selection):
     while selection != "N":
