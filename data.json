@@ -13,7 +13,7 @@
                 "D": "160 meters, 30 meters, 17 meters, 15 meters, 12 meters, and 10 meters"
             },
             "right_answer": "C",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -27,7 +27,7 @@
                 "D": "12 meters"
             },
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -84,7 +84,7 @@
             },
             "right_answer": "C",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G1A07",
@@ -139,7 +139,7 @@
                 "D": "All these choices are correct"
             },
             "right_answer": "D",
-            "cr_attempts": 2,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -279,7 +279,7 @@
                 "D": "All these choices are correct"
             },
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -601,7 +601,7 @@
                 "D": "Only persons who once held an FCC issued Novice, Technician, or Technician Plus license"
             },
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -629,7 +629,7 @@
                 "D": "On any General or Technician class band segment except 30 meters and 60 meters"
             },
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -685,7 +685,7 @@
                 "D": "The Wireless Telecommunications Bureau"
             },
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -699,7 +699,7 @@
                 "D": "None of these choices is correct; a non-U.S. citizen cannot be a Volunteer Examiner"
             },
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -741,7 +741,7 @@
                 "D": "The applicant must pass the current Element 2 exam"
             },
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -994,7 +994,7 @@
             },
             "right_answer": "B",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G2A08",
@@ -1231,7 +1231,7 @@
                 "D": "Transmitting stations can receive between code characters and elements"
             },
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1329,7 +1329,7 @@
                 "D": "KN"
             },
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1427,7 +1427,7 @@
                 "D": "A map that shows the number of degrees longitude that an amateur satellite appears to move westward at the equator with each orbit"
             },
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1469,7 +1469,7 @@
                 "D": "Alpha, Bravo, Charlie, Delta"
             },
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1833,7 +1833,7 @@
                 "D": "At any point in the solar cycle"
             },
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -1861,7 +1861,7 @@
                 "D": "Reduced long delayed echoes"
             },
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2099,7 +2099,7 @@
                 "D": "The F2 layer"
             },
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2365,7 +2365,7 @@
                 "D": "To allow time for a warning signal to be sent to other stations"
             },
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2393,7 +2393,7 @@
                 "D": "To tune in stations that are slightly off frequency without changing your transmit frequency"
             },
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2715,7 +2715,7 @@
                 "D": "Using a balun to feed an unbalanced antenna"
             },
             "right_answer": "C",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -2757,7 +2757,7 @@
                 "D": "The ground wire has high impedance on that frequency"
             },
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3163,7 +3163,7 @@
                 "D": "The diode greatly increases the efficiency during times of high illumination"
             },
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3275,7 +3275,7 @@
                 "D": "The source can deliver maximum power to the load"
             },
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3289,7 +3289,7 @@
                 "D": "To minimize radiation resistance"
             },
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3457,7 +3457,7 @@
                 "D": "34 volts"
             },
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -3947,7 +3947,7 @@
                 "D": "To decrease plate resistance"
             },
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4059,7 +4059,7 @@
                 "D": "Analog"
             },
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4227,7 +4227,7 @@
                 "D": "360 degrees"
             },
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4353,7 +4353,7 @@
                 "D": "To keep the carrier on frequency"
             },
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4690,7 +4690,7 @@
             },
             "right_answer": "A",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G7C15",
@@ -4829,7 +4829,7 @@
                 "D": "Excessive bandwidth"
             },
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -4956,7 +4956,7 @@
             },
             "right_answer": "D",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G8B06",
@@ -5152,7 +5152,7 @@
             },
             "right_answer": "B",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G8C08",
@@ -5529,7 +5529,7 @@
                 "D": "It is unaffected by the height above ground"
             },
             "right_answer": "B",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5726,7 +5726,7 @@
             },
             "right_answer": "B",
             "cr_attempts": 0,
-            "in_attempts": 1
+            "in_attempts": 0
         },
         {
             "question_id": "G9C10",
@@ -5893,7 +5893,7 @@
                 "D": "It narrows the main lobe in elevation"
             },
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -5949,7 +5949,7 @@
                 "D": "Portable direction finding at lower HF frequencies"
             },
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6061,7 +6061,7 @@
                 "D": "The total RF exposure averaged over a certain time"
             },
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6089,7 +6089,7 @@
                 "D": "It should be installed such that it is protected against unauthorized access"
             },
             "right_answer": "D",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6131,7 +6131,7 @@
                 "D": "An oscilloscope with a high-stability crystal marker generator"
             },
             "right_answer": "B",
-            "cr_attempts": 3,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6173,7 +6173,7 @@
                 "D": "All wires"
             },
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
@@ -6299,7 +6299,7 @@
                 "D": "RF energy can convert the lead into a poisonous gas"
             },
             "right_answer": "A",
-            "cr_attempts": 1,
+            "cr_attempts": 0,
             "in_attempts": 0
         },
         {
