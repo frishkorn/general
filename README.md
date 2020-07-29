@@ -10,8 +10,9 @@
 * S - Series Mode - Starts from the last question in the pool and continues through the whole list. Remembers where you left off.
 * X - Exit.
 
-- data.json is the question file and data file.
-- scores.json is a list of attempts you've made with the date, the time, and the score.
+data.json is the question file and data file.
+
+scores.json is a list of attempts you've made with the date, the time, and the score.
 
 NOTE: You can clear all attempts and reset series mode by pressing C.
 
